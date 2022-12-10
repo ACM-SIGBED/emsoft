@@ -1,0 +1,26 @@
+# EMSOFT 2007 - Program Committee
+* Alur, Rajeev
+* Benini, Luca
+* Benveniste, Albert
+* Brinksma, Ed
+* Carloni, Luca
+* Heiser, Gernot
+* Jonsson, Bengt
+* Kirsch, Christoph
+* Lee, Jaejin
+* Li, Wei
+* Maraninchi, Florence
+* Mossé, Daniel
+* Palsberg, Jens
+* Pappas, George
+* Pop, Paul
+* Ramalingam, G.
+* Regehr, John
+* Srikant, Y.N.
+* Tansley, Stewart
+* Thiagarajan, P.S.
+* Thiele, Lothar
+* Tripakis, Stavros
+* Vaandrager, Frits
+* Wilhelm, Reinhard
+* Wolf, Wayne

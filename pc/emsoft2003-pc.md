@@ -1,0 +1,21 @@
+# EMSOFT 2003 - Program Committee
+* Alur, Rajeev
+* Benveniste, Albert
+* Buttazzo, Giorgio
+* Ernst, Rolf
+* Hansson, Hans
+* Kim, Kane
+* Kopetz, Hermann
+* Lavagno, Luciano
+* Lee, Edward
+* Lee, Insup
+* Malik, Sharad
+* Palsberg, Jens
+* Pnueli, Amir
+* Rinard, Martin
+* Shin, Heonshik
+* Shin, Kang
+* Stankovic, John
+* Sztipanovits, Janos
+* Wolf, Wayne
+* Yovine, Sergio
