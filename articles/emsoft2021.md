@@ -1,5 +1,5 @@
 # EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
-Thi Xuan Phan, Linh | David Broman
+Phan, Linh Thi Xuan | David Broman
 
 ## Real-time Attack-recovery for Cyber-physical Systems Using Linear-quadratic Regulator
 Zhang, Lin | Lu, Pengyuan | Kong, Fanxin | Chen, Xin | Sokolsky, Oleg | Lee, Insup

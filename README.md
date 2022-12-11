@@ -12,6 +12,7 @@ payment), either by submitting a pull request or sending an
 * EMSOFT 2020: [articles](articles/emsoft2020.md), [pc](pc/emsoft2020-pc.md)
 * EMSOFT 2019: [articles](articles/emsoft2019.md), [pc](pc/emsoft2019-pc.md)
 * EMSOFT 2018: [articles](articles/emsoft2018.md), [pc](pc/emsoft2018-pc.md)
+* EMSOFT 2017: [articles](articles/emsoft2017.md), [pc](pc/emsoft2017-pc.md)
 
 ## Format
 

@@ -1,5 +1,5 @@
 # EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
-Bourke, Timothy | Thi Xuan Phan, Linh
+Bourke, Timothy | Phan, Linh Thi Xuan
 
 ## Enabling Latency-aware Data Initialization for Integrated CPU/GPU Heterogeneous Platform
 Wang, Zhendong | Jiang, Zihang | Wang, Zhen | Tang, Xulong | Liu, Cong | Yin, Shouyi | Hu, Yang
