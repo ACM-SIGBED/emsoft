@@ -1,5 +1,5 @@
 # EMSOFT 2011 - Program Committee
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Fischmeister, Sebastian
 * Abdelzaher, Tarek
 * Almeida, Luis

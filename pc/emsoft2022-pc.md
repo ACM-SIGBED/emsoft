@@ -3,7 +3,7 @@
 * Pagetti, Claire
 * Andersson, James
 * Bak, Stanley
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Beutel, Jan
 * Biondi, Alessandro
 * Bourke, Timothy

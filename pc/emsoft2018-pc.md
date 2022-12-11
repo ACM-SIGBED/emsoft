@@ -2,7 +2,7 @@
 * Abbas, Houssam
 * Abdelzaher, Tarek
 * Bai, Xue
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Biondi, Alessandro
 * Bogomolov, Sergiy
 * Bonakdarpour, Borzoo

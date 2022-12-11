@@ -13,6 +13,22 @@ payment), either by submitting a pull request or sending an
 * EMSOFT 2019: [articles](articles/emsoft2019.md), [pc](pc/emsoft2019-pc.md)
 * EMSOFT 2018: [articles](articles/emsoft2018.md), [pc](pc/emsoft2018-pc.md)
 * EMSOFT 2017: [articles](articles/emsoft2017.md), [pc](pc/emsoft2017-pc.md)
+* EMSOFT 2016: [articles](articles/emsoft2016.md), [pc](pc/emsoft2016-pc.md)
+* EMSOFT 2015: [articles](articles/emsoft2015.md), [pc](pc/emsoft2015-pc.md)
+* EMSOFT 2014: [articles](articles/emsoft2014.md), [pc](pc/emsoft2014-pc.md)
+* EMSOFT 2013: [articles](articles/emsoft2013.md), [pc](pc/emsoft2013-pc.md)
+* EMSOFT 2012: [articles](articles/emsoft2012.md), [pc](pc/emsoft2012-pc.md)
+* EMSOFT 2011: [articles](articles/emsoft2011.md), [pc](pc/emsoft2011-pc.md)
+* EMSOFT 2010: [articles](articles/emsoft2010.md), [pc](pc/emsoft2010-pc.md)
+* EMSOFT 2009: [articles](articles/emsoft2009.md), [pc](pc/emsoft2009-pc.md)
+* EMSOFT 2008: [articles](articles/emsoft2008.md), [pc](pc/emsoft2008-pc.md)
+* EMSOFT 2007: [articles](articles/emsoft2007.md), [pc](pc/emsoft2007-pc.md)
+* EMSOFT 2006: [articles](articles/emsoft2006.md), [pc](pc/emsoft2006-pc.md)
+* EMSOFT 2005: [articles](articles/emsoft2005.md), [pc](pc/emsoft2005-pc.md)
+* EMSOFT 2004: [articles](articles/emsoft2004.md), [pc](pc/emsoft2004-pc.md)
+* EMSOFT 2003: [articles](articles/emsoft2003.md), [pc](pc/emsoft2003-pc.md)
+* EMSOFT 2002: [articles](articles/emsoft2002.md), [pc](pc/emsoft2002-pc.md)
+* EMSOFT 2001: [articles](articles/emsoft2001.md), [pc](pc/emsoft2001-pc.md)
 
 ## Format
 

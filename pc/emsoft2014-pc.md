@@ -2,7 +2,7 @@
 * Mitra, Tulika
 * Reineke, Jan
 * Bacivarov, Iuliana
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Bekooij, Marco
 * Carloni, Luca
 * Cerny, Pavol

@@ -3,7 +3,7 @@
 * Guan, Nan
 * Abdelzaher, Tarek
 * Årzén, Karl-Erik
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Bourke, Timothy
 * Brandenburg, Björn
 * Chakraborty, Samarjit

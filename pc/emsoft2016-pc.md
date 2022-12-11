@@ -4,7 +4,7 @@
 * Abeni, Luca
 * Almeida, Luis
 * Årzén, Karl-Erik
-* Baruah, Sanjoy
+* Baruah, Sanjoy K.
 * Bini, Enrico
 * Bogdan, Paul
 * Bourke, Timothy
