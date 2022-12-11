@@ -7,6 +7,7 @@ available versions of the articles, either by submitting a pull request or
 sending an [email](mailto:timothy.bourke@inria.fr).
 
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
+* EMSOFT 2021: [articles](articles/emsoft2021.md), [pc](pc/emsoft2021-pc.md)
 
 ## Format
 
