@@ -2,12 +2,14 @@
 
 This repository contains metadata for the EMSOFT conference.
 
-Feel free to correct the content and especially to provide links to freely 
-available versions of the articles, either by submitting a pull request or 
-sending an [email](mailto:timothy.bourke@inria.fr).
+Feel free to correct the content and especially to provide links to the 
+author's versions of the articles (access must not require registration or 
+payment), either by submitting a pull request or sending an 
+[email](mailto:timothy.bourke@inria.fr).
 
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
 * EMSOFT 2021: [articles](articles/emsoft2021.md), [pc](pc/emsoft2021-pc.md)
+* EMSOFT 2020: [articles](articles/emsoft2020.md), [pc](pc/emsoft2020-pc.md)
 
 ## Format
 
@@ -22,7 +24,7 @@ names are separated by vertical bars (`|`).
     1. A header (`h2`) with the article title
     2. A list of author names
     3. `* DOI: [doi](https://doi.org/doi)`
-    4. *optional*: `* [URL](link-to-freely-available-full-paper-content)`
+    4. *optional*: `* [URL](link-to-freely-available-author-version)`
 
 ### Program committee files
 1. A header (`h1`) naming the conference.
