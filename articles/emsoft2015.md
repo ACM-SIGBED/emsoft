@@ -60,6 +60,7 @@ Lee, Edward A. | Niknami, Mehrdad | Nouidui, Thierry S. | Wetter, Michael
 ## Building a hybrid systems modeler from synchronous language principles
 Pouzet, Marc
 * DOI: [10.1109/EMSOFT.2015.7318267](https://doi.org/10.1109/EMSOFT.2015.7318267)
+* URL: <https://www.di.ens.fr/~pouzet/bib/emsoft15-talk.pdf>
 
 ## Formal verification of ACAS X, an industrial airborne collision avoidance system
 Jeannin, Jean-Baptiste | Ghorbal, Khalil | Kouskoulas, Yanni | Gardner, Ryan W. | Schmidt, Aurora C. | Zawadzki, Erik | Platzer, André

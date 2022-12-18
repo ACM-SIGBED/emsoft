@@ -114,7 +114,7 @@ Jung, Changhee | Woo, Duk-Kyun | Kim, Kanghee | Lim, Sung-Soo
 ## E-FRP with priorities
 Kaiabachev, Roumen | Taha, Walid | Zhu, Angela Yun
 * DOI: [10.1145/1289927.1289963](https://doi.org/10.1145/1289927.1289963)
-* URL: <http://www.cecs.uci.edu/~papers/esweek07/emsoft/p221.pdf>
+* URL: <https://github.com/maroneal/www/raw/master/publications/conference/emsoft07.pdf>
 
 ## Loosely time-triggered architectures based on communication-by-sampling
 Benveniste, Albert | Caspi, Paul | Di Natale, Marco | Pinello, Claudio | Sangiovanni-Vincentelli, Alberto L. | Tripakis, Stavros
