@@ -6,3 +6,6 @@ validate:
 rewrite:
 	@for f in articles/*.md; do $(PROCPROC) $$f --output $$f; done
 
+authors:
+	$(PROCPROC) articles/*.md --print-authors | sort | uniq
+

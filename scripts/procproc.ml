@@ -31,6 +31,10 @@ let output_name out { last; first } =
   output_string out ", ";
   output_string out first
 
+let output_name_endline out name =
+  output_name out name;
+  output_char out '\n'
+
 let rec output_names out names =
   match names with
   | []    -> ()
@@ -222,11 +226,19 @@ let to_output f filename =
   try f fout; close_out fout
   with e -> (close_out fout; raise e)
 
+let print_authors outc =
+  List.(iter (fun { articles; _ } ->
+                iter (fun { authors; _ } ->
+                  iter (output_name_endline outc) authors) articles)
+        (rev !conferences))
+
 let _ = Arg.parse [
     ("--print", Arg.Unit (fun () -> output_conferences stdout),
      "print conferences to stdout");
     ("--output", Arg.String (to_output output_conferences),
      "write conferences to file");
+    ("--print-authors", Arg.Unit (fun () -> print_authors stdout),
+     "print authors to stdout");
   ]
   load_file
   "procproc: process article files"
