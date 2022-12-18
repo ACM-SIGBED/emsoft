@@ -1,5 +1,7 @@
 # EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
 Girault, Alain | Guan, Nan
+* At: Amsterdam, The Netherlands
+* Published: [IEEE](https://ieeexplore.ieee.org/xpl/conhome/7313572/proceeding)
 
 ## The federated scheduling of systems of conditional sporadic DAG tasks
 Baruah, Sanjoy K.

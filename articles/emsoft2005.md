@@ -1,5 +1,7 @@
 # EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
 Wolf, Wayne H.
+* At: Jersey City, NJ, USA
+* Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1086228)
 
 ## HAIL: a language for easy and correct device access
 Sun, Jun | Yuan, Wanghong | Kallahalla, Mahesh | Islam, Nayeem

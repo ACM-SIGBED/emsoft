@@ -1,5 +1,7 @@
 # EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
 Brandenburg, Björn B. | Sankaranarayanan, Sriram
+* At: Torino, Italy
+* Published: [IEEE TCAD, Vol. 37, No. 11](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8496924&punumber=43)
 
 ## Bounding DRAM Interference in COTS Heterogeneous MPSoCs for Mixed Criticality Systems
 Hassan, Mohamed | Pellizzoni, Rodolfo

@@ -1,5 +1,7 @@
 # EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
 Mitra, Tulika | Reineke, Jan
+* At: New Delhi, India
+* Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/2656045)
 
 ## Exponentially timed SADF: Compositional semantics, reductions, and analysis
 Katoen, Joost-Pieter | Wu, Hao

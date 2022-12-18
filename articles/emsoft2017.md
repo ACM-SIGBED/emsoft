@@ -1,5 +1,7 @@
 # EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
 de Simone, Robert | Brandenburg, Björn B.
+* At: Seoul, South Korea
+* Published: [ACM TECS, Vol. 16, No. 5s](https://dl.acm.org/toc/tecs/2017/16/5s)
 
 ## MC-ADAPT: Adaptive Task Dropping in Mixed-Criticality Scheduling
 Lee, Jaewoo | Chwa, Hoon Sung | Phan, Linh Thi Xuan | Shin, Insik | Lee, Insup

@@ -1,5 +1,7 @@
 # EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
 Maraninchi, Florence | Regehr, John
+* At: Tampere, Finland
+* Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/2380356)
 
 ## Debugging embedded multimedia application traces through periodic pattern mining
 López Cueva, Patricia | Bertaux, Aurélie | Termier, Alexandre | Méhaut, Jean-François | Santana, Miguel

@@ -1,5 +1,7 @@
 # EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
 Chakraborty, Samarjit | Halbwachs, Nicolas
+* At: Grenoble, France
+* Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1629335)
 
 ## Aggressive dynamic voltage scaling for energy-aware video playback based on decoding time estimation
 Yang, Ahron | Song, Minseok

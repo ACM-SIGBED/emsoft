@@ -1,5 +1,7 @@
 # EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 Henzinger, Thomas A. | Kirsch, Christoph M.
+* At: Tahoe City, CA, USA
+* Published: [LNCS, volume 2211](https://link.springer.com/book/10.1007/3-540-45449-7)
 
 ## Heterogeneous Modeling Support for Embedded Systems Design
 Alexander, Perry | Kong, Cindy

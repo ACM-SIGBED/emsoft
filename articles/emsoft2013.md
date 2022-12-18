@@ -1,5 +1,7 @@
 # EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
 Ernst, Rolf | Sokolsky, Oleg
+* At: Montreal, Canada
+* Published: [IEEE](https://ieeexplore.ieee.org/xpl/conhome/6648479/proceeding)
 
 ## A synchronous embedding of Antescofo, a domain-specific language for interactive mixed music
 Baudart, Guillaume | Jacquemard, Florent | Mandel, Louis | Pouzet, Marc
