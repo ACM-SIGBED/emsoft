@@ -33,7 +33,7 @@ Zeinali Zadeh, Mohammad Mehdi | Salem, Mahmoud | Kumar, Neeraj | Cutulenco, Gret
 * URL: <https://uwaterloo.ca/embedded-software-group/sites/ca.embedded-software-group/files/uploads/files/emsoft2014-dsp-anomaly.pdf>
 
 ## Blaming in component-based real-time systems
-Goessler, Gregor | Aştefănoaei, Lăcrămioara 
+Goessler, Gregor | Aştefănoaei, Lăcrămioara
 * DOI: [10.1145/2656045.2656048](https://doi.org/10.1145/2656045.2656048)
 * URL: <https://hal.inria.fr/hal-01078214/document>
 

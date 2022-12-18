@@ -38,8 +38,7 @@ Bui, Minh Duc
 * DOI: [10.1145/1086228.1086237](https://doi.org/10.1145/1086228.1086237)
 * URL: <http://cecs.uci.edu/~papers/emsoft0405/docs05/p44.pdf>
 
-## From Statecharts to ESP*: Programming With Events, States and Predicates 
-for Embedded Systems
+## From Statecharts to ESP*: Programming With Events, States and Predicates for Embedded Systems
 Sreedhar, Vugranam C. | Marinescu, Maria-Cristina V.
 * DOI: [10.1145/1086228.1086238](https://doi.org/10.1145/1086228.1086238)
 * URL: <https://people.csail.mit.edu/mariacristina/research/p48.pdf>

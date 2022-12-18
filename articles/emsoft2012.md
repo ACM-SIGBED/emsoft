@@ -31,7 +31,7 @@ Giannopoulou, Georgia | Lampka, Kai | Stoimenov, Nikolay | Thiele, Lothar
 * DOI: [10.1145/2380356.2380372](https://doi.org/10.1145/2380356.2380372)
 
 ## Server-based scheduling of parallel real-time tasks
-Nogueira, Luís | Pinho, Luís Miguel 
+Nogueira, Luís | Pinho, Luís Miguel
 * DOI: [10.1145/2380356.2380374](https://doi.org/10.1145/2380356.2380374)
 * URL: <https://cister-labs.pt/docs/server_based_scheduling_of_parallel_real_time_tasks/727/view.pdf>
 

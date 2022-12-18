@@ -205,6 +205,7 @@ let conferences = ref []
 
 let load_file filename =
   let fin = open_in filename in
+  reset_filename filename;
   conferences := read_conference fin :: !conferences;
   close_in fin
 

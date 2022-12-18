@@ -1,5 +1,5 @@
 # EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
-Phan, Linh Thi Xuan | David Broman
+Phan, Linh Thi Xuan | Broman, David
 * At: Online
 * Published: [ACM TECS, Vol. 20, No. 5s](https://dl.acm.org/toc/tecs/2021/20/5s)
 

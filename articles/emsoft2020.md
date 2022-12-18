@@ -13,7 +13,6 @@ Vilardell, Sergi | Serra, Isabel | Santalla, Roberto | Mezzetti, Enrico | Abella
 * DOI: [10.1109/TCAD.2020.3013051](https://doi.org/10.1109/TCAD.2020.3013051)
 * URL: <https://upcommons.upc.edu/bitstream/handle/2117/327538/HRM_SVilardell.pdf>
 
-
 ## Error Diluting: Exploiting 3-D nand Flash Process Variation for Efficient Read on LDPC-Based SSDs
 Yong, Kong-Kiat | Chang, Li-Pin
 * DOI: [10.1109/TCAD.2020.3012646](https://doi.org/10.1109/TCAD.2020.3012646)

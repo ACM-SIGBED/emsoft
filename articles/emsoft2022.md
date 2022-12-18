@@ -1,5 +1,5 @@
 # EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
-Broman, David | Pagetti Claire
+Broman, David | Pagetti, Claire
 * At: Online + Shanghai, China
 * Published: [IEEE TCAD, Vol. 41, No. 11](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9928799&punumber=43)
 
@@ -16,16 +16,16 @@ Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Bio
 * DOI: [10.1109/TCAD.2022.3202434](https://doi.org/10.1109/TCAD.2022.3202434)
 
 ## Toward Register Spilling Security Using LLVM and ARM Pointer Authentication
-Fanti, Andrea | Chinea Perez, Carlos | Denis-Courmont, Remi | Roascio, Gianluca | Ekberg, Jan-Erik |
+Fanti, Andrea | Chinea Perez, Carlos | Denis-Courmont, Remi | Roascio, Gianluca | Ekberg, Jan-Erik
 * DOI: [10.1109/TCAD.2022.3197511](https://doi.org/10.1109/TCAD.2022.3197511)
 
 ## Safety Analysis of Embedded Controllers Under Implementation Platform Timing Uncertainties
-Hobbs, Clara | Ghosh, Bineet | Xu, Shengjie | Duggirala, Parasara Sridhar | Chakraborty, Samarjit |
+Hobbs, Clara | Ghosh, Bineet | Xu, Shengjie | Duggirala, Parasara Sridhar | Chakraborty, Samarjit
 * DOI: [10.1109/TCAD.2022.3198905](https://doi.org/10.1109/TCAD.2022.3198905)
 * URL: <https://www.cs.unc.edu/~samarjit/papers/emsoft2022.pdf>
 
 ## Verified Train Controllers for the Federal Railroad Administration Train Kinematics Model: Balancing Competing Brake and Track Forces
-Kabra, Aditi | Mitsch, Stefan | Platzer, André |
+Kabra, Aditi | Mitsch, Stefan | Platzer, André
 * DOI: [10.1109/TCAD.2022.3197690](https://doi.org/10.1109/TCAD.2022.3197690)
 
 ## Verifying Controllers With Vision-Based Perception Using Safe Approximate Abstractions
@@ -68,7 +68,7 @@ Pazzaglia, Paolo | Maggio, Martina
 * DOI: [10.1109/TCAD.2022.3199146](https://doi.org/10.1109/TCAD.2022.3199146)
 
 ## MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing
-Xu, Yiwen | Yin, Zijing | Hou, Yiwei | Liu, Jianzhong | Jiang, Yu |
+Xu, Yiwen | Yin, Zijing | Hou, Yiwei | Liu, Jianzhong | Jiang, Yu
 * DOI: [10.1109/TCAD.2022.3200908](https://doi.org/10.1109/TCAD.2022.3200908)
 
 ## DynLiB: Maximizing Energy Availability of Hybrid Li-ion Battery Systems
@@ -84,7 +84,7 @@ Fu, Chenchen | Lu, Xinhang | Qiu, Xiaoxing | Sun, Sujunjie | Xu, Xueyong | Wu, W
 * DOI: [10.1109/TCAD.2022.3197978](https://doi.org/10.1109/TCAD.2022.3197978)
 
 ## CapOS: Capacitor Error Resilience for Energy Harvesting Systems
-Choi, Jongouk | Joe, Hyunwoo | Jung, Changhee |
+Choi, Jongouk | Joe, Hyunwoo | Jung, Changhee
 * DOI: [10.1109/TCAD.2022.3202861](https://doi.org/10.1109/TCAD.2022.3202861)
 
 ## Cyber-Physical Verification of Intermittently Powered Embedded Systems
@@ -93,24 +93,24 @@ Bohrer, Rose | Islam, Bashima
 * URL: <https://users.wpi.edu/~rbohrer/pub/emsoft22.pdf>
 
 ## Sparsity-Aware Intelligent Spatiotemporal Data Sensing for Energy Harvesting IoT System
-Zhang, Wen | Xie, Mimi | Scott, Caleb | Pan, Chen |
+Zhang, Wen | Xie, Mimi | Scott, Caleb | Pan, Chen
 * DOI: [10.1109/TCAD.2022.3197543](https://doi.org/10.1109/TCAD.2022.3197543)
 
 ## An MILP Encoding for Efficient Verification of Quantized Deep Neural Networks
-Mistry, Samvid | Saha, Indranil | Biswas, Swarnendu |
+Mistry, Samvid | Saha, Indranil | Biswas, Swarnendu
 * DOI: [10.1109/TCAD.2022.3197697](https://doi.org/10.1109/TCAD.2022.3197697)
 
 ## Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement
-Yin, Banghu | Chen, Liqian | Liu, Jiangchao | Wang, Ji |
+Yin, Banghu | Chen, Liqian | Liu, Jiangchao | Wang, Ji
 * DOI: [10.1109/TCAD.2022.3197534](https://doi.org/10.1109/TCAD.2022.3197534)
 
 ## Tardis: Coverage-Guided Embedded Operating System Fuzzing
-Shen, Yuheng | Xu, Yiru | Sun, Hao | Liu, Jianzhong | Xu, Zichen | Cui, Aiguo | Shi, Heyuan | Yu Jiang
+Shen, Yuheng | Xu, Yiru | Sun, Hao | Liu, Jianzhong | Xu, Zichen | Cui, Aiguo | Shi, Heyuan | Jiang, Yu
 * DOI: [10.1109/TCAD.2022.3198910](https://doi.org/10.1109/TCAD.2022.3198910)
 * URL: <http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Tardis.pdf>
 
 ## Formal Verification of Resource Synchronization Protocol Implementations: A Case Study in RTEMS
-Shi, Junjie | von Egidy, Christoph-Cordt | Chen, Kuan-Hsun | Jian-Jia Chen
+Shi, Junjie | von Egidy, Christoph-Cordt | Chen, Kuan-Hsun | Chen, Jian-Jia
 * DOI: [10.1109/TCAD.2022.3197501](https://doi.org/10.1109/TCAD.2022.3197501)
 * URL: <https://research.utwente.nl/en/publications/formal-verification-of-resource-synchronization-protocol-implemen>
 
