@@ -28,7 +28,7 @@ payment), either by submitting a pull request or sending an
 * EMSOFT 2004: [articles](articles/emsoft2004.md), [pc](pc/emsoft2004-pc.md)
 * EMSOFT 2003: [articles](articles/emsoft2003.md), [pc](pc/emsoft2003-pc.md)
 * EMSOFT 2002: [articles](articles/emsoft2002.md), [pc](pc/emsoft2002-pc.md)
-* EMSOFT 2001: [articles](articles/emsoft2001.md), [pc](pc/emsoft2001-pc.md)
+* EMSOFT 2001: [articles](articles/emsoft2001.md)
 
 ## Format
 
