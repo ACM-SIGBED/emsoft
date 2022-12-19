@@ -14,6 +14,7 @@ type article = {
   authors : name list;
   doi     : string;
   url     : string option;
+  session : string;
 }
 
 type conference = {
@@ -60,12 +61,18 @@ let output_field out n v =
 let output_opt_field n out v =
   match v with None -> () | Some v -> output_field n out v
 
-let output_article out { title; authors; doi; url } =
-  output_heading out 2 title;
+let output_article out current_session { title; authors; doi; url; session } =
+  let current_session =
+    if String.equal session current_session
+    then current_session
+    else (output_heading out 2 session; output_char out '\n'; session)
+  in
+  output_heading out 3 title;
   output_names out authors;
   output_field out "DOI" doi;
   output_opt_field out "URL" url;
-  output_char out '\n'
+  output_char out '\n';
+  current_session
 
 let output_conference out { title; chairs; where; published; articles } =
   output_heading out 1 title;
@@ -73,7 +80,7 @@ let output_conference out { title; chairs; where; published; articles } =
   output_field out "At" where;
   output_field out "Published" published;
   output_char out '\n';
-  List.iter (output_article out) articles
+  ignore (List.fold_left (output_article out) "" articles)
 
 (* Parsing *)
 
@@ -174,24 +181,31 @@ let expect_end seq =
   | Seq.Nil -> ()
   | _ -> error "expected end of file"
 
-let try_article seq =
+let try_session session seq =
   match try_heading 2 seq with
+  | None, seq -> session, seq
+  | Some session, seq -> session, seq
+
+let try_article session seq =
+  let session, seq = try_session session seq in
+  match try_heading 3 seq with
   | None, seq -> None, seq
   | Some title, seq ->
       let authors, seq = expect_names seq in
       let doi, seq = expect_field "DOI" seq in
       let url, seq = try_field "URL" seq in
-      Some { title; authors; doi; url }, seq
+      Some ({ title; authors; doi; url; session }, session), seq
 
 let rec try_to_list tryf =
-  let rec f acc seq =
-    match tryf seq with
+  let rec f acc state seq =
+    match tryf state seq with
     | None, seq' -> List.rev acc, seq'
-    | Some x, seq' -> f (x::acc) seq'
+    | Some (x, state), seq' -> f (x::acc) state seq'
   in
   f []
 
-let expect_articles seq = try_to_list try_article seq
+let expect_articles session seq =
+  try_to_list try_article session seq
 
 let read_conference fin =
   let seq = make_seq fin in
@@ -199,7 +213,8 @@ let read_conference fin =
   let chairs, seq = expect_names seq in
   let where, seq = expect_field "At" seq in
   let published, seq = expect_field "Published" seq in
-  let articles, seq = expect_articles seq in
+  let session, seq = expect_heading 2 seq in
+  let articles, seq = expect_articles session seq in
   expect_end seq;
   { title; chairs; where; published; articles }
 

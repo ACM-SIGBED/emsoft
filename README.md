@@ -39,8 +39,11 @@ names are separated by vertical bars (`|`).
 ### Articles files
 1. A header (`h1`) naming the conference.
 2. A list of program chair names.
+3. For each session:
+    1. A header (`h2`) with the session title
+    2. A list of articles
 3. For each article:
-    1. A header (`h2`) with the article title
+    1. A header (`h3`) with the article title
     2. A list of author names
     3. `* DOI: [doi](https://doi.org/doi)`
     4. *optional*: `* [URL](link-to-freely-available-author-version)`
