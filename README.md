@@ -53,3 +53,12 @@ names are separated by vertical bars (`|`).
 2. One line per program committee member (beginning with a `*`).
    Chairs first and otherwise in alphabetical order.
 
+## Scripts
+
+The [scripts/procproc.ml](scripts/procproc.ml) script can validate (`make`) 
+or rewrite (`make rewrite`) the article files.
+
+It should be easy to adapt it to display conference informations (e.g., 
+`make authors`) or to output the conference information in a different 
+format (e.g., in html for a website or LaTeX for a report).
+
