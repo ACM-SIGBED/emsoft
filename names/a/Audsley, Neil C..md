@@ -1,6 +1,6 @@
 # Audsley, Neil C.
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Implementing Time-Predictable Load and Store Operations
 Whitham, Jack | Audsley, Neil C.

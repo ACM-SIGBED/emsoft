@@ -1,6 +1,6 @@
 # Engel, Michael
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Operating System Support for Redundant Multithreading
 Döbel, Björn | Härtig, Hermann | Engel, Michael

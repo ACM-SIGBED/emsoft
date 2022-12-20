@@ -1,6 +1,6 @@
 # Jakšić, Stefan
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### An Algebraic Framework for Runtime Verification
 Jakšić, Stefan | Bartocci, Ezio | Grosu, Radu | Ničković, Dejan

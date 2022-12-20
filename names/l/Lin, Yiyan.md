@@ -1,6 +1,6 @@
 # Lin, Yiyan
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Automated Addition of Fault Recovery to Cyber-Physical Component-Based Models
 Bonakdarpour, Borzoo | Lin, Yiyan | Kulkarni, Sandeep S.

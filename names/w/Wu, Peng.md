@@ -1,6 +1,6 @@
 # Wu, Peng
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Real-Time Data Retrieval With Multiple Availability Intervals in CPS Under Freshness Constraints
 Fu, Chenchen | Wu, Peng | Li, Minming | Xue, Chun Jason | Zhao, Yingchao | Han, Song

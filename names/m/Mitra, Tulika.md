@@ -2,7 +2,7 @@
 
 * PCs: 2010 | 2014 (chair) | 2015 | 2016 | 2022
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Probabilistic Modeling of Data Cache Behavior
 Puranik, Vinayak | Mitra, Tulika | Srikant, Y. N.

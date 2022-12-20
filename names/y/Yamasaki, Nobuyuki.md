@@ -1,6 +1,6 @@
 # Yamasaki, Nobuyuki
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Portioned EDF-Based Scheduling on Multiprocessors
 Kato, Shinpei | Yamasaki, Nobuyuki

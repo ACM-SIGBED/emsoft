@@ -1,6 +1,6 @@
 # Heinloth, Bernhard
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Honey, I Shrunk the ELFs: Lightweight Binary Tailoring of Shared Libraries
 Ziegler, Andreas | Geus, Julian | Heinloth, Bernhard | Hönig, Timo | Lohmann, Daniel

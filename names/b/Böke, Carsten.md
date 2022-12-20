@@ -1,6 +1,6 @@
 # Böke, Carsten
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Dynamic Online Reconfiguration for Customizable and Self-Optimizing Operating Systems
 Oberthür, Simon | Böke, Carsten | Griese, Björn

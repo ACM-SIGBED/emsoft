@@ -1,6 +1,6 @@
 # Soo Yim, Keun
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Treble: Fast Software Updates by Creating an Equilibrium in an Active Software Ecosystem of Globally Distributed Stakeholders
 Soo Yim, Keun | Malchev, Iliyan | Hsieh, Andrew | Burke, Dave

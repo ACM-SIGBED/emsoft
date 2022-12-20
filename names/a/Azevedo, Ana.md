@@ -1,6 +1,6 @@
 # Azevedo, Ana
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### High Performance Annotation-Aware JVM for Java Cards
 Azevedo, Ana | Kejariwal, Arun | Veidenbaum, Alexander V. | Nicolau, Alexandru

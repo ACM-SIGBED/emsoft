@@ -1,6 +1,6 @@
 # Santinelli, Luca
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Resource Adaptations with Servers for Hard Real-Time Systems
 Stoimenov, Nikolay | Thiele, Lothar | Santinelli, Luca | Buttazzo, Giorgio C.

@@ -1,6 +1,6 @@
 # Sfyrla, Vassiliki
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Modeling Synchronous Systems in BIP
 Bozga, Marius | Sfyrla, Vassiliki | Sifakis, Joseph

@@ -1,6 +1,6 @@
 # Ferrari, Alberto
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Efficient Embedded Software Design with Synchronous Models
 Baleani, Massimo | Ferrari, Alberto | Mangeruca, Leonardo | Sangiovanni-Vincentelli, Alberto L.

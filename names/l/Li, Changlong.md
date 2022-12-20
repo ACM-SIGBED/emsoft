@@ -1,6 +1,6 @@
 # Li, Changlong
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### SEAL: User Experience Aware Two-Level Swap for Mobile Devices
 Li, Changlong | Shi, Liang | Liang, Yu | Xue, Chun Jason

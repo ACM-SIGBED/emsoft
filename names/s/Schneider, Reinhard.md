@@ -1,6 +1,6 @@
 # Schneider, Reinhard
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Modeling Buffers with Data Refresh Semantics in Automotive Architectures
 Phan, Linh Thi Xuan | Schneider, Reinhard | Chakraborty, Samarjit | Lee, Insup

@@ -1,6 +1,6 @@
 # Cimatti, Alessandro
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Time-Aware Relational Abstractions for Hybrid Systems
 Mover, Sergio | Cimatti, Alessandro | Tiwari, Ashish | Tonetta, Stefano

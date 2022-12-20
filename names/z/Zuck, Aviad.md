@@ -1,6 +1,6 @@
 # Zuck, Aviad
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### NANDFS: a Flexible Flash File System for RAM-Constrained Systems
 Zuck, Aviad | Barzilay, Ohad | Toledo, Sivan

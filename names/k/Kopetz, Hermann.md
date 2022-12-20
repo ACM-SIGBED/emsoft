@@ -2,7 +2,7 @@
 
 * PCs: 2002 | 2003 | 2010
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### The Temporal Specification of Interfaces in Distributed Real-Time Systems
 Kopetz, Hermann

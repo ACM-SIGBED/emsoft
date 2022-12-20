@@ -1,6 +1,6 @@
 # Nakhli, Chaker
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### A Methodology and Tool Support for Generating Scheduled Native Code for Real-Time Java Applications
 Kloukinas, Christos | Nakhli, Chaker | Yovine, Sergio

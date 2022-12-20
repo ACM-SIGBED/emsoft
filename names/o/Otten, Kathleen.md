@@ -1,6 +1,6 @@
 # Otten, Kathleen
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Wireless Channel Access Reservation for Embedded Real-Time Systems
 Rajan, Dinesh | Poellabauer, Christian | Hu, Xiaobo Sharon | Zhang, Liqiang | Otten, Kathleen

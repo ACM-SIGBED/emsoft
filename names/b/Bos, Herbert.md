@@ -1,6 +1,6 @@
 # Bos, Herbert
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### HOKES/POKES: Light-Weight Resource Sharing
 Bos, Herbert | Samwel, Bart

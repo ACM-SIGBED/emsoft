@@ -1,4 +1,4 @@
-# EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2013: 13th International Conference on Embedded Software
 Ernst, Rolf | Sokolsky, Oleg
 * At: Montreal, Canada
 * Published: [IEEE](https://ieeexplore.ieee.org/xpl/conhome/6648479/proceeding)

@@ -1,6 +1,6 @@
 # Aydin, Hakan
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### On the Interplay of Dynamic Voltage Scaling and Dynamic Power Management in Real-Time Embedded Applications
 Devadas, Vinay | Aydin, Hakan

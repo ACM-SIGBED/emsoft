@@ -1,6 +1,6 @@
 # Gopi, Sivakanth
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Synthesis from Incompatible Specifications
 Černý, Pavol | Gopi, Sivakanth | Henzinger, Thomas A. | Radhakrishna, Arjun | Totla, Nishant

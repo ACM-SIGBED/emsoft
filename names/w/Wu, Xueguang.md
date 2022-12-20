@@ -1,6 +1,6 @@
 # Wu, Xueguang
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Numerical Static Analysis of Interrupt-driven Programs via Sequentialization
 Wu, Xueguang | Chen, Liqian | Miné, Antoine | Dong, Wei | Wang, Ji

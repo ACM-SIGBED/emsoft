@@ -1,6 +1,6 @@
 # Bahn, Hyokyung
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### A Cost-Aware Page Replacement Algorithm for NAND Flash Based Mobile Embedded Systems
 Park, Junseok | Lee, Hyejeong | Hyun, Seunghwan | Koh, Kern | Bahn, Hyokyung

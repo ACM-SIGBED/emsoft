@@ -1,6 +1,6 @@
 # Hakert, Christian
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### HEART: Hybrid Memory and Energy-Aware Real-Time Scheduling for Multi-Processor Systems
 Günzel, Mario | Hakert, Christian | Chen, Kuan-Hsun | Chen, Jian-Jia

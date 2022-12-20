@@ -1,19 +1,19 @@
 # Stoelinga, Mariëlle
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Timed Interfaces
 de Alfaro, Luca | Henzinger, Thomas A. | Stoelinga, Mariëlle
 * DOI: [10.1007/3-540-45828-X_9](https://doi.org/10.1007/3-540-45828-X_9)
 * URL: <https://luca.dealfaro.com/papers/02/emsoft02.pdf>
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Resource Interfaces
 Chakrabarti, Arindam | de Alfaro, Luca | Henzinger, Thomas A. | Stoelinga, Mariëlle
 * DOI: [10.1007/978-3-540-45212-6_9](https://doi.org/10.1007/978-3-540-45212-6_9)
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Quantitative Testing
 Bohnenkamp, Henrik C. | Stoelinga, Mariëlle

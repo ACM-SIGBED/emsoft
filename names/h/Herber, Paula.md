@@ -1,6 +1,6 @@
 # Herber, Paula
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Bit-Precise Formal Verification of Discrete-Time MATLAB/Simulink Models using SMT Solving
 Herber, Paula | Reicherdt, Robert | Bittner, Patrick

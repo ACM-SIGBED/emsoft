@@ -1,6 +1,6 @@
 # Gala, Vinit
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### A Unified Framework for Period and Priority Optimization in Distributed Hard Real-Time Systems
 Zhao, Yecheng | Gala, Vinit | Zeng, Haibo

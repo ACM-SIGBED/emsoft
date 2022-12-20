@@ -1,6 +1,6 @@
 # Allen, Nathan
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Runtime Enforcement of Cyber-Physical Systems
 Pinisetty, Srinivas | Roop, Partha S. | Smyth, Steven | Allen, Nathan | Tripakis, Stavros | von Hanxleden, Reinhard

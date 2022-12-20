@@ -1,6 +1,6 @@
 # Xia, Bican
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Safety Verification for Random Ordinary Differential Equations
 Xue, Bai | Fränzle, Martin | Zhan, Naijun | Bogomolov, Sergiy | Xia, Bican

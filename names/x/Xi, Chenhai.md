@@ -1,6 +1,6 @@
 # Xi, Chenhai
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Practical PACE for Embedded Systems
 Xu, Ruibin | Xi, Chenhai | Melhem, Rami G. | Mossé, Daniel

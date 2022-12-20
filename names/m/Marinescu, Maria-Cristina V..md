@@ -1,6 +1,6 @@
 # Marinescu, Maria-Cristina V.
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### From Statecharts to ESP*: Programming With Events, States and Predicates for Embedded Systems
 Sreedhar, Vugranam C. | Marinescu, Maria-Cristina V.

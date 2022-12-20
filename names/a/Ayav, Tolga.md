@@ -1,6 +1,6 @@
 # Ayav, Tolga
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Implementing Fault-Tolerance in Real-Time Systems by Automatic Program Transformations
 Ayav, Tolga | Fradet, Pascal | Girault, Alain

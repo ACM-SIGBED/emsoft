@@ -1,6 +1,6 @@
 # Preoteasa, Viorel
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Refinement Calculus of Reactive Systems
 Preoteasa, Viorel | Tripakis, Stavros

@@ -1,6 +1,6 @@
 # Lee, Kisung
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Smart Layers and Dumb Result: IO Characterization of an Android-Based Smartphone
 Lee, Kisung | Won, Youjip

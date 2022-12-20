@@ -1,6 +1,6 @@
 # Dimitrova, Rayna
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Deductive Control Synthesis for Alternating-Time Logics
 Dimitrova, Rayna | Majumdar, Rupak

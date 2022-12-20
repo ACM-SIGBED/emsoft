@@ -1,6 +1,6 @@
 # Viswanathan, Mahesh
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Verification of Annotated Models From Executions
 Duggirala, Parasara Sridhar | Mitra, Sayan | Viswanathan, Mahesh

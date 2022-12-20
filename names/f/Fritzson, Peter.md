@@ -1,6 +1,6 @@
 # Fritzson, Peter
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Decreasing Memory Overhead in Hard Real-Time Garbage Collection
 Ritzau, Tobias | Fritzson, Peter

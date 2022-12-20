@@ -1,6 +1,6 @@
 # Feng, Yeli
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications
 Feng, Yeli | Jun Xian Ng, Daniel | Easwaran, Arvind

@@ -1,6 +1,6 @@
 # Funchal, Giovanni
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Formal and Executable Contracts for Transaction-Level Modeling in SystemC
 Bouhadiba, Tayeb | Maraninchi, Florence | Funchal, Giovanni

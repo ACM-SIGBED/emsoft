@@ -1,6 +1,6 @@
 # Kashif, Hany
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### DIME: Time-Aware Dynamic Binary Instrumentation using Rate-Based Resource Allocation
 Arafa, Pansy | Kashif, Hany | Fischmeister, Sebastian

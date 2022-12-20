@@ -1,6 +1,6 @@
 # Wong, Weng-Fai
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Compiler Optimizations for Adaptive EPIC Processors
 Palem, Krishna V. | Talla, Surendranath | Wong, Weng-Fai

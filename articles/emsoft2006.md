@@ -1,4 +1,4 @@
-# EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 Min, Sang Lyul | Yi, Wang
 * At: Seoul, South Korea
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1176887)

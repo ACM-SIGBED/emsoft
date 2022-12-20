@@ -1,6 +1,6 @@
 # Kondratyev, Alex
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A Structural Approach to Quasi-Static Schedulability Analysis of Communicating Concurrent Programs
 Liu, Cong | Kondratyev, Alex | Watanabe, Yosinori | Sangiovanni-Vincentelli, Alberto L.

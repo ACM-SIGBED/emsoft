@@ -1,6 +1,6 @@
 # Chen, Kai
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Toward a Semantic Anchoring Infrastructure for Domain-Specific Modeling Languages
 Chen, Kai | Sztipanovits, Janos | Neema, Sandeep

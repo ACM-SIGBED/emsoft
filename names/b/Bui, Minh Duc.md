@@ -1,6 +1,6 @@
 # Bui, Minh Duc
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Uniform Object Modeling Methodology and Reuse of Real-Time System using UML
 Bui, Minh Duc

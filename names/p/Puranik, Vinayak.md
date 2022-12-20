@@ -1,6 +1,6 @@
 # Puranik, Vinayak
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Probabilistic Modeling of Data Cache Behavior
 Puranik, Vinayak | Mitra, Tulika | Srikant, Y. N.

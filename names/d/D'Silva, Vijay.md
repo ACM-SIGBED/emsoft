@@ -1,6 +1,6 @@
 # D'Silva, Vijay
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Existential Abstractions for Distributed Reactive Systems via Syntactic Transformations
 D'Silva, Vijay | Sonalkar, Sampada | Ramesh, S.

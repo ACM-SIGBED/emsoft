@@ -1,6 +1,6 @@
 # Smit, Gerard J. M.
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Monotonicity and Run-Time Scheduling
 Wiggers, Maarten | Bekooij, Marco Jan Gerrit | Smit, Gerard J. M.

@@ -1,6 +1,6 @@
 # Ouy, Julien
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### From Multi-Clocked Synchronous Processes to Latency-Insensitive Modules
 Talpin, Jean-Pierre | Potop-Butucaru, Dumitru | Ouy, Julien | Caillaud, Benoît

@@ -1,6 +1,6 @@
 # Chen, Xianzhang
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### The Design of an Efficient Swap Mechanism for Hybrid DRAM-NVM Systems
 Chen, Xianzhang | Sha, Edwin Hsing-Mean | Jiang, Weiwen | Zhuge, Qingfeng | Chen, Junxi | Qin, Jiejie | Zeng, Yuansong

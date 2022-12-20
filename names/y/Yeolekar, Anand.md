@@ -1,6 +1,6 @@
 # Yeolekar, Anand
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Randomized Directed Testing (REDIRECT) for Simulink/Stateflow Models
 Satpathy, Manoranjan | Yeolekar, Anand | Ramesh, S.

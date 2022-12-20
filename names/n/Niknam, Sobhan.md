@@ -1,6 +1,6 @@
 # Niknam, Sobhan
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Modeling, Analysis, and Hard Real-Time Scheduling of Adaptive Streaming Applications
 Zhai, Jiali Teddy | Niknam, Sobhan | Stefanov, Todor P.

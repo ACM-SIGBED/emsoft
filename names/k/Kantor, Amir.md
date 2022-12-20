@@ -1,6 +1,6 @@
 # Kantor, Amir
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### On Composing and Proving the Correctness of Reactive Behavior
 Harel, David | Kantor, Amir | Katz, Guy | Marron, Assaf | Mizrahi, Lior | Weiss, Gera

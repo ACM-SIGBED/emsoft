@@ -1,6 +1,6 @@
 # Zhang, Ting
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Event Correlation: Language and Semantics
 Sánchez, César | Sankaranarayanan, Sriram | Sipma, Henny B. | Zhang, Ting | Dill, David L. | Manna, Zohar

@@ -1,13 +1,13 @@
 # Matic, Slobodan
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Time-Safety Checking for Embedded Programs
 Henzinger, Thomas A. | Kirsch, Christoph M. | Majumdar, Rupak | Matic, Slobodan
 * DOI: [10.1007/3-540-45828-X_7](https://doi.org/10.1007/3-540-45828-X_7)
 * URL: <https://people.mpi-sws.org/~rupak/Papers/TimeSafetyCheckingForECode.ps>
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Schedule-Carrying Code
 Henzinger, Thomas A. | Kirsch, Christoph M. | Matic, Slobodan

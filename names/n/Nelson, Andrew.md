@@ -1,6 +1,6 @@
 # Nelson, Andrew
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Distributed Power Management of Real-Time Applications on a GALS Multiprocessor SOC
 Nelson, Andrew | Goossens, Kees

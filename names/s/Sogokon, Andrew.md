@@ -1,6 +1,6 @@
 # Sogokon, Andrew
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Operational Models for Piecewise-Smooth Systems
 Sogokon, Andrew | Ghorbal, Khalil | Johnson, Taylor T.

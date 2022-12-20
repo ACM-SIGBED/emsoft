@@ -1,6 +1,6 @@
 # Bruto da Costa, Antonio Anastasio
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Formal Feature Interpretation of Hybrid Systems
 Bruto da Costa, Antonio Anastasio | Frehse, Goran | Dasgupta, Pallab

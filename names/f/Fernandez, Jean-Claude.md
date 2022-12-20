@@ -1,6 +1,6 @@
 # Fernandez, Jean-Claude
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### QoS Control for Optimality and Safety
 Combaz, Jacques | Fernandez, Jean-Claude | Lepley, Thierry | Sifakis, Joseph

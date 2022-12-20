@@ -1,6 +1,6 @@
 # Ben Salah, Ramzi
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Compositional Timing Analysis
 Ben Salah, Ramzi | Bozga, Marius | Maler, Oded

@@ -1,6 +1,6 @@
 # Santalla, Roberto
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### HRM: Merging Hardware Event Monitors for Improved Timing Analysis of Complex MPSoCs
 Vilardell, Sergi | Serra, Isabel | Santalla, Roberto | Mezzetti, Enrico | Abella, Jaume | Cazorla, Francisco J.

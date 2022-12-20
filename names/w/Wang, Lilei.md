@@ -1,6 +1,6 @@
 # Wang, Lilei
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Darboux-Type Barrier Certificates for Safety Verification of Nonlinear Hybrid Systems
 Zeng, Xia | Lin, Wang | Yang, Zhengfeng | Chen, Xin | Wang, Lilei

@@ -1,6 +1,6 @@
 # Lee, Hyung Gyu
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### A PRAM and NAND Flash Hybrid Architecture for High-Performance Embedded Storage Subsystems
 Kim, Jin Kyu | Lee, Hyung Gyu | Choi, Shinho | Bahng, Kyoung Il

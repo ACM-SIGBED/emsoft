@@ -1,6 +1,6 @@
 # Ghosh, Sumana
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### A Structured Methodology for Pattern based Adaptive Scheduling in Embedded Control
 Ghosh, Sumana | Dutta, Souradeep | Dey, Soumyajit | Dasgupta, Pallab

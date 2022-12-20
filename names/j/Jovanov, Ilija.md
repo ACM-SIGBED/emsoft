@@ -1,6 +1,6 @@
 # Jovanov, Ilija
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Security-Aware Scheduling of Embedded Control Tasks
 Lesi, Vuk | Jovanov, Ilija | Pajic, Miroslav

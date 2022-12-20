@@ -1,6 +1,6 @@
 # Hernández, Carles
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Parallel Many-Core Avionics Systems
 Panic, Milos | Quiñones, Eduardo | Zaykov, Pavel G. | Hernández, Carles | Abella, Jaume | Cazorla, Francisco J.

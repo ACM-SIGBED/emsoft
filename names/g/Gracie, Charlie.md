@@ -1,6 +1,6 @@
 # Gracie, Charlie
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Tax-and-Spend: Democratic Scheduling for Real-Time Garbage Collection
 Auerbach, Joshua S. | Bacon, David F. | Cheng, Perry | Grove, David | Biron, Ben | Gracie, Charlie | McCloskey, Bill | Micic, Aleksandar | Sciampacone, Ryan

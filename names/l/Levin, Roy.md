@@ -1,6 +1,6 @@
 # Levin, Roy
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Reducing Program Image Size by Extracting Frozen Code and Data
 Citron, Daniel | Haber, Gadi | Levin, Roy

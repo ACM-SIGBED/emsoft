@@ -1,6 +1,6 @@
 # Fernández, Mikel
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Assessing the Suitability of the NGMP Multi-Core Processor in the Space Domain
 Fernández, Mikel | Gioiosa, Roberto | Quiñones, Eduardo | Fossati, Luca | Zulianello, Marco | Cazorla, Francisco J.

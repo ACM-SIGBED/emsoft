@@ -1,6 +1,6 @@
 # Maignan, Aude
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Translating Discrete-Time Simulink to Lustre
 Caspi, Paul | Curic, Adrian | Maignan, Aude | Sofronis, Christos | Tripakis, Stavros

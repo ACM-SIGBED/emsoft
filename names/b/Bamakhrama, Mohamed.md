@@ -1,6 +1,6 @@
 # Bamakhrama, Mohamed
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Hard-Real-Time Scheduling of Data-Dependent Tasks in Embedded Streaming Applications
 Bamakhrama, Mohamed | Stefanov, Todor P.

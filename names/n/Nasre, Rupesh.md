@@ -1,6 +1,6 @@
 # Nasre, Rupesh
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Optimizing Graph Algorithms in Asymmetric Multicore Processors
 Krishna, Jyothi V.S. | Nasre, Rupesh

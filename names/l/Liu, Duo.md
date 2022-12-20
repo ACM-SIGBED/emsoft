@@ -1,6 +1,6 @@
 # Liu, Duo
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Building High-Performance Smartphones via Non-Volatile Memory: The Swap Approach
 Zhong, Kan | Wang, Tianzheng | Zhu, Xiao | Long, Linbo | Liu, Duo | Liu, Weichen | Shao, Zili | Sha, Edwin Hsing-Mean

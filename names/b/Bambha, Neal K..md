@@ -1,6 +1,6 @@
 # Bambha, Neal K.
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Communication Strategies for Shared-Bus Embedded Multiprocessors
 Bambha, Neal K. | Bhattacharyya, Shuvra S.

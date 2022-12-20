@@ -1,6 +1,6 @@
 # Pike, Lee
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### The Formal Verification of a Reintegration Protocol
 Pike, Lee | Johnson, Steven D.

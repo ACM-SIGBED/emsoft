@@ -2,7 +2,7 @@
 
 * PCs: 2006
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Distributed-Code Generation from Hybrid Systems Models for Time-Delayed Multirate systems
 Anand, Madhukar | Fischmeister, Sebastian | Kim, Jesung | Lee, Insup

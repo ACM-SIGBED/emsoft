@@ -1,4 +1,4 @@
-# EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2022: 22nd International Conference on Embedded Software
 Broman, David | Pagetti, Claire
 * At: Online + Shanghai, China
 * Published: [IEEE TCAD, Vol. 41, No. 11](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9928799&punumber=43)

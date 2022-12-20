@@ -2,7 +2,7 @@
 
 * PCs: 2002 | 2003
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### An Implementation of Scoped Memory for Real-Time Java
 Beebee, William S. | Rinard, Martin C.

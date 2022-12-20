@@ -1,6 +1,6 @@
 # Li, Haohan
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Load-Based Schedulability Analysis of Certifiable Mixed-Criticality Systems
 Li, Haohan | Baruah, Sanjoy K.

@@ -1,6 +1,6 @@
 # Lee, Der-Nien
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Task Synchronization and Allocation for Many-Core Real-Time Systems
 Hsiu, Pi-Cheng | Lee, Der-Nien | Kuo, Tei-Wei

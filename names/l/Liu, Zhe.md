@@ -1,6 +1,6 @@
 # Liu, Zhe
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking
 Gao, Jian | Xu, Yiwen | Jiang, Yu | Liu, Zhe | Chang, Wanli | Jiao, Xun | Sun, Jiaguang

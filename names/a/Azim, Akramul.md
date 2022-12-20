@@ -1,6 +1,6 @@
 # Azim, Akramul
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Semantics-Preserving Implementation of Synchronous Specifications Over Dynamic TDMA Distributed Architectures
 Potop-Butucaru, Dumitru | Azim, Akramul | Fischmeister, Sebastian

@@ -1,6 +1,6 @@
 # Doh, In Hwan
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Exploiting Non-Volatile RAM to Enhance Flash File System Performance
 Doh, In Hwan | Choi, Jongmoo | Lee, Donghee | Noh, Sam H.

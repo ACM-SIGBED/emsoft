@@ -1,6 +1,6 @@
 # Zheng, Haiyang
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Leveraging Synchronous Language Principles for Heterogeneous Modeling and Design of Embedded Systems
 Lee, Edward A. | Zheng, Haiyang

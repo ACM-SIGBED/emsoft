@@ -1,6 +1,6 @@
 # Chen, Guangyu
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Energy-Conscious Memory Allocation and Deallocation for Pointer-Intensive Applications
 De La Luz, Victor | Kandemir, Mahmut T. | Chen, Guangyu | Kolcu, Ibrahim

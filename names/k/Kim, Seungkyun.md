@@ -1,6 +1,6 @@
 # Kim, Seungkyun
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Parallelizing the H.264 Decoder on the Cell BE Architecture
 Cho, Yongjin | Kim, Seungkyun | Lee, Jaejin | Shin, Heonshik

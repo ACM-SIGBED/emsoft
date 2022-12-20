@@ -1,6 +1,6 @@
 # Mistry, Samvid
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### An MILP Encoding for Efficient Verification of Quantized Deep Neural Networks
 Mistry, Samvid | Saha, Indranil | Biswas, Swarnendu

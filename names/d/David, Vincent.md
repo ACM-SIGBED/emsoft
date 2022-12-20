@@ -2,7 +2,7 @@
 
 * PCs: 2009
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### A Low-Overhead Dedicated Execution Support for Stream Applications on Shared-Memory CMP
 Dubrulle, Paul | Louise, Stéphane | Sirdey, Renaud | David, Vincent

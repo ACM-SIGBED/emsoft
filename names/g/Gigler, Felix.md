@@ -1,6 +1,6 @@
 # Gigler, Felix
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Mining Shape Expressions From Positive Examples
 Bartocci, Ezio | Deshmukh, Jyotirmoy | Gigler, Felix | Mateis, Cristinel | Ničković, Dejan | Qin, Xin

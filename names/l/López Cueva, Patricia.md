@@ -1,6 +1,6 @@
 # López Cueva, Patricia
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Debugging Embedded Multimedia Application Traces Through Periodic Pattern Mining
 López Cueva, Patricia | Bertaux, Aurélie | Termier, Alexandre | Méhaut, Jean-François | Santana, Miguel

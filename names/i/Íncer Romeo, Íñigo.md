@@ -1,6 +1,6 @@
 # Íncer Romeo, Íñigo
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Coherent Extension, Composition, and Merging Operators in Contract Models for System Design
 Passerone, Roberto | Íncer Romeo, Íñigo | Sangiovanni-Vincentelli, Alberto L.

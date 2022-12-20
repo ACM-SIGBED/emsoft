@@ -2,7 +2,7 @@
 
 * PCs: 2004 | 2005 | 2012
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Pre-Scheduling: Integrating Offline and Online Scheduling Techniques
 Wang, Weirong | Mok, Aloysius K. | Fohler, Gerhard

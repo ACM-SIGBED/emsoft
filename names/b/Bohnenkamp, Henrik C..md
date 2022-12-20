@@ -1,6 +1,6 @@
 # Bohnenkamp, Henrik C.
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Quantitative Testing
 Bohnenkamp, Henrik C. | Stoelinga, Mariëlle

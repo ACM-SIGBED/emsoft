@@ -1,6 +1,6 @@
 # Gavran, Ivan
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Antlab: A Multi-Robot Task Server
 Gavran, Ivan | Majumdar, Rupak | Saha, Indranil

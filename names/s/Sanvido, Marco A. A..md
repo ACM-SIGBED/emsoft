@@ -1,6 +1,6 @@
 # Sanvido, Marco A. A.
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### A Giotto-Based Helicopter Control System
 Kirsch, Christoph M. | Sanvido, Marco A. A. | Henzinger, Thomas A. | Pree, Wolfgang

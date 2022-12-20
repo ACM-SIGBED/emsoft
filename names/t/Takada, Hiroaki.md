@@ -2,7 +2,7 @@
 
 * PCs: 2006 | 2013
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A GA-based Scheduling Method for FlexRay Systems
 Ding, Shan | Murakami, Naohiko | Tomiyama, Hiroyuki | Takada, Hiroaki

@@ -1,6 +1,6 @@
 # Bhuiyan, Ashikahmed
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Optimizing Energy in Non-preemptive Mixed-Criticality Scheduling by Exploiting Probabilistic Information
 Bhuiyan, Ashikahmed | Reghenzani, Federico | Fornaciari, William | Guo, Zhishan

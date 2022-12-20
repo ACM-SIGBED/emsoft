@@ -1,6 +1,6 @@
 # Wu, Meng-Huan
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### An Effective Synchronization Approach for Fast and Accurate Multi-Core Instruction-Set Simulation
 Wu, Meng-Huan | Fu, Cheng-Yang | Wang, Peng-Chih | Tsay, Ren-Song

@@ -1,6 +1,6 @@
 # Woo, Yeong-Jae
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Diversifying Wear Index for MLC NAND Flash Memory to Extend the Lifetime of SSDs
 Woo, Yeong-Jae | Kim, Jin-Soo

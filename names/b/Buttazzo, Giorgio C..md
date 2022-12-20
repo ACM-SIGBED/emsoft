@@ -1,20 +1,20 @@
 # Buttazzo, Giorgio C.
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Scalable Applications for Energy-Aware Processors
 Buttazzo, Giorgio C.
 * DOI: [10.1007/3-540-45828-X_12](https://doi.org/10.1007/3-540-45828-X_12)
 * URL: <http://retis.sssup.it/~giorgio/paps/2002/emsoft02h.pdf>
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Rate Monotonic vs. EDF: Judgment Day
 Buttazzo, Giorgio C.
 * DOI: [10.1007/978-3-540-45212-6_6](https://doi.org/10.1007/978-3-540-45212-6_6)
 * URL: <https://www.eecs.umich.edu/courses/eecs571/reading/rm-vs-edf.pdf>
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Reducing Stack with Intra-Task Threshold Priorities in Real-Time Systems
 Yao, Gang | Buttazzo, Giorgio C.
@@ -30,7 +30,7 @@ Stoimenov, Nikolay | Thiele, Lothar | Santinelli, Luca | Buttazzo, Giorgio C.
 Santinelli, Luca | Marinoni, Mauro | Prosperi, Francesco | Esposito, Francesco | Franchino, Gianluca | Buttazzo, Giorgio C.
 * DOI: [10.1145/1879021.1879058](https://doi.org/10.1145/1879021.1879058)
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### An I/O Virtualization Framework With I/O-Related Memory Contention Control for Real-Time Systems
 Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio C.

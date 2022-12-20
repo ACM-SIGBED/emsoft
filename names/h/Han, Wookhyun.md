@@ -1,6 +1,6 @@
 # Han, Wookhyun
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Aciom: Application Characteristics-Aware Disk and Network I/O Management on Android Platform
 Kim, Hyosu | Lee, Minsub | Han, Wookhyun | Lee, Kilho | Shin, Insik

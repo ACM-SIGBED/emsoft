@@ -2,14 +2,14 @@
 
 * PCs: 2004 | 2005 | 2008 | 2011
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### A Probabilistic Framework for Schedulability Analysis
 Burns, Alan | Bernat, Guillem | Broster, Ian
 * DOI: [10.1007/978-3-540-45212-6_1](https://doi.org/10.1007/978-3-540-45212-6_1)
 * URL: <https://www.cs.york.ac.uk/rts/static/papers/R:Burns:2003e.pdf>
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design
 Dai, Xiaotian | Chang, Wanli | Zhao, Shuai | Burns, Alan

@@ -1,6 +1,6 @@
 # Sinha, Soham
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Towards an Integrated Vehicle Management System in DriveOS
 Sinha, Soham | West, Richard

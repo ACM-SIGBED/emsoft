@@ -1,6 +1,6 @@
 # Sun, Mu
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Handling Mixed-Criticality in SoC-based Real-Time Embedded Systems
 Pellizzoni, Rodolfo | O'Neil Meredith, Patrick | Nam, Min-Young | Sun, Mu | Caccamo, Marco | Sha, Lui

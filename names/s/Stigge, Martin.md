@@ -1,6 +1,6 @@
 # Stigge, Martin
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Cache-Aware Scheduling and Analysis for Multicores
 Guan, Nan | Stigge, Martin | Yi, Wang | Yu, Ge

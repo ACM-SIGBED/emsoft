@@ -1,13 +1,13 @@
 # Medhat, Ramy
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### A Framework for Mining Hybrid Automata From Input/Output Traces
 Medhat, Ramy | Ramesh, S. | Bonakdarpour, Borzoo | Fischmeister, Sebastian
 * DOI: [10.1109/EMSOFT.2015.7318273](https://doi.org/10.1109/EMSOFT.2015.7318273)
 * URL: <https://uwaterloo.ca/embedded-software-group/sites/ca.embedded-software-group/files/uploads/files/emsoft-trace-mining.pdf>
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Managing the Performance/Error Tradeoff of Floating-point Intensive Applications
 Medhat, Ramy | Lam, Michael O. | Rountree, Barry L. | Bonakdarpour, Borzoo | Fischmeister, Sebastian

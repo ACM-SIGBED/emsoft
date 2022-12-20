@@ -2,7 +2,7 @@
 
 * PCs: 2016 | 2017
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Specification Mining and Robust Design under Uncertainty: A Stochastic Temporal Logic Approach
 Kyriakis, Panagiotis | Deshmukh, Jyotirmoy V. | Bogdan, Paul

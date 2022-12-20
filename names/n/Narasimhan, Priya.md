@@ -1,6 +1,6 @@
 # Narasimhan, Priya
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### PCFIRE: Towards Provable Preventative Control-Flow Integrity Enforcement for Realistic Embedded Software
 Tan, Jiaqi | Tay, Hui Jun | Drolia, Utsav | Gandhi, Rajeev | Narasimhan, Priya

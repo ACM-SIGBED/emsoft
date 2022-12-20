@@ -1,6 +1,6 @@
 # Xu, Yiru
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Tardis: Coverage-Guided Embedded Operating System Fuzzing
 Shen, Yuheng | Xu, Yiru | Sun, Hao | Liu, Jianzhong | Xu, Zichen | Cui, Aiguo | Shi, Heyuan | Jiang, Yu

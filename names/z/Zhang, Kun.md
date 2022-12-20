@@ -1,6 +1,6 @@
 # Zhang, Kun
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Binary Translation to Improve Energy Efficiency Through Post-Pass Register Re-Allocation
 Zhang, Kun | Zhang, Tao | Pande, Santosh

@@ -1,6 +1,6 @@
 # Huang, Jing
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan
 Huang, Jing | Li, Renfa | Jiao, Xun | Jiang, Yu | Chang, Wanli

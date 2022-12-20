@@ -1,6 +1,6 @@
 # Baek, Sungwoo
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### DynLiB: Maximizing Energy Availability of Hybrid Li-ion Battery Systems
 Kim, Jiwon | Baek, Sungwoo | Jeon, Seunghyeok | Cha, Hojung

@@ -1,6 +1,6 @@
 # Viswanathan, Ramesh
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Passive Mid-Stream Monitoring of Real-Time Properties
 Jategaonkar Jagadeesan, Lalita | Viswanathan, Ramesh

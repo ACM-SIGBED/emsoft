@@ -1,6 +1,6 @@
 # Hind, Michael
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### High-level Real-Time Programming in Java
 Bacon, David F. | Cheng, Perry | Grove, David | Hind, Michael | Rajan, V. T. | Yahav, Eran | Hauswirth, Matthias | Kirsch, Christoph M. | Spoonhower, Daniel | Vechev, Martin T.

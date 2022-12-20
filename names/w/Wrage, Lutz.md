@@ -1,6 +1,6 @@
 # Wrage, Lutz
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Resource Allocation Contracts for Open Analytic Runtime Models
 Nam, Min-Young | de Niz, Dionisio | Wrage, Lutz | Sha, Lui

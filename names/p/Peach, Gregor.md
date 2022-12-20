@@ -1,6 +1,6 @@
 # Peach, Gregor
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### eWASM: Practical Software Fault Isolation for Reliable Embedded Devices
 Peach, Gregor | Pan, Runyu | Wu, Zhuoyi | Parmer, Gabriel | Haster, Christopher | Cherkasova, Ludmila

@@ -1,6 +1,6 @@
 # Schmuck, Anne-Kathrin
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Assume-Guarantee Distributed Synthesis
 Majumdar, Rupak | Mallik, Kaushik | Schmuck, Anne-Kathrin | Zufferey, Damien

@@ -1,6 +1,6 @@
 # Dahlweid, Markus
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Components, Platforms and Possibilities: Towards Generic Automation for MDA
 Jackson, Ethan K. | Kang, Eunsuk | Dahlweid, Markus | Seifert, Dirk | Santen, Thomas

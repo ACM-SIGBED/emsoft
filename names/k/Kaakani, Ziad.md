@@ -1,6 +1,6 @@
 # Kaakani, Ziad
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Schedulable Persistence System for Real-Time Applications in Virtual Machine
 Goh, Okehee | Lee, Yann-Hang | Kaakani, Ziad

@@ -1,6 +1,6 @@
 # Latronico, Elizabeth
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### A Practical Ontology Framework for Static Model Analysis
 Lickly, Ben | Shelton, Charles P. | Latronico, Elizabeth | Lee, Edward A.

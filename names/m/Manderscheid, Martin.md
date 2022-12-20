@@ -1,6 +1,6 @@
 # Manderscheid, Martin
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Verifying Network Performance of Cyber-Physical Systems with Multiple Runtime Configurations
 Manderscheid, Martin | Weiss, Gereon | Knorr, Rudi

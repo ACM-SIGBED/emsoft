@@ -1,6 +1,6 @@
 # von der Brüggen, Georg
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Suspension-Aware Earliest-Deadline-First Scheduling Analysis
 Günzel, Mario | von der Brüggen, Georg | Chen, Jian-Jia

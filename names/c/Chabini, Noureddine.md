@@ -1,12 +1,12 @@
 # Chabini, Noureddine
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Minimizing Variables' Lifetime in Loop-Intensive Applications
 Chabini, Noureddine | Wolf, Wayne H.
 * DOI: [10.1007/978-3-540-45212-6_8](https://doi.org/10.1007/978-3-540-45212-6_8)
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### An Approach for Integrating Basic Retiming and Software Pipelining
 Chabini, Noureddine | Wolf, Wayne

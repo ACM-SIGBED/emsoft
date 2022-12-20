@@ -1,13 +1,13 @@
 # Jiao, Xun
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Polar: Function Code Aware Fuzz Testing of ICS Protocol
 Luo, Zhengxiong | Zuo, Feilong | Jiang, Yu | Gao, Jian | Jiao, Xun | Sun, Jiaguang
 * DOI: [10.1145/3358227](https://doi.org/10.1145/3358227)
 * URL: <https://github.com/fouzhe/Polar-Fuzz/blob/master/paper.pdf>
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan
 Huang, Jing | Li, Renfa | Jiao, Xun | Jiang, Yu | Chang, Wanli

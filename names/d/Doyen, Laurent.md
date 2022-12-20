@@ -1,6 +1,6 @@
 # Doyen, Laurent
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Interface Theories with Component Reuse
 Doyen, Laurent | Henzinger, Thomas A. | Jobstmann, Barbara | Petrov, Tatjana

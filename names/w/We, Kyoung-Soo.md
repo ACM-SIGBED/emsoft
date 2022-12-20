@@ -1,6 +1,6 @@
 # We, Kyoung-Soo
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Using NAND Flash Memory for Executing Large Volume Real-Time Programs in Automotive Embedded Systems
 Cho, Kwangyoon | We, Kyoung-Soo | Lee, Chang-Gun | Kim, Kanghee

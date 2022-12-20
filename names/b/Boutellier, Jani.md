@@ -1,6 +1,6 @@
 # Boutellier, Jani
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Executing Dataflow Actors as Kahn Processes
 Tretter, Andreas | Boutellier, Jani | Guthrie, James | Schor, Lars | Thiele, Lothar

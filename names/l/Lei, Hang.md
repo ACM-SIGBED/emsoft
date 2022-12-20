@@ -1,6 +1,6 @@
 # Lei, Hang
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### A Hierarchical Hybrid Locking Protocol for Parallel Real-Time Tasks
 Chen, Zewei | Lei, Hang | Yang, Maolin | Liao, Yong | Qiao, Lei

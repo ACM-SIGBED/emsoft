@@ -1,6 +1,6 @@
 # Li, Yangge
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Verifying Controllers With Vision-Based Perception Using Safe Approximate Abstractions
 Hsieh, Chiao | Li, Yangge | Sun, Dawei | Joshi, Keyur | Misailovic, Sasa | Mitra, Sayan

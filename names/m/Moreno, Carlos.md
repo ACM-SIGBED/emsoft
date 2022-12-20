@@ -1,6 +1,6 @@
 # Moreno, Carlos
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Exp-HE: a Family of Fast Exponentiation Algorithms Resistant to SPA, Fault, and Combined Attacks
 Moreno, Carlos | Hasan, M. Anwar | Fischmeister, Sebastian

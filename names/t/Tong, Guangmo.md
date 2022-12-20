@@ -1,6 +1,6 @@
 # Tong, Guangmo
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Supporting Read/Write Applications in Embedded Real-Time Systems via Suspension-Aware Analysis
 Tong, Guangmo | Liu, Cong

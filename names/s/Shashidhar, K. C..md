@@ -1,6 +1,6 @@
 # Shashidhar, K. C.
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Symbolic Analysis for Improving Simulation Coverage of Simulink/Stateflow Models
 Alur, Rajeev | Kanade, Aditya | Ramesh, S. | Shashidhar, K. C.

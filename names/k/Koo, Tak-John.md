@@ -1,6 +1,6 @@
 # Koo, Tak-John
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Platform-Based Embedded Software Design for Multi-vehicle Multi-modal Systems
 Koo, Tak-John | Liebman, Judith | Ma, Cedric | Horowitz, Benjamin | Sangiovanni-Vincentelli, Alberto L. | Sastry, S. Shankar

@@ -2,13 +2,13 @@
 
 * PCs: 2018
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Demand Bound Server: Generalized Resource Reservation for Hard Real-Time Systems
 Kumar, Pratyush | Chen, Jian-Jia | Thiele, Lothar
 * DOI: [10.1145/2038642.2038679](https://doi.org/10.1145/2038642.2038679)
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Energy Efficient DVFS Scheduling for Mixed-Criticality Systems
 Huang, Pengcheng | Kumar, Pratyush | Giannopoulou, Georgia | Thiele, Lothar
@@ -19,7 +19,7 @@ Huang, Pengcheng | Kumar, Pratyush | Giannopoulou, Georgia | Thiele, Lothar
 Kumar, Pratyush | Thiele, Lothar
 * DOI: [10.1145/2656045.2656065](https://doi.org/10.1145/2656045.2656065)
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Can Real-Time Systems Be Chaotic?
 Thiele, Lothar | Kumar, Pratyush

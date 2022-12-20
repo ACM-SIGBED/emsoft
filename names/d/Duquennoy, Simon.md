@@ -1,6 +1,6 @@
 # Duquennoy, Simon
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Serving Embedded Content via Web Applications: Model, Design and Experimentation
 Duquennoy, Simon | Grimaud, Gilles | Vandewalle, Jean-Jacques

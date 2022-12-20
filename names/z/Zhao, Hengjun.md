@@ -1,6 +1,6 @@
 # Zhao, Hengjun
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Computing Semi-Algebraic Invariants for Polynomial Dynamical Systems
 Liu, Jiang | Zhan, Naijun | Zhao, Hengjun

@@ -1,4 +1,4 @@
-# EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2011: 11th International Conference on Embedded Software
 Baruah, Sanjoy K. | Fischmeister, Sebastian
 * At: Taipei, Taiwan
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/2038642)

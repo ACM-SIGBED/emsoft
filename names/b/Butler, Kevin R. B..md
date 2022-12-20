@@ -1,6 +1,6 @@
 # Butler, Kevin R. B.
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### NASA: NVM-Assisted Secure Deletion for Flash Memory
 Zhu, Weidong | Butler, Kevin R. B.

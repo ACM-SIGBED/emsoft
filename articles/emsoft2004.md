@@ -1,4 +1,4 @@
-# EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2004: 4th ACM International Conference on Embedded Software
 Buttazzo, Giorgio C.
 * At: Pisa, Italy
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1017753)

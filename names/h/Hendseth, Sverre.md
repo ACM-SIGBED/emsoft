@@ -1,6 +1,6 @@
 # Hendseth, Sverre
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Parametrized Dataflow Scenarios
 Skelin, Mladen | Geilen, Marc | Catthoor, Francky | Hendseth, Sverre

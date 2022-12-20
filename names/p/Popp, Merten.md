@@ -1,6 +1,6 @@
 # Popp, Merten
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Automatic HAL Generation for Embedded Multiprocessor Systems
 Popp, Merten | Moreira, Orlando | Yedema, Wim | Lindwer, Menno

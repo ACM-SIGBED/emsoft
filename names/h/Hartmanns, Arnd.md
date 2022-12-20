@@ -1,6 +1,6 @@
 # Hartmanns, Arnd
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Flexible Support for Time and Costs in Scenario-Aware Dataflow
 Hartmanns, Arnd | Hermanns, Holger | Bungert, Michael

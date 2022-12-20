@@ -2,7 +2,7 @@
 
 * PCs: 2011
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### (1+ε) Approximation Clock Rate Assignment for Periodic Real-Time Tasks on a Voltage-Scaling Processor
 Chen, Jian-Jia | Kuo, Tei-Wei | Shih, Chi-Sheng

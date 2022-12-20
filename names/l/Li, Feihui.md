@@ -1,6 +1,6 @@
 # Li, Feihui
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Exploiting Last Idle Periods of Links for Network Power Management
 Li, Feihui | Chen, Guilin | Kandemir, Mahmut T. | Karaköy, Mustafa

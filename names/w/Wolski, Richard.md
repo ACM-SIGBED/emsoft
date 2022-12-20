@@ -1,6 +1,6 @@
 # Wolski, Richard
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### S2DB: a Novel Simulation-Based Debugger for Sensor Network Applications
 Wen, Ye | Wolski, Richard | Gurun, Selim

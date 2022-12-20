@@ -1,6 +1,6 @@
 # Wang, Shige
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Thermal-Aware Resource Management for Embedded Real-Time Systems
 Lee, Youngmoon | Chwa, Hoon Sung | Shin, Kang G. | Wang, Shige

@@ -1,6 +1,6 @@
 # Consel, Charles
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Remote Customization of Systems Code for Embedded Devices
 Bhatia, Sapan | Consel, Charles | Pu, Calton

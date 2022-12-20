@@ -1,6 +1,6 @@
 # Keller, Jörg
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Static Scheduling of Moldable Streaming Tasks with Task Fusion for Parallel Systems with DVFS
 Kessler, Christoph | Litzinger, Sebastian | Keller, Jörg

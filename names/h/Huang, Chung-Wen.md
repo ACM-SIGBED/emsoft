@@ -1,6 +1,6 @@
 # Huang, Chung-Wen
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A Sink-N-Hoist Framework for Leakage Power Reduction
 You, Yi-Ping | Huang, Chung-Wen | Lee, Jenq Kuen

@@ -1,6 +1,6 @@
 # Tran, Hoang-Dung
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Safety Verification of Cyber-Physical Systems with Reinforcement Learning Control
 Tran, Hoang-Dung | Cai, Feiyang | Manzanas Lopez, Diego | Musau, Patrick | Johnson, Taylor T. | Koutsoukos, Xenofon D.

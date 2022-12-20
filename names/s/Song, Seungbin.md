@@ -1,6 +1,6 @@
 # Song, Seungbin
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Precise Correlation Extraction for IoT Fault Detection With Concurrent Activities
 Lee, Gyeongmin | Kim, Bongjun | Song, Seungbin | Kim, Changsu | Kim, Jong | Kim, Hanjun

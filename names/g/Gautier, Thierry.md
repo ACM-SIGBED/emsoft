@@ -1,6 +1,6 @@
 # Gautier, Thierry
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Polychronous Mode Automata
 Talpin, Jean-Pierre | Brunette, Christian | Gautier, Thierry | Gamatié, Abdoulaye

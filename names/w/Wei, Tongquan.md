@@ -1,6 +1,6 @@
 # Wei, Tongquan
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Quantitative Timing Analysis for Cyber-Physical Systemsusing Uncertainty-Aware Scenario-Based Specifications
 Hu, Ming | Duan, Wenxue | Zhang, Min | Wei, Tongquan | Chen, Mingsong

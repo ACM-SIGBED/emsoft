@@ -1,6 +1,6 @@
 # Collins, Rebecca L.
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Flexible Filters: Load Balancing Through Backpressure for Stream Programs
 Collins, Rebecca L. | Carloni, Luca P.

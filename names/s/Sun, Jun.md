@@ -1,6 +1,6 @@
 # Sun, Jun
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### HAIL: A Language for Easy and Correct Device Access
 Sun, Jun | Yuan, Wanghong | Kallahalla, Mahesh | Islam, Nayeem

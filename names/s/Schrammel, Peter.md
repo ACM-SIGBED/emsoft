@@ -1,6 +1,6 @@
 # Schrammel, Peter
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Unbounded-Time Reachability Analysis of Hybrid Systems by Abstract Acceleration
 Schrammel, Peter

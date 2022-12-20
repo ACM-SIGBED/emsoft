@@ -1,6 +1,6 @@
 # Xu, Zichen
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Vulnerability Detection of ICS Protocols Via Cross-State Fuzzing
 Zuo, Feilong | Luo, Zhengxiong | Yu, Junze | Chen, Ting | Xu, Zichen | Cui, Aiguo | Jiang, Yu

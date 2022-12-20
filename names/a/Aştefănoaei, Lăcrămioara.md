@@ -1,6 +1,6 @@
 # Aştefănoaei, Lăcrămioara
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Blaming in Component-Based Real-Time Systems
 Goessler, Gregor | Aştefănoaei, Lăcrămioara

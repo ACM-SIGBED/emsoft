@@ -1,6 +1,6 @@
 # Tsai, Chung-Hsuan
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Killing Processes or Killing Flash? Escaping from the Dilemma Using Lightweight, Compression-Aware Swap for Mobile Devices
 Wang, Yong-Xuan | Tsai, Chung-Hsuan | Chang, Li-Pin

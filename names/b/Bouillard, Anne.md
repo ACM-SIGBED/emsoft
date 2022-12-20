@@ -1,6 +1,6 @@
 # Bouillard, Anne
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### A Unifying View of Loosely Time-Triggered Architectures
 Benveniste, Albert | Bouillard, Anne | Caspi, Paul

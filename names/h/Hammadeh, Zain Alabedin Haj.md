@@ -1,6 +1,6 @@
 # Hammadeh, Zain Alabedin Haj
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Extending Typical Worst-Case Analysis using Response-Time Dependencies to Bound Deadline Misses
 Hammadeh, Zain Alabedin Haj | Quinton, Sophie | Ernst, Rolf

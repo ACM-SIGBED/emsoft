@@ -1,6 +1,6 @@
 # Kim, Kwanghwan
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### WakeScope: Runtime WakeLock Anomaly Management Scheme for Android Platform
 Kim, Kwanghwan | Cha, Hojung

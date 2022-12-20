@@ -1,6 +1,6 @@
 # Zhan, Bohua
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Learning Nondeterministic Real-Time Automata
 An, Jie | Zhan, Bohua | Zhan, Naijun | Zhang, Miaomiao

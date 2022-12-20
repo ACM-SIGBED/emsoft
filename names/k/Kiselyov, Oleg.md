@@ -1,6 +1,6 @@
 # Kiselyov, Oleg
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### A Methodology for Generating Verified Combinatorial Circuits
 Kiselyov, Oleg | Swadi, Kedar N. | Taha, Walid

@@ -1,6 +1,6 @@
 # Vasudevan, Nalini
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Compositional Deadlock Detection for Rendezvous Communication
 Shao, Baolin | Vasudevan, Nalini | Edwards, Stephen A.

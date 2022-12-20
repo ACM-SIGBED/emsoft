@@ -1,6 +1,6 @@
 # Ribot González, Yilian
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### HopliteRT*: Real-Time NoC for FPGA
 Ribot González, Yilian | Nelissen, Geoffrey

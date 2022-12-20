@@ -1,6 +1,6 @@
 # Chen, Min-Hua
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### TeleScribe: a Scalable, Resumable Wireless Reprogramming Approach
 Chen, Min-Hua | Chou, Pai H.

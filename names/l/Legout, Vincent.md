@@ -1,6 +1,6 @@
 # Legout, Vincent
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### A Flattened Hierarchical Scheduler for Real-Time Virtualization
 Drescher, Michael | Legout, Vincent | Barbalace, Antonio | Ravindran, Binoy

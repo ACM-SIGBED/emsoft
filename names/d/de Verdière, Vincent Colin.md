@@ -1,6 +1,6 @@
 # de Verdière, Vincent Colin
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Speedup Prediction for Selective Compilation of Embedded Java Programs
 de Verdière, Vincent Colin | Cros, Sébastien | Fabre, Christian | Guider, Romain | Yovine, Sergio

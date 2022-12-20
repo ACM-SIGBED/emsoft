@@ -2,7 +2,7 @@
 
 * PCs: 2017
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Predictive Monitoring with Logic-Calibrated Uncertainty for Cyber-Physical Systems
 Ma, Meiyi | Stankovic, John A. | Bartocci, Ezio | Feng, Lu

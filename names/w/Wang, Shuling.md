@@ -1,6 +1,6 @@
 # Wang, Shuling
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Verifying Simulink Diagrams via a Hybrid Hoare Logic Prover
 Zou, Liang | Zhan, Naijun | Wang, Shuling | Fränzle, Martin | Qin, Shengchao

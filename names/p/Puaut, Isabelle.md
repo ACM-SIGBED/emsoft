@@ -1,6 +1,6 @@
 # Puaut, Isabelle
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Tightening Contention Delays While Scheduling Parallel Applications on Multi-core Architectures
 Rouxel, Benjamin | Derrien, Steven | Puaut, Isabelle

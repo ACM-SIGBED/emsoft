@@ -2,7 +2,7 @@
 
 * PCs: 2016 | 2017 | 2018 | 2020 | 2021 (cochair) | 2022 (chair)
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Determinate Composition of Fmus for Co-Simulation
 Broman, David | Brooks, Christopher X. | Greenberg, Lev | Lee, Edward A. | Masin, Michael | Tripakis, Stavros | Wetter, Michael

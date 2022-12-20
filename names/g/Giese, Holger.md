@@ -1,6 +1,6 @@
 # Giese, Holger
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Making Mechatronic Agents Resource-Aware in Order to Enable Safe Dynamic Resource Allocation
 Burmester, Sven | Gehrke, Matthias | Giese, Holger | Oberthür, Simon

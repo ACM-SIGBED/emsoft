@@ -1,6 +1,6 @@
 # Paire, Eric
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### JCOD: A Lightweight Modular Compilation Technology for Embedded Java
 Delsart, Bertrand | Joloboff, Vania | Paire, Eric

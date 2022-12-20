@@ -1,6 +1,6 @@
 # Kwiatkowska, Marta Z.
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Synthesising Optimal Timing Delays for Timed I/O Automata
 Diciolla, Marco | Kim, Chang Hwan Peter | Kwiatkowska, Marta Z. | Mereacre, Alexandru

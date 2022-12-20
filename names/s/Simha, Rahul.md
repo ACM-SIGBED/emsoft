@@ -1,6 +1,6 @@
 # Simha, Rahul
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Shared Hardware Data Structures for Hard Real-Time Systems
 Bloom, Gedare | Parmer, Gabriel | Narahari, Bhagirath | Simha, Rahul

@@ -1,6 +1,6 @@
 # Krintz, Chandra
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### AutoDVS: an Automatic, General-Purpose, Dynamic Clock Scheduling System for Hand-Held Devices
 Gurun, Selim | Krintz, Chandra

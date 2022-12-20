@@ -1,6 +1,6 @@
 # Islam, Bashima
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Cyber-Physical Verification of Intermittently Powered Embedded Systems
 Bohrer, Rose | Islam, Bashima

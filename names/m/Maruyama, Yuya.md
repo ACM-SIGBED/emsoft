@@ -1,6 +1,6 @@
 # Maruyama, Yuya
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Exploring the Performance of ROS2
 Maruyama, Yuya | Kato, Shinpei | Azumi, Takuya

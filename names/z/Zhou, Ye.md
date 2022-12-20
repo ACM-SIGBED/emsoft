@@ -1,6 +1,6 @@
 # Zhou, Ye
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### A Causality Interface for Deadlock Analysis in Dataflow
 Zhou, Ye | Lee, Edward A.

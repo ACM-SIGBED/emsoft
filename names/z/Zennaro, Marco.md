@@ -1,6 +1,6 @@
 # Zennaro, Marco
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Distributing Synchronous Programs using Bounded Queues
 Zennaro, Marco | Sengupta, Raja

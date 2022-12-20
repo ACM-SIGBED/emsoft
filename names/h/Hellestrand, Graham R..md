@@ -2,7 +2,7 @@
 
 * PCs: 2005
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Systems Architecture: the Empirical Way — Abstract Architectures to 'Optimal' Systems
 Hellestrand, Graham R.

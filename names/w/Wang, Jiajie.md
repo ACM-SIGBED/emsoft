@@ -1,6 +1,6 @@
 # Wang, Jiajie
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Timing Analysis of Synchronous Programs using WCRT Algebra: Scalability through Abstraction
 Wang, Jiajie | Mendler, Michael | Roop, Partha S. | Bodin, Bruno

@@ -1,6 +1,6 @@
 # Zufferey, Damien
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Automated Controller and Sensor Configuration Synthesis using Dimensional Analysis
 Pirron, Marcus | Zufferey, Damien | Stanley-Marbell, Phillip

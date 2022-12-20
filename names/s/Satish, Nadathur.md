@@ -1,6 +1,6 @@
 # Satish, Nadathur
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Scheduling Task Dependence Graphs with Variable Task Execution Times Onto Heterogeneous Multiprocessors
 Satish, Nadathur | Ravindran, Kaushik | Keutzer, Kurt

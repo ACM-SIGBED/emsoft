@@ -1,4 +1,4 @@
-# EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2019: 19th International Conference on Embedded Software
 Sankaranarayanan, Sriram | Bourke, Timothy
 * At: New York, NY, USA
 * Published: [ACM TECS, Vol. 18, No. 5s](https://dl.acm.org/toc/tecs/2019/18/5s)

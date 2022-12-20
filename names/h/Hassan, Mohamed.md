@@ -1,6 +1,6 @@
 # Hassan, Mohamed
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Bounding DRAM Interference in COTS Heterogeneous MPSoCs for Mixed Criticality Systems
 Hassan, Mohamed | Pellizzoni, Rodolfo

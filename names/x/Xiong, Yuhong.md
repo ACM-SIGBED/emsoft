@@ -1,6 +1,6 @@
 # Xiong, Yuhong
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### System-Level Types for Component-Based Design
 Lee, Edward A. | Xiong, Yuhong

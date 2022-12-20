@@ -2,7 +2,7 @@
 
 * PCs: 2013
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Methods for Multi-Dimensional Robustness Optimization in Complex Embedded Systems
 Hamann, Arne | Racu, Razvan | Ernst, Rolf

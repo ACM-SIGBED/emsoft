@@ -1,6 +1,6 @@
 # Carlson, Jan
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### An Event Detection Algebra for Reactive Systems
 Carlson, Jan | Lisper, Björn

@@ -1,6 +1,6 @@
 # Banerjee, Prithviraj
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### State Space Abstraction for Parameterized Self-Stabilizing Embedded Systems
 Liveris, Nikolaos D. | Zhou, Hai | Dick, Robert P. | Banerjee, Prithviraj

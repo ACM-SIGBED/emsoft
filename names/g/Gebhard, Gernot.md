@@ -1,6 +1,6 @@
 # Gebhard, Gernot
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Optimal Task Placement to Improve Cache Performance
 Gebhard, Gernot | Altmeyer, Sebastian

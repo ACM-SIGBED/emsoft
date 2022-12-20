@@ -1,4 +1,4 @@
-# EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 Kirsch, Christoph M. | Wilhelm, Reinhard
 * At: Salzburg, Austria
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1289927)

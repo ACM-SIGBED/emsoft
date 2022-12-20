@@ -1,4 +1,4 @@
-# EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2012: 12th International Conference on Embedded Software
 Maraninchi, Florence | Regehr, John
 * At: Tampere, Finland
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/2380356)

@@ -1,6 +1,6 @@
 # Avni, Guy
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Synthesizing Time-Triggered Schedules for Switched Networks with Faulty Links
 Avni, Guy | Guha, Shibashis | Rodríguez-Navas, Guillermo

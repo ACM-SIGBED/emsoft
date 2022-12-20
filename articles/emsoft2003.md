@@ -1,4 +1,4 @@
-# EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+# EMSOFT 2003: 3rd International Conference on Embedded Software
 Alur, Rajeev | Lee, Insup
 * At: Philadelphia, PA, USA
 * Published: [LNCS, volume 2855](https://link.springer.com/book/10.1007/b13983)

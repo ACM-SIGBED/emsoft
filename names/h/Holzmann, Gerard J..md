@@ -1,6 +1,6 @@
 # Holzmann, Gerard J.
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Software Certification: Coding, Code, and Coders
 Havelund, Klaus | Holzmann, Gerard J.

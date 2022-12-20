@@ -1,6 +1,6 @@
 # Krogh, Bruce H.
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Forward Invariant Cuts to Simplify Proofs of Safety
 Aréchiga, Nikos | Kapinski, James | Deshmukh, Jyotirmoy V. | Platzer, André | Krogh, Bruce H.

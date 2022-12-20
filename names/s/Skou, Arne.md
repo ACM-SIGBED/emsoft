@@ -1,6 +1,6 @@
 # Skou, Arne
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Testing Real-Time Embedded Software using UPPAAL-TRON: an Industrial Case Study
 Larsen, Kim Guldstrand | Mikucionis, Marius | Nielsen, Brian | Skou, Arne

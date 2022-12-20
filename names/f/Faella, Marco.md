@@ -1,6 +1,6 @@
 # Faella, Marco
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Code Aware Resource Management
 de Alfaro, Luca | Raman, Vishwanath | Faella, Marco | Majumdar, Rupak

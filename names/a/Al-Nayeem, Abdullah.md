@@ -1,6 +1,6 @@
 # Al-Nayeem, Abdullah
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Middleware Design for Physically-Asynchronous Logically-Synchronous (PALS) Systems
 Al-Nayeem, Abdullah | Kim, Cheolgi | Kang, Woochul | Wu, Po-Liang | Sha, Lui

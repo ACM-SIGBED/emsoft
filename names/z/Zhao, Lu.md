@@ -1,6 +1,6 @@
 # Zhao, Lu
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### ARMor: Fully Verified Software Fault Isolation
 Zhao, Lu | Li, Guodong | De Sutter, Bjorn | Regehr, John

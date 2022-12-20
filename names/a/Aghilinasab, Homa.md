@@ -1,6 +1,6 @@
 # Aghilinasab, Homa
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Dynamic Memory Bandwidth Allocation for Real-Time GPU-Based SoC Platforms
 Aghilinasab, Homa | Ali, Waqar | Yun, Heechul | Pellizzoni, Rodolfo

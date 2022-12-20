@@ -1,6 +1,6 @@
 # Zhu, Xinping
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Design Tools for Application Specific Embedded Processors
 Qin, Wei | Rajagopalan, Subramanian | Vachharajani, Manish | Wang, Hangsheng | Zhu, Xinping | August, David I. | Keutzer, Kurt | Malik, Sharad | Peh, Li-Shiuan

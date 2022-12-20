@@ -1,6 +1,6 @@
 # Zhou, Husheng
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Task Mapping in Heterogeneous Embedded Systems for Fast Completion Time
 Zhou, Husheng | Liu, Cong

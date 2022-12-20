@@ -1,6 +1,6 @@
 # Mari, Federico
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### On Model Based Synthesis of Embedded Control Software
 Alimguzhin, Vadim | Mari, Federico | Melatti, Igor | Salvo, Ivano | Tronci, Enrico

@@ -1,6 +1,6 @@
 # Nagpal, Rahul
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Compiler-Assisted Leakage Energy Optimization for Clustered VLIW Architectures
 Nagpal, Rahul | Srikant, Y. N.

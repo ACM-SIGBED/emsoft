@@ -1,6 +1,6 @@
 # Warg, Alexander
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Flattening Hierarchical Scheduling
 Lackorzynski, Adam | Warg, Alexander | Völp, Marcus | Härtig, Hermann

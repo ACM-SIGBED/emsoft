@@ -1,6 +1,6 @@
 # Lerner, Sorin
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Modular Deductive Verification of Sampled-Data Systems
 Ricketts, Daniel | Malecha, Gregory | Lerner, Sorin

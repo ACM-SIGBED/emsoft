@@ -1,6 +1,6 @@
 # Monniaux, David
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Verification of Device Drivers and Intelligent Controllers: a Case Study
 Monniaux, David

@@ -1,4 +1,4 @@
-# EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 de Alfaro, Luca | Palsberg, Jens
 * At: Atlanta, GA, USA
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1450058)

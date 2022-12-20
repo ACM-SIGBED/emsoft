@@ -1,6 +1,6 @@
 # Heimdahl, Mats Per Erik
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Challenges in the Regulatory Approval of Medical Cyber-Physical Systems
 Sokolsky, Oleg | Lee, Insup | Heimdahl, Mats Per Erik

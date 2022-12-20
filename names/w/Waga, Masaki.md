@@ -1,6 +1,6 @@
 # Waga, Masaki
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Moore-Machine Filtering for Timed and Untimed Pattern Matching
 Waga, Masaki | Hasuo, Ichiro

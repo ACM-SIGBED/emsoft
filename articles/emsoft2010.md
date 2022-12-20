@@ -1,4 +1,4 @@
-# EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2010: 10th International Conference on Embedded Software
 Carloni, Luca P. | Tripakis, Stavros
 * At: Scottsdale, AZ, USA
 * Published: [ACM](https://dl.acm.org/doi/proceedings/10.1145/1879021)

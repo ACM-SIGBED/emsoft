@@ -1,6 +1,6 @@
 # Shafique, Muhammad
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Embedded Software Reliability for Unreliable Hardware
 Chen, Jian-Jia | Shafique, Muhammad

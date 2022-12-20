@@ -1,6 +1,6 @@
 # Zambreno, Joseph
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Enhancing Compiler Techniques for Memory Energy Optimizations
 Zambreno, Joseph | Kandemir, Mahmut T. | Choudhary, Alok N.

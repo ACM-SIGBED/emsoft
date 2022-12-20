@@ -1,6 +1,6 @@
 # Taly, Ankur
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Switching Logic Synthesis for Reachability
 Taly, Ankur | Tiwari, Ashish

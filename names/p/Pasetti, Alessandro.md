@@ -1,6 +1,6 @@
 # Pasetti, Alessandro
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Embedded Software Market Transformation through Reusable Frameworks
 Pree, Wolfgang | Pasetti, Alessandro

@@ -2,14 +2,14 @@
 
 * PCs: 2009 (cochair) | 2010 | 2011 | 2013 | 2014
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Synchronous Modelling of Asynchronous Systems
 Halbwachs, Nicolas | Baghdadi, Siwar
 * DOI: [10.1007/3-540-45828-X_18](https://doi.org/10.1007/3-540-45828-X_18)
 * URL: <http://www-verimag.imag.fr/~halbwachs/PS/emsoft02.ps>
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Virtual Execution of AADL Models via a Translation into Synchronous Programs
 Jahier, Erwan | Halbwachs, Nicolas | Raymond, Pascal | Nicollin, Xavier | Lesens, David

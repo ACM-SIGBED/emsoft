@@ -1,6 +1,6 @@
 # Gérard, Léonard
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Programming Parallelism with Futures in Lustre
 Cohen, Albert | Gérard, Léonard | Pouzet, Marc

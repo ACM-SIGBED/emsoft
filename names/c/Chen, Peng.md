@@ -1,6 +1,6 @@
 # Chen, Peng
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Timing-Anomaly Free Dynamic Scheduling of Conditional DAG Tasks on Multi-Core Systems
 Chen, Peng | Liu, Weichen | Jiang, Xu | He, Qingqiang | Guan, Nan

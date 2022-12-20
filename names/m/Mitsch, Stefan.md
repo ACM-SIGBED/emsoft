@@ -1,6 +1,6 @@
 # Mitsch, Stefan
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Verified Train Controllers for the Federal Railroad Administration Train Kinematics Model: Balancing Competing Brake and Track Forces
 Kabra, Aditi | Mitsch, Stefan | Platzer, André

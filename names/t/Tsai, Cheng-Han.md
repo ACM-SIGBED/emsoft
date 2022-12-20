@@ -1,6 +1,6 @@
 # Tsai, Cheng-Han
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### WRR-SCAN: a Rate-Based Real-Time Disk-Scheduling Algorithm
 Tsai, Cheng-Han | Chu, Edward T.-H. | Huang, Tai-Yi

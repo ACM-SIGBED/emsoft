@@ -1,6 +1,6 @@
 # Hedaoo, Tushar
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Compositional Probabilistic Analysis of Temporal Properties over Stochastic Detectors
 Ruchkin, Ivan | Sokolsky, Oleg | Weimer, James | Hedaoo, Tushar | Lee, Insup

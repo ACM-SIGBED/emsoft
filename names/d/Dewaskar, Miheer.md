@@ -1,6 +1,6 @@
 # Dewaskar, Miheer
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### NExG: Provable and Guided State-Space Exploration of Neural Network Control Systems Using Sensitivity Approximation
 Goyal, Manish | Dewaskar, Miheer | Duggirala, Parasara Sridhar

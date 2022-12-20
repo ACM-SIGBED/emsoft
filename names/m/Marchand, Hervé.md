@@ -1,6 +1,6 @@
 # Marchand, Hervé
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### A Protocol for Loosely Time-Triggered Architectures
 Benveniste, Albert | Caspi, Paul | Le Guernic, Paul | Marchand, Hervé | Talpin, Jean-Pierre | Tripakis, Stavros

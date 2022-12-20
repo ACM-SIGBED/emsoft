@@ -1,6 +1,6 @@
 # Bril, Reinder J.
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Refining SIRAP with a Dedicated Resource Ceiling for Self-Blocking
 Behnam, Moris | Nolte, Thomas | Bril, Reinder J.

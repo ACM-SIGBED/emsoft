@@ -2,7 +2,7 @@
 
 * PCs: 2019 | 2020 | 2021
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Declarative Power Sequencing
 Schult, Jasmin | David Schwyn, Daniel | Giardino, Michael | Cock, David | Achermann, Reto | Roscoe, Timothy

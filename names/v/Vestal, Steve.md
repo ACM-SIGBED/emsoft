@@ -2,7 +2,7 @@
 
 * PCs: 2005
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Formalizing Software Architectures for Embedded Systems
 Binns, Pam | Vestal, Steve

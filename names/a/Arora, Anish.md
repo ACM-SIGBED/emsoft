@@ -1,6 +1,6 @@
 # Arora, Anish
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Disassembling Real-Time Fault-Tolerant Programs
 Bonakdarpour, Borzoo | Kulkarni, Sandeep S. | Arora, Anish

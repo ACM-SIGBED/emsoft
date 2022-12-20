@@ -1,6 +1,6 @@
 # Baghdadi, Siwar
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Synchronous Modelling of Asynchronous Systems
 Halbwachs, Nicolas | Baghdadi, Siwar

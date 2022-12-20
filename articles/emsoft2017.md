@@ -1,4 +1,4 @@
-# EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2017: 17th International Conference on Embedded Software
 de Simone, Robert | Brandenburg, Björn B.
 * At: Seoul, South Korea
 * Published: [ACM TECS, Vol. 16, No. 5s](https://dl.acm.org/toc/tecs/2017/16/5s)

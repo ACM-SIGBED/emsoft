@@ -1,6 +1,6 @@
 # Martinez, Adolfo Anta
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Automatic Verification of Control System Implementations
 Martinez, Adolfo Anta | Majumdar, Rupak | Saha, Indranil | Tabuada, Paulo

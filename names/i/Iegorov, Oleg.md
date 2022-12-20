@@ -1,6 +1,6 @@
 # Iegorov, Oleg
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Data Mining Approach to Temporal Debugging of Embedded Streaming Applications
 Iegorov, Oleg | Leroy, Vincent | Termier, Alexandre | Méhaut, Jean-François | Santana, Miguel

@@ -1,6 +1,6 @@
 # Xie, Xuan
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Online Reset for Signal Temporal Logic Monitoring
 Zhang, Zhenya | Arcaini, Paolo | Xie, Xuan

@@ -1,6 +1,6 @@
 # Levin, Michael Y.
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Active Property Checking
 Godefroid, Patrice | Levin, Michael Y. | Molnar, David A.

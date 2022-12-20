@@ -1,6 +1,6 @@
 # Izycheva, Anastasiia
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Regime Inference for Sound Floating-Point Optimizations
 Rabe, Robert | Izycheva, Anastasiia | Darulova, Eva

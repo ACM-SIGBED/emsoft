@@ -1,6 +1,6 @@
 # Bordoloi, Unmesh D.
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Reliability-Aware Frame Packing for the Static Segment of Flexray
 Tanasa, Bogdan | Bordoloi, Unmesh D. | Eles, Petru | Peng, Zebo

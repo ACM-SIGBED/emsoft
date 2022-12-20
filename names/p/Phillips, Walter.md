@@ -1,6 +1,6 @@
 # Phillips, Walter
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Model-Based Run-Time Monitoring of End-to-End Deadlines
 Ahluwalia, Jaswinder | Krüger, Ingolf H. | Phillips, Walter | Meisinger, Michael

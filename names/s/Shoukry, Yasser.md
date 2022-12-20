@@ -1,6 +1,6 @@
 # Shoukry, Yasser
 
-## EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2012: 12th International Conference on Embedded Software
 
 ### Input-Output Robustness for Discrete Systems
 Tabuada, Paulo | Balkan, Ayca | Caliskan, Sina Y. | Shoukry, Yasser | Majumdar, Rupak

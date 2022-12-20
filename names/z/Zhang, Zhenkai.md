@@ -1,6 +1,6 @@
 # Zhang, Zhenkai
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Cache-Related Preemption Delay Analysis for Multi-Level Inclusive Caches
 Zhang, Zhenkai | Koutsoukos, Xenofon D.

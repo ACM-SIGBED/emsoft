@@ -1,6 +1,6 @@
 # Poucet, Christophe
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Energy-Efficient Dynamic Memory Allocators at the Middleware Level of Embedded Systems
 Mamagkakis, Stylianos | Atienza, David | Poucet, Christophe | Catthoor, Francky | Soudris, Dimitrios

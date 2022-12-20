@@ -1,6 +1,6 @@
 # Yu, Haichuan
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Online Rerouting and Rescheduling of Time-Triggered Flows for Fault Tolerance in Time-Sensitive Networking
 Feng, Zhiwei | Gu, Zonghua | Yu, Haichuan | Deng, Qingxu | Niu, Linwei

@@ -1,6 +1,6 @@
 # Wang, JiaJie
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Energy and Timing Aware Synchronous Programming
 Wang, JiaJie | Roop, Partha S. | Girault, Alain

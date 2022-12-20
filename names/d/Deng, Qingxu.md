@@ -1,13 +1,13 @@
 # Deng, Qingxu
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### A Capacity Augmentation Bound for Real-Time Constrained-Deadline Parallel Tasks Under GEDF
 Sun, Jinghao | Guan, Nan | Jiang, Xu | Chang, Shuangshuang | Guo, Zhishan | Deng, Qingxu | Yi, Wang
 * DOI: [10.1109/TCAD.2018.2857362](https://doi.org/10.1109/TCAD.2018.2857362)
 * URL: <https://www.ece.ucf.edu/~zsguo/pubs/journals/TCAD2018.pdf>
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Online Rerouting and Rescheduling of Time-Triggered Flows for Fault Tolerance in Time-Sensitive Networking
 Feng, Zhiwei | Gu, Zonghua | Yu, Haichuan | Deng, Qingxu | Niu, Linwei

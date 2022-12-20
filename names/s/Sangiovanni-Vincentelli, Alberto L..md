@@ -2,14 +2,14 @@
 
 * PCs: 2002 (chair) | 2004 | 2005 | 2008
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Using Multiple Levels of Abstractions in Embedded Software Design
 Burch, Jerry R. | Passerone, Roberto | Sangiovanni-Vincentelli, Alberto L.
 * DOI: [10.1007/3-540-45449-7_23](https://doi.org/10.1007/3-540-45449-7_23)
 * URL: <https://ptolemy.berkeley.edu/projects/embedded/asves/embedded/theory/papers/emsoft1.pdf>
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Platform-Based Embedded Software Design for Multi-vehicle Multi-modal Systems
 Koo, Tak-John | Liebman, Judith | Ma, Cedric | Horowitz, Benjamin | Sangiovanni-Vincentelli, Alberto L. | Sastry, S. Shankar
@@ -19,14 +19,14 @@ Koo, Tak-John | Liebman, Judith | Ma, Cedric | Horowitz, Benjamin | Sangiovanni-
 Gößler, Gregor | Sangiovanni-Vincentelli, Alberto L.
 * DOI: [10.1007/3-540-45828-X_8](https://doi.org/10.1007/3-540-45828-X_8)
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### Heterogeneous Reactive Systems Modeling and Correct-by-Construction Deployment
 Benveniste, Albert | Carloni, Luca P. | Caspi, Paul | Sangiovanni-Vincentelli, Alberto L.
 * DOI: [10.1007/978-3-540-45212-6_4](https://doi.org/10.1007/978-3-540-45212-6_4)
 * URL: <http://www.cs.columbia.edu/~luca/research/hrsmcbcd_EMSOFT03.pdf>
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Separation of Concerns: Overhead in Modeling and Efficient Simulation Techniques
 Yang, Guang | Sangiovanni-Vincentelli, Alberto L. | Watanabe, Yosinori | Balarin, Felice
@@ -43,7 +43,7 @@ Benveniste, Albert | Caillaud, Benoît | Carloni, Luca P. | Caspi, Paul | Sangio
 * DOI: [10.1145/1017753.1017790](https://doi.org/10.1145/1017753.1017790)
 * URL: <http://www.cs.columbia.edu/~luca/research/hrsEMSOFT04.pdf>
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A Structural Approach to Quasi-Static Schedulability Analysis of Communicating Concurrent Programs
 Liu, Cong | Kondratyev, Alex | Watanabe, Yosinori | Sangiovanni-Vincentelli, Alberto L.
@@ -70,7 +70,7 @@ Benveniste, Albert | Caillaud, Benoît | Carloni, Luca P. | Sangiovanni-Vincente
 * DOI: [10.1145/1086228.1086276](https://doi.org/10.1145/1086228.1086276)
 * URL: <http://people.rennes.inria.fr/Albert.Benveniste/pub/2005emsoft_tag.pdf>
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### A Hierarchical Coordination Language for Interacting Real-Time Tasks
 Ghosal, Arkadeb | Sangiovanni-Vincentelli, Alberto L. | Kirsch, Christoph M. | Henzinger, Thomas A. | Iercan, Daniel T.
@@ -82,7 +82,7 @@ Benveniste, Albert | Caillaud, Benoît | Carloni, Luca P. | Caspi, Paul | Sangio
 * DOI: [10.1145/1176887.1176909](https://doi.org/10.1145/1176887.1176909)
 * URL: <http://www.cs.columbia.edu/~luca/research/cstsdsEMSOFT06.pdf>
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### A Communication Synthesis Infrastructure for Heterogeneous Networked Control Systems and its Application to Building Automation and Control
 Pinto, Alessandro | Carloni, Luca P. | Sangiovanni-Vincentelli, Alberto L.
@@ -94,14 +94,14 @@ Benveniste, Albert | Caspi, Paul | Di Natale, Marco | Pinello, Claudio | Sangiov
 * DOI: [10.1145/1289927.1289964](https://doi.org/10.1145/1289927.1289964)
 * URL: <https://hal.inria.fr/inria-00156468/document>
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Robust Strategy Synthesis for Probabilistic Systems Applied to Risk-Limiting Renewable-Energy Pricing
 Puggelli, Alberto | Sangiovanni-Vincentelli, Alberto L. | Seshia, Sanjit A.
 * DOI: [10.1145/2656045.2656069](https://doi.org/10.1145/2656045.2656069)
 * URL: <https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-16.pdf>
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Coherent Extension, Composition, and Merging Operators in Contract Models for System Design
 Passerone, Roberto | Íncer Romeo, Íñigo | Sangiovanni-Vincentelli, Alberto L.

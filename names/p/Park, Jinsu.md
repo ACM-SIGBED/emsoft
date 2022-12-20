@@ -1,6 +1,6 @@
 # Park, Jinsu
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### RMC: An Integrated Runtime System for Adaptive Many-Core Computing
 Park, Jinsu | Cho, Eunbi | Baek, Woongki

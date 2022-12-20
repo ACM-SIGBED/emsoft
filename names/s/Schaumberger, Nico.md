@@ -1,6 +1,6 @@
 # Schaumberger, Nico
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Precedence-aware Automated Competitive Analysis of Real-time Scheduling
 Pavlogiannis, Andreas | Schaumberger, Nico | Schmid, Ulrich | Chatterjee, Krishnendu

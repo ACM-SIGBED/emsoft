@@ -1,6 +1,6 @@
 # Yu, Zehong
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Mercury: Instruction Pipeline Aware Code Generation for Simulink Models
 Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Chang, Wanli | Wang, Rui

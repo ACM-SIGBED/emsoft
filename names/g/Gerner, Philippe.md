@@ -1,6 +1,6 @@
 # Gerner, Philippe
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Scheduling for Multi-Threaded Real-Time Programs via Path Planning
 Dang, Thao | Gerner, Philippe

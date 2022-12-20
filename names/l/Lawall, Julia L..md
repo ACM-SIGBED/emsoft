@@ -1,6 +1,6 @@
 # Lawall, Julia L.
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Energy Adaptation for Multimedia Information Kiosks
 Urunuela, Richard | Muller, Gilles | Lawall, Julia L.

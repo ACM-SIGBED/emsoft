@@ -1,6 +1,6 @@
 # Valente, Frederico
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Scheduling Multiple Independent Hard-Real-Time Jobs on a Heterogeneous Multiprocessor
 Moreira, Orlando | Valente, Frederico | Bekooij, Marco Jan Gerrit

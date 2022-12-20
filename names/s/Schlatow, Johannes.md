@@ -1,6 +1,6 @@
 # Schlatow, Johannes
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Response-Time Analysis for Task Chains with Complex Precedence and Blocking Relations
 Schlatow, Johannes | Ernst, Rolf

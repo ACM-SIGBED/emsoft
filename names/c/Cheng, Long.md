@@ -1,6 +1,6 @@
 # Cheng, Long
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Adaptive Runtime Shaping for Mixed-Criticality Systems
 Hu, Biao | Huang, Kai | Chen, Gang | Cheng, Long | Knoll, Alois C.

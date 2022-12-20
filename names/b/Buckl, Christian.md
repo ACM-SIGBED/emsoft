@@ -1,6 +1,6 @@
 # Buckl, Christian
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Model-Based Specification of Timing Requirements
 Buckl, Christian | Gaponova, Irina | Geisinger, Michael | Knoll, Alois C. | Lee, Edward A.

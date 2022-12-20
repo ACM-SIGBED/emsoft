@@ -1,6 +1,6 @@
 # Oehlert, Dominic
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Code-Inherent Traffic Shaping for Hard Real-Time Systems
 Oehlert, Dominic | Saidi, Selma | Falk, Heiko

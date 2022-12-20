@@ -1,6 +1,6 @@
 # Balakrishnan, Gogul
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Refining the Control Structure of Loops using Static Analysis
 Balakrishnan, Gogul | Sankaranarayanan, Sriram | Ivancic, Franjo | Gupta, Aarti

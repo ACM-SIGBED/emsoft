@@ -1,6 +1,6 @@
 # Legay, Axel
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Modal Interfaces: Unifying Interface Automata and Modal Specifications
 Raclet, Jean-Baptiste | Badouel, Éric | Benveniste, Albert | Caillaud, Benoît | Legay, Axel | Passerone, Roberto

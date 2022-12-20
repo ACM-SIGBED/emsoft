@@ -1,6 +1,6 @@
 # Salcic, Zoran A.
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Towards Direct Execution of Esterel Programs on Reactive Processors
 Roop, Partha S. | Salcic, Zoran A. | Sajeewa Dayaratne, M. W.

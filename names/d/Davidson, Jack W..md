@@ -2,7 +2,7 @@
 
 * PCs: 2005
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Using De-optimization to Re-optimize Code
 Hines, Stephen | Kulkarni, Prasad A. | Whalley, David B. | Davidson, Jack W.

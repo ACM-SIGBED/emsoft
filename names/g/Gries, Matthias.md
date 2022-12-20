@@ -1,6 +1,6 @@
 # Gries, Matthias
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Embedded Software in Network Processors - Models and Algorithms
 Thiele, Lothar | Chakraborty, Samarjit | Gries, Matthias | Maxiaguine, Alexander | Greutert, Jonas

@@ -1,6 +1,6 @@
 # Haubelt, Christian
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### A Generalized Static Data Flow Clustering Algorithm for MPSoC Scheduling of Multimedia Applications
 Falk, Joachim | Keinert, Joachim | Haubelt, Christian | Teich, Jürgen | Bhattacharyya, Shuvra S.

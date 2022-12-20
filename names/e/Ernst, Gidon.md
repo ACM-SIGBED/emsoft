@@ -1,6 +1,6 @@
 # Ernst, Gidon
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Two-Layered Falsification of Hybrid Systems Guided by Monte Carlo Tree Search
 Zhang, Zhenya | Ernst, Gidon | Sedwards, Sean | Arcaini, Paolo | Hasuo, Ichiro

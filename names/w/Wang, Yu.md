@@ -1,6 +1,6 @@
 # Wang, Yu
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Statistical Verification of Hyperproperties for Cyber-Physical Systems
 Wang, Yu | Zarei, Mojtaba | Bonakdarpour, Borzoo | Pajic, Miroslav

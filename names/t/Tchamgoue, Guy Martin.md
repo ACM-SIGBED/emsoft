@@ -1,6 +1,6 @@
 # Tchamgoue, Guy Martin
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Lessons Learned on Assumptions and Scalability with Time-Aware Instrumentation
 Tchamgoue, Guy Martin | Fischmeister, Sebastian

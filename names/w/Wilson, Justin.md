@@ -1,6 +1,6 @@
 # Wilson, Justin
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### RT-Xen: Towards Real-Time Hypervisor Scheduling in Xen
 Xi, Sisu | Wilson, Justin | Lu, Chenyang | Gill, Christopher D.

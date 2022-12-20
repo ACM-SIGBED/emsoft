@@ -1,6 +1,6 @@
 # Wan, Zhanyong
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Directions in Functional Programming for Real(-Time) Applications
 Taha, Walid | Hudak, Paul | Wan, Zhanyong

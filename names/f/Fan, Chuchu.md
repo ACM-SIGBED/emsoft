@@ -1,6 +1,6 @@
 # Fan, Chuchu
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### Locally Optimal Reach Set Over-Approximation for Nonlinear Systems
 Fan, Chuchu | Kapinski, James | Jin, Xiaoqing | Mitra, Sayan

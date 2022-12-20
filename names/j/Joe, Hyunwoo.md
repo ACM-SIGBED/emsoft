@@ -1,6 +1,6 @@
 # Joe, Hyunwoo
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### CapOS: Capacitor Error Resilience for Energy Harvesting Systems
 Choi, Jongouk | Joe, Hyunwoo | Jung, Changhee

@@ -1,6 +1,6 @@
 # Garlan, David
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Contract-Based Integration of Cyber-Physical Analyses
 Ruchkin, Ivan | de Niz, Dionisio | Chaki, Sagar | Garlan, David

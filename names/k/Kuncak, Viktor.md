@@ -1,6 +1,6 @@
 # Kuncak, Viktor
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Synthesis of Fixed-Point Programs
 Darulova, Eva | Kuncak, Viktor | Majumdar, Rupak | Saha, Indranil

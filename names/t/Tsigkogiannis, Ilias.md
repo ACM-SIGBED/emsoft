@@ -1,6 +1,6 @@
 # Tsigkogiannis, Ilias
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Multi-Level Software Reconfiguration for Sensor Networks
 Balani, Rahul | Han, Chih-Chieh | Kumar Rengaswamy, Ram | Tsigkogiannis, Ilias | Srivastava, Mani B.

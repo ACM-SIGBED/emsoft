@@ -1,6 +1,6 @@
 # Lampert, Robby
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Model-Checking Behavioral Programs
 Harel, David | Lampert, Robby | Marron, Assaf | Weiss, Gera

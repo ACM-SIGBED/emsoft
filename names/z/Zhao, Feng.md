@@ -1,6 +1,6 @@
 # Zhao, Feng
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Semantics-Based Optimization Across Uncoordinated Tasks in Networked Embedded Systems
 Liu, Jie | Cheong, Elaine | Zhao, Feng

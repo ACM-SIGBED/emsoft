@@ -1,6 +1,6 @@
 # Rival, Xavier
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Automatic Verification of Embedded System Code Manipulating Dynamic Structures Stored in Contiguous Regions
 Liu, Jiangchao | Chen, Liqian | Rival, Xavier

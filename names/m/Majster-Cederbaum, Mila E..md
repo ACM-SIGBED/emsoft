@@ -1,6 +1,6 @@
 # Majster-Cederbaum, Mila E.
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Compositional Analysis of Deadlock-Freedom for Tree-Like Component Architectures
 Majster-Cederbaum, Mila E. | Martens, Moritz

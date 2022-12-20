@@ -1,6 +1,6 @@
 # Ghose, Anirban
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Thermal-aware Adaptive Platform Management for Heterogeneous Embedded Systems
 Maity, Srijeeta | Ghose, Anirban | Dey, Soumyajit | Biswas, Swarnendu

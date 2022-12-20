@@ -1,6 +1,6 @@
 # Schuster, Simon
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Demystifying Soft-Error Mitigation by Control-Flow Checking — A New Perspective on its Effectiveness
 Schuster, Simon | Ulbrich, Peter | Stilkerich, Isabella | Dietrich, Christian | Schröder-Preikschat, Wolfgang

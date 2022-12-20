@@ -2,7 +2,7 @@
 
 * PCs: 2021
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Energy Efficient Streaming Applications with Guaranteed Throughput on MPSoCs
 Zhu, Jun | Sander, Ingo | Jantsch, Axel

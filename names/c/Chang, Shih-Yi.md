@@ -1,6 +1,6 @@
 # Chang, Shih-Yi
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Lightweight, Integrated Data Deduplication for Write Stress Reduction of Mobile Flash Storage
 Yen, Miao-Chiang | Chang, Shih-Yi | Chang, Li-Pin

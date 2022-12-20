@@ -1,6 +1,6 @@
 # Sokolova, Ana
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### Power-Aware Temporal Isolation with Variable-Bandwidth Servers
 Craciunas, Silviu S. | Kirsch, Christoph M. | Sokolova, Ana

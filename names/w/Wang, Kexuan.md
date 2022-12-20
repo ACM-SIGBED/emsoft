@@ -1,6 +1,6 @@
 # Wang, Kexuan
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Efficient Feasibility Analysis for Graph-based Real-Time Task Systems
 Sun, Jinghao | Shi, Rongxiao | Wang, Kexuan | Guan, Nan | Guo, Zhishan

@@ -1,6 +1,6 @@
 # Sun, Kyoungmoon
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### LTFTL: Lightweight Time-Shift Flash Translation Layer for Flash Memory Based Embedded Storage
 Sun, Kyoungmoon | Baek, Seungjae | Choi, Jongmoo | Lee, Donghee | Noh, Sam H. | Min, Sang Lyul

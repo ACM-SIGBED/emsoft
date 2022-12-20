@@ -1,6 +1,6 @@
 # Li, Guohui
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Excluding Parallel Execution to Improve Global Fixed Priority Response Time Analysis
 Zhou, Quan | Li, Jianjun | Li, Guohui

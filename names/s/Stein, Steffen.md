@@ -1,6 +1,6 @@
 # Stein, Steffen
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Real-Time Communication Analysis for Networks with Two-Stage Arbitration
 Diemer, Jonas | Rox, Jonas | Negrean, Mircea | Stein, Steffen | Ernst, Rolf

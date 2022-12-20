@@ -1,6 +1,6 @@
 # Gößler, Gregor
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### Compositional Modeling in Metropolis
 Gößler, Gregor | Sangiovanni-Vincentelli, Alberto L.

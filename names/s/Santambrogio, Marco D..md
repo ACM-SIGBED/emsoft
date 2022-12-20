@@ -1,6 +1,6 @@
 # Santambrogio, Marco D.
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### A Generalized Software Framework for Accurate and Efficient Management of Performance Goals
 Hoffmann, Henry | Maggio, Martina | Santambrogio, Marco D. | Leva, Alberto | Agarwal, Anant

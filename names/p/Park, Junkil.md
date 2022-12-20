@@ -1,6 +1,6 @@
 # Park, Junkil
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Automatic Verification of Linear Controller Software
 Pajic, Miroslav | Park, Junkil | Lee, Insup | Pappas, George J. | Sokolsky, Oleg

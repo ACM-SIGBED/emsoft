@@ -1,6 +1,6 @@
 # Xuedong, Liang
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Model-Based Validation of QoS Properties of Biomedical Sensor Networks
 Tschirner, Simon | Xuedong, Liang | Yi, Wang

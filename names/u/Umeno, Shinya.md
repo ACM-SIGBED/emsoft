@@ -1,6 +1,6 @@
 # Umeno, Shinya
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Event Order Abstraction for Parametric Real-Time System Verification
 Umeno, Shinya

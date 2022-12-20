@@ -2,7 +2,7 @@
 
 * PCs: 2019
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Relating Average and Discounted Costs for Quantitative Analysis of Timed Systems
 Alur, Rajeev | Trivedi, Ashutosh

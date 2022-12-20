@@ -1,6 +1,6 @@
 # Santos, Rui
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Multi-Level Hierarchical Scheduling in Ethernet Switches
 Santos, Rui | Behnam, Moris | Nolte, Thomas | Pedreiras, Paulo | Almeida, Luís

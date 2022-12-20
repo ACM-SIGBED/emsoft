@@ -1,6 +1,6 @@
 # Bae, Kyungmin
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### MSYNC: A Generalized Formal Design Pattern for Virtually Synchronous Multirate Cyber-physical Systems
 Bae, Kyungmin | Ölveczky, Peter Csaba

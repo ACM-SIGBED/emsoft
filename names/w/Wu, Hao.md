@@ -1,6 +1,6 @@
 # Wu, Hao
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Exponentially Timed SADF: Compositional Semantics, Reductions, and Analysis
 Katoen, Joost-Pieter | Wu, Hao

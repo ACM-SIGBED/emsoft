@@ -1,6 +1,6 @@
 # Roitzsch, Michael
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Slice-Balancing H.264 Video Encoding for Improved Scalability of Multicore Decoding
 Roitzsch, Michael

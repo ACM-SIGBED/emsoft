@@ -1,6 +1,6 @@
 # Zhang, Wen
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Sparsity-Aware Intelligent Spatiotemporal Data Sensing for Energy Harvesting IoT System
 Zhang, Wen | Xie, Mimi | Scott, Caleb | Pan, Chen

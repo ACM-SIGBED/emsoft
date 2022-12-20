@@ -1,6 +1,6 @@
 # Louis, Andrew V.
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Using Traffic Phase Shifting to Improve AFDX Link Utilization
 Mancuso, Renato | Louis, Andrew V. | Caccamo, Marco

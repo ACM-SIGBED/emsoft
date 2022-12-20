@@ -1,6 +1,6 @@
 # Baldovin, Andrea
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Limited Preemptive Scheduling of Non-Independent Task Sets
 Baldovin, Andrea | Mezzetti, Enrico | Vardanega, Tullio

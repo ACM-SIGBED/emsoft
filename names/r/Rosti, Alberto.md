@@ -1,6 +1,6 @@
 # Rosti, Alberto
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A UML 2.0 Profile for SystemC: Toward High-Level SoC Design
 Riccobene, Elvinia | Scandurra, Patrizia | Rosti, Alberto | Bocchio, Sara

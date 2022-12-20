@@ -1,6 +1,6 @@
 # Ganesan, Dharmalingam
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Defining a Strategy to Introduce a Software Product Line using Existing Embedded Systems
 Yoshimura, Kentaro | Ganesan, Dharmalingam | Muthig, Dirk

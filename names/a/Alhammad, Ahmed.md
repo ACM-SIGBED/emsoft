@@ -1,6 +1,6 @@
 # Alhammad, Ahmed
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Schedulability Analysis of Global Memory-Predictable Scheduling
 Alhammad, Ahmed | Pellizzoni, Rodolfo

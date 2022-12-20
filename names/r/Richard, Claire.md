@@ -1,6 +1,6 @@
 # Richard, Claire
 
-## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2002: 2nd International Workshop on Embedded Software
 
 ### FlexCC2: An Optimizing Retargetable C Compiler for DSP Processors
 Bertin, Valérie | Daveau, Jean-Marc | Guillaume, Philippe | Lepley, Thierry | Pilat, Denis | Richard, Claire | Santana, Miguel | Thery, Thomas

@@ -1,6 +1,6 @@
 # Iyenghar, Padma
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### A Model Based Approach for Debugging Embedded Systems in Real-Time
 Iyenghar, Padma | Westerkamp, Clemens | Wuebbelmann, Juergen | Pulvermüller, Elke

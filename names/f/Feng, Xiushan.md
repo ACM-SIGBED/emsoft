@@ -1,6 +1,6 @@
 # Feng, Xiushan
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Cutpoints for Formal Equivalence Verification of Embedded Software
 Feng, Xiushan | Hu, Alan J.

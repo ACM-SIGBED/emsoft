@@ -1,6 +1,6 @@
 # Corporaal, Henk
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Centralized End-to-End Flow Control in a Best-Effort Network-on-Chip
 Avasare, Prabhat | Nollet, Vincent | Mignolet, Jean-Yves | Verkest, Diederik | Corporaal, Henk

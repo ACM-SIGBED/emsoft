@@ -2,7 +2,7 @@
 
 * PCs: 2012 | 2013 | 2016 (cochair)
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Scalable Scheduling of Energy Control Systems
 Nghiem, Truong X. | Mangharam, Rahul

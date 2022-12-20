@@ -1,6 +1,6 @@
 # Bae, Sung-Hwan
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Efficient Exception Handling in Java Bytecode-to-C Ahead-of-Time Compiler for Embedded Systems
 Jung, Dong-Heon | Park, Jong Kuk | Bae, Sung-Hwan | Lee, Jaemok | Moon, Soo-Mook

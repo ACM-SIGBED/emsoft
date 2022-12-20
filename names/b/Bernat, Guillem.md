@@ -2,7 +2,7 @@
 
 * PCs: 2004 | 2005
 
-## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2003: 3rd International Conference on Embedded Software
 
 ### A Probabilistic Framework for Schedulability Analysis
 Burns, Alan | Bernat, Guillem | Broster, Ian

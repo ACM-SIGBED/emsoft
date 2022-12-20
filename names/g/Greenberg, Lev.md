@@ -1,6 +1,6 @@
 # Greenberg, Lev
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Determinate Composition of Fmus for Co-Simulation
 Broman, David | Brooks, Christopher X. | Greenberg, Lev | Lee, Edward A. | Masin, Michael | Tripakis, Stavros | Wetter, Michael

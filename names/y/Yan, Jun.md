@@ -1,6 +1,6 @@
 # Yan, Jun
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Compiler-Guided Register Reliability Improvement Against Soft Errors
 Yan, Jun | Zhang, Wei

@@ -1,6 +1,6 @@
 # Zhu, Angela Yun
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### E-FRP with Priorities
 Kaiabachev, Roumen | Taha, Walid | Zhu, Angela Yun

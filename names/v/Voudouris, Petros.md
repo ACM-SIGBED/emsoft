@@ -1,12 +1,12 @@
 # Voudouris, Petros
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Federated Scheduling of Sporadic DAGs on Unrelated Multiprocessors
 Voudouris, Petros | Stenström, Per | Pathan, Risat
 * DOI: [10.1145/3477018](https://doi.org/10.1145/3477018)
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Response-Time Analysis of Limited-Preemptive Sporadic DAG Tasks
 Dai, Gaoyang | Mohaqeqi, Morteza | Voudouris, Petros | Yi, Wang

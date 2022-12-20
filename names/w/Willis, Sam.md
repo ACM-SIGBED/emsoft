@@ -1,6 +1,6 @@
 # Willis, Sam
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Deriving Equations from Sensor Data Using Dimensional Function Synthesis
 Wang, Youchao | Willis, Sam | Tsoutsouras, Vasileios | Stanley-Marbell, Phillip

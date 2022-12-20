@@ -1,6 +1,6 @@
 # Cao, Qiuhua
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Dual Face Phased Array Radar Scheduling with Multiple Constraints
 Cao, Qiuhua | Stankovic, John A.

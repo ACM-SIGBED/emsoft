@@ -1,4 +1,4 @@
-# EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2015: 15th International Conference on Embedded Software
 Girault, Alain | Guan, Nan
 * At: Amsterdam, The Netherlands
 * Published: [IEEE](https://ieeexplore.ieee.org/xpl/conhome/7313572/proceeding)

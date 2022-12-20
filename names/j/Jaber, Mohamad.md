@@ -1,6 +1,6 @@
 # Jaber, Mohamad
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### From High-Level Component-Based Models to Distributed Implementations
 Bonakdarpour, Borzoo | Bozga, Marius | Jaber, Mohamad | Quilbeuf, Jean | Sifakis, Joseph

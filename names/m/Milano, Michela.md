@@ -1,6 +1,6 @@
 # Milano, Michela
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Communication-Aware Stochastic Allocation and Scheduling Framework for Conditional Task Graphs in Multi-Processor Systems-on-Chip
 Dolif, Emiliano | Lombardi, Michele | Ruggiero, Martino | Milano, Michela | Benini, Luca

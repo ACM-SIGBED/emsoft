@@ -1,6 +1,6 @@
 # Jarandikar, Akshay
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### The SMT-Based Automatic Road Network Generation in Vehicle Simulation Environment
 Kim, BaekGyu | Jarandikar, Akshay | Shum, Jonathan | Shiraishi, Shinichi | Yamaura, Masahiro

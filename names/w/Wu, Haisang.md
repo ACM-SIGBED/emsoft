@@ -1,6 +1,6 @@
 # Wu, Haisang
 
-## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Energy-Efficient, Utility Accrual Scheduling Under Resource Constraints for Mobile Embedded Systems
 Wu, Haisang | Ravindran, Binoy | Jensen, E. Douglas | Li, Peng

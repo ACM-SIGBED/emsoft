@@ -1,6 +1,6 @@
 # Guérin, Roch
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Adaptive Edge Offloading for Image Classification Under Rate Limit
 Qiu, Jiaming | Wang, Ruiqi | Chakrabarti, Ayan | Guérin, Roch | Lu, Chenyang

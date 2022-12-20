@@ -1,6 +1,6 @@
 # Donzé, Alexandre
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### CPSGrader: Synthesizing Temporal Logic Testers for Auto-Grading an Embedded Systems Laboratory
 Juniwal, Garvit | Donzé, Alexandre | Jensen, Jeff C. | Seshia, Sanjit A.

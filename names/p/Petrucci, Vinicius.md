@@ -1,6 +1,6 @@
 # Petrucci, Vinicius
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Energy-Aware Thread Co-Location in Heterogeneous Multicore Processors
 Nishtala, Rajiv | Mossé, Daniel | Petrucci, Vinicius

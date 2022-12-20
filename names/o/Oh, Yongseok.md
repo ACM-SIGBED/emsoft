@@ -1,6 +1,6 @@
 # Oh, Yongseok
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Disk Schedulers for Solid State Drivers
 Kim, Jaeho | Oh, Yongseok | Kim, Eunsam | Choi, Jongmoo | Lee, Donghee | Noh, Sam H.

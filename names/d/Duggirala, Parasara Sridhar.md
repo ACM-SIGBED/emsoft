@@ -2,7 +2,7 @@
 
 * PCs: 2020 | 2021
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Safety Verification for Linear Systems
 Duggirala, Parasara Sridhar | Tiwari, Ashish
@@ -14,7 +14,7 @@ Duggirala, Parasara Sridhar | Mitra, Sayan | Viswanathan, Mahesh
 * DOI: [10.1109/EMSOFT.2013.6658604](https://doi.org/10.1109/EMSOFT.2013.6658604)
 * URL: <http://mitras.ece.illinois.edu/research/2013/EMSOFT2013.pdf>
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Robust Reachable Set: Accounting for Uncertainties in Linear Dynamical Systems
 Ghosh, Bineet | Duggirala, Parasara Sridhar
@@ -24,7 +24,7 @@ Ghosh, Bineet | Duggirala, Parasara Sridhar
 Duggirala, Parasara Sridhar | Bak, Stanley
 * DOI: [10.1145/3358214](https://doi.org/10.1145/3358214)
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Safety Analysis of Embedded Controllers Under Implementation Platform Timing Uncertainties
 Hobbs, Clara | Ghosh, Bineet | Xu, Shengjie | Duggirala, Parasara Sridhar | Chakraborty, Samarjit

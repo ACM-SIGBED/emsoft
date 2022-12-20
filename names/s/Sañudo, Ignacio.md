@@ -1,6 +1,6 @@
 # Sañudo, Ignacio
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Analytical Characterization of End-to-End Communication Delays With Logical Execution Time
 Martinez, Jorge | Sañudo, Ignacio | Bertogna, Marko

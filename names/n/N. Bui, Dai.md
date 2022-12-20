@@ -1,6 +1,6 @@
 # N. Bui, Dai
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### StreaMorph: A Case for Synthesizing Energy-Efficient Adaptive Programs using High-Level Abstractions
 N. Bui, Dai | Lee, Edward A.

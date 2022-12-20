@@ -1,6 +1,6 @@
 # Cutulenco, Greta
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### SiPTA: Signal Processing for Trace-Based Anomaly Detection
 Zeinali Zadeh, Mohammad Mehdi | Salem, Mahmoud | Kumar, Neeraj | Cutulenco, Greta | Fischmeister, Sebastian

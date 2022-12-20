@@ -1,6 +1,6 @@
 # Kwon, Sejun
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Managing GPU Buffers for Caching More Apps in Mobile Systems
 Kwon, Sejun | Kim, Sang-Hoon | Kim, Jin-Soo | Jeong, Jinkyu

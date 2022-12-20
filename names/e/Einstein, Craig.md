@@ -1,6 +1,6 @@
 # Einstein, Craig
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### End-to-End Analysis and Design of a Drone Flight Controller
 Cheng, Zhuoqun | West, Richard | Einstein, Craig

@@ -1,6 +1,6 @@
 # Sabah, Quentin
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Synchronous Control of Reconfiguration in Fractal Component-Based Systems: a Case Study
 Bouhadiba, Tayeb | Sabah, Quentin | Delaval, Gwenaël | Rutten, Éric

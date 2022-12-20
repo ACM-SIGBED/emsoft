@@ -1,6 +1,6 @@
 # Jo, Heeseung
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### A Superblock-Based Flash Translation Layer for NAND Flash Memory
 Kang, Jeong-Uk | Jo, Heeseung | Kim, Jin-Soo | Lee, Joonwon

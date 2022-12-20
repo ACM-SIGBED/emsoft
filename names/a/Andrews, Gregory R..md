@@ -1,6 +1,6 @@
 # Andrews, Gregory R.
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### The Revenge of the Overlay: Automatic Compaction of OS Kernel Code via On-Demand Code Loading
 He, Haifeng | Debray, Saumya K. | Andrews, Gregory R.

@@ -1,6 +1,6 @@
 # Ahn, Junick
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Optimizing Discharge Efficiency of Reconfigurable Battery With Deep Reinforcement Learning
 Jeon, Seunghyeok | Kim, Jiwon | Ahn, Junick | Cha, Hojung

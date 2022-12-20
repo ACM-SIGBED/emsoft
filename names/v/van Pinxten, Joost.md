@@ -1,6 +1,6 @@
 # van Pinxten, Joost
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### Parametric Scheduler Characterization
 van Pinxten, Joost | Geilen, Marc | Basten, Twan

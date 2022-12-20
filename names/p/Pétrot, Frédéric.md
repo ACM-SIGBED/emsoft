@@ -1,6 +1,6 @@
 # Pétrot, Frédéric
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### A Unified HW/SW Interface Model to Remove Discontinuities Between HW and SW Design
 Bouchhima, Aimen | Chen, Xi | Pétrot, Frédéric | Cesário, Wander O. | Jerraya, Ahmed Amine

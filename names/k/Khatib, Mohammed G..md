@@ -1,6 +1,6 @@
 # Khatib, Mohammed G.
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### Workload-Based Configuration of MEMS-Based Storage Devices for Mobile Systems
 Khatib, Mohammed G. | Miller, Ethan L. | Hartel, Pieter H.

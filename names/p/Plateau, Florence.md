@@ -1,6 +1,6 @@
 # Plateau, Florence
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Synchronization of Periodic Clocks
 Cohen, Albert | Duranton, Marc | Eisenbeis, Christine | Pagetti, Claire | Plateau, Florence | Pouzet, Marc

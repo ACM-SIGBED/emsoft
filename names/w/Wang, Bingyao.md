@@ -1,6 +1,6 @@
 # Wang, Bingyao
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Tinkertoy: Build Your Own Operating Systems for IoT Devices
 Wang, Bingyao | Seltzer, Margo

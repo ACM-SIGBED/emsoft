@@ -1,6 +1,6 @@
 # Ho, Shu-Yin
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### On Minimizing Analog Variation Errors to Resolve the Scalability Issue of ReRAM-based Crossbar Accelerators
 Kang, Yao-Wen | Wu, Chun-Feng | Chang, Yuan-Hao | Kuo, Tei-Wei | Ho, Shu-Yin

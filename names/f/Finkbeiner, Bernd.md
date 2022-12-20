@@ -1,6 +1,6 @@
 # Finkbeiner, Bernd
 
-## EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2019: 19th International Conference on Embedded Software
 
 ### FPGA Stream-Monitoring of Real-time Properties
 Baumeister, Jan | Finkbeiner, Bernd | Schwenger, Maximilian | Torfah, Hazem

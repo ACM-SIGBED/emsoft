@@ -1,6 +1,6 @@
 # Xu, Meng
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Real-Time Multi-Core Virtual Machine Scheduling in Xen
 Xi, Sisu | Xu, Meng | Lu, Chenyang | Phan, Linh Thi Xuan | Gill, Christopher D. | Sokolsky, Oleg | Lee, Insup

@@ -1,6 +1,6 @@
 # Girard, Antoine
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Time-Triggered Implementations of Dynamic Controllers
 Nghiem, Truong X. | Pappas, George J. | Alur, Rajeev | Girard, Antoine

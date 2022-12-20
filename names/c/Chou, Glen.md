@@ -1,6 +1,6 @@
 # Chou, Glen
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Using Control Synthesis to Generate Corner Cases: A Case Study on Autonomous Driving
 Chou, Glen | Sahin, Yunus Emre | Yang, Liren | Rutledge, Kwesi J. | Nilsson, Petter | Ozay, Necmiye

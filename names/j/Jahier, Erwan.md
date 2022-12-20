@@ -1,6 +1,6 @@
 # Jahier, Erwan
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Virtual Execution of AADL Models via a Translation into Synchronous Programs
 Jahier, Erwan | Halbwachs, Nicolas | Raymond, Pascal | Nicollin, Xavier | Lesens, David

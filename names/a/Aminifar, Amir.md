@@ -1,6 +1,6 @@
 # Aminifar, Amir
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### Stability-Aware Analysis and Design of Embedded Control Systems
 Aminifar, Amir | Eles, Petru | Peng, Zebo | Cervin, Anton

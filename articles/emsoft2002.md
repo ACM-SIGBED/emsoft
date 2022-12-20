@@ -1,4 +1,4 @@
-# EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
+# EMSOFT 2002: 2nd International Workshop on Embedded Software
 Sangiovanni-Vincentelli, Alberto L. | Sifakis, Joseph
 * At: Grenoble, France
 * Published: [LNCS, volume 2491](https://link.springer.com/book/10.1007/3-540-45828-X)

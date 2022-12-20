@@ -1,6 +1,6 @@
 # Hart, Darren
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Design and Implementation of a Comprehensive Real-Time Java Virtual Machine
 Auerbach, Joshua S. | Bacon, David F. | Blainey, Bob | Cheng, Perry | Dawson, Michael | Fulton, Mike | Grove, David | Hart, Darren | Stoodley, Mark G.

@@ -1,6 +1,6 @@
 # Wu, Ying-Jan
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### iNVMFS: An Efficient File System for NVRAM-Based Intermittent Computing Devices
 Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li-Pin

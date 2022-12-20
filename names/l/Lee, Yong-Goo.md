@@ -1,6 +1,6 @@
 # Lee, Yong-Goo
 
-## EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
 ### µ-FTL: : a Memory-Efficient Flash Translation Layer Supporting Multiple Mapping Granularities
 Lee, Yong-Goo | Jung, Dawoon | Kang, Dongwon | Kim, Jin-Soo

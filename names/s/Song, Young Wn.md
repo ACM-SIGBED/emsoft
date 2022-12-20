@@ -1,6 +1,6 @@
 # Song, Young Wn
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### On the Existence of Probe Effect in Multi-Threaded Embedded Programs
 Song, Young Wn | Lee, Yann-Hang

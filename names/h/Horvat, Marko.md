@@ -1,6 +1,6 @@
 # Horvat, Marko
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Testing Cyber-Physical Systems through Bayesian Optimization
 Deshmukh, Jyotirmoy V. | Horvat, Marko | Jin, Xiaoqing | Majumdar, Rupak | Prabhu, Vinayak S.

@@ -1,6 +1,6 @@
 # Subramonian, Venkita
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Reusable Models for Timing and Liveness Analysis of Middleware for Distributed Real-Time and Embedded Systems
 Subramonian, Venkita | Gill, Christopher D. | Sánchez, César | Sipma, Henny B.

@@ -1,6 +1,6 @@
 # Snowdon, David C.
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Accurate On-Line Prediction of Processor and Memory Energy Usage Under Voltage Scaling
 Snowdon, David C. | Petters, Stefan M. | Heiser, Gernot

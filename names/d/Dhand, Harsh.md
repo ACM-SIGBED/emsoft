@@ -1,6 +1,6 @@
 # Dhand, Harsh
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### New Approach to Architectural Synthesis: Incorporating QoS Constraint
 Dhand, Harsh | Dwivedi, Basant Kumar | Balakrishnan, M.

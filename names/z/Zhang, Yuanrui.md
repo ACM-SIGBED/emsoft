@@ -1,6 +1,6 @@
 # Zhang, Yuanrui
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Exploring Parallelization Strategies for NUFFT Data Translation
 Zhang, Yuanrui | Kandemir, Mahmut T. | Pitsianis, Nikos | Sun, Xiaobai

@@ -1,6 +1,6 @@
 # Bonivento, Alvise
 
-## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
 ### Rialto: a Bridge between Description and Implementation of Control Algorithms for Wireless Sensor Networks
 Bonivento, Alvise | Carloni, Luca P. | Sangiovanni-Vincentelli, Alberto L.

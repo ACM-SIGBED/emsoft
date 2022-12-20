@@ -1,6 +1,6 @@
 # Gao, Congming
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Lightweight Data Compression for Mobile Flash Storage
 Ji, Cheng | Chang, Li-Pin | Shi, Liang | Gao, Congming | Wu, Chao | Wang, Yuangang | Xue, Chun Jason

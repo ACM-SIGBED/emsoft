@@ -1,6 +1,6 @@
 # Wen, Wujie
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Tolerating Defects in Low-Power Neural Network Accelerators Via Retraining-Free Weight Approximation
 Hosseini, Fateme S. | Meng, Fanruo | Yang, Chengmo | Wen, Wujie | Cammarota, Rosario

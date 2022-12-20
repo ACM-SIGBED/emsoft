@@ -1,6 +1,6 @@
 # Sen, Rathijit
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### WCET Estimation for Executables in the Presence of Data Caches
 Sen, Rathijit | Srikant, Y. N.

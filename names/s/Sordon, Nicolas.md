@@ -1,6 +1,6 @@
 # Sordon, Nicolas
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### Improving and Estimating the Precision of Bounds on the Worst-Case Latency of Task Chains
 Girault, Alain | Prévot, Christophe | Quinton, Sophie | Henia, Rafik | Sordon, Nicolas

@@ -1,6 +1,6 @@
 # Ahn, Seongjun
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Uniformity Improving Page Allocation for Flash Memory File Systems
 Baek, Seungjae | Ahn, Seongjun | Choi, Jongmoo | Lee, Donghee | Noh, Sam H.

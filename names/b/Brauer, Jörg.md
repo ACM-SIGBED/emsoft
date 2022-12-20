@@ -1,6 +1,6 @@
 # Brauer, Jörg
 
-## EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2011: 11th International Conference on Embedded Software
 
 ### Precise Control Flow Reconstruction using Boolean Logic
 Reinbacher, Thomas | Brauer, Jörg

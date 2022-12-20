@@ -1,6 +1,6 @@
 # Marquet, Kevin
 
-## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### PinaVM: a SystemC Front-End Based on an Executable Intermediate Representation
 Marquet, Kevin | Moy, Matthieu

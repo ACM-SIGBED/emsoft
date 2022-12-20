@@ -1,6 +1,6 @@
 # Shi, Junjie
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Formal Verification of Resource Synchronization Protocol Implementations: A Case Study in RTEMS
 Shi, Junjie | von Egidy, Christoph-Cordt | Chen, Kuan-Hsun | Chen, Jian-Jia

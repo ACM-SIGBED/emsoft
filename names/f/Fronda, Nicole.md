@@ -1,6 +1,6 @@
 # Fronda, Nicole
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Differentiable Inference of Temporal Logic Formulas
 Fronda, Nicole | Abbas, Houssam

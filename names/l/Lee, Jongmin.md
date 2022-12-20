@@ -1,6 +1,6 @@
 # Lee, Jongmin
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Block Recycling Schemes and Their Cost-Based Optimization in NAND Flash Memory Based Storage System
 Lee, Jongmin | Kim, Sunghoon | Kwon, Hunki | Hyun, Choulseung | Ahn, Seongjun | Choi, Jongmoo | Lee, Donghee | Noh, Sam H.

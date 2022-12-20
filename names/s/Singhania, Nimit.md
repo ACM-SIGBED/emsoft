@@ -1,6 +1,6 @@
 # Singhania, Nimit
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Precise Piecewise Affine Models From Input-Output Data
 Alur, Rajeev | Singhania, Nimit

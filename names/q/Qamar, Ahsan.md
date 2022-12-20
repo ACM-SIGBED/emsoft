@@ -1,6 +1,6 @@
 # Qamar, Ahsan
 
-## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2013: 13th International Conference on Embedded Software
 
 ### A Characterization of Integrated Multi-View Modeling in the Context of Embedded and Cyber-Physical Systems
 Persson, Magnus | Törngren, Martin | Qamar, Ahsan | Westman, Jonas | Biehl, Matthias | Tripakis, Stavros | Vangheluwe, Hans | Denil, Joachim

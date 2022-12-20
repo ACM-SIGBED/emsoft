@@ -1,6 +1,6 @@
 # Ghosal, Arkadeb
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### A Hierarchical Coordination Language for Interacting Real-Time Tasks
 Ghosal, Arkadeb | Sangiovanni-Vincentelli, Alberto L. | Kirsch, Christoph M. | Henzinger, Thomas A. | Iercan, Daniel T.

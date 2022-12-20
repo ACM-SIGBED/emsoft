@@ -1,6 +1,6 @@
 # Ma, Yehan
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Exploring Edge Computing for Multitier Industrial Control
 Ma, Yehan | Lu, Chenyang | Sinopoli, Bruno | Zeng, Shen

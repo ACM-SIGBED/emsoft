@@ -1,6 +1,6 @@
 # Lim, Sung-Soo
 
-## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 
 ### Performance Characterization of Prelinking and Preloading for Embedded Systems
 Jung, Changhee | Woo, Duk-Kyun | Kim, Kanghee | Lim, Sung-Soo

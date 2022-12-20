@@ -1,6 +1,6 @@
 # Pathan, Risat
 
-## EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2021: 21st International Conference on Embedded Software
 
 ### Federated Scheduling of Sporadic DAGs on Unrelated Multiprocessors
 Voudouris, Petros | Stenström, Per | Pathan, Risat

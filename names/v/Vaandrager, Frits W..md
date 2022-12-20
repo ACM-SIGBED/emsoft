@@ -2,7 +2,7 @@
 
 * PCs: 2006 | 2007
 
-## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2006: 6th ACM & IEEE International Conference on Embedded Software
 
 ### Analysis of the Zeroconf Protocol using UPPAAL
 Gebremichael, Biniam | Vaandrager, Frits W. | Zhang, Miaomiao

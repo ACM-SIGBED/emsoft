@@ -1,6 +1,6 @@
 # García Soto, Miriam
 
-## EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2016: 16th International Conference on Embedded Software
 
 ### An Algorithmic Approach to Global Asymptotic Stability Verification of Hybrid Systems
 Prabhakar, Pavithra | García Soto, Miriam

@@ -1,6 +1,6 @@
 # Puggelli, Alberto
 
-## EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2014: 14th International Conference on Embedded Software
 
 ### Robust Strategy Synthesis for Probabilistic Systems Applied to Risk-Limiting Renewable-Energy Pricing
 Puggelli, Alberto | Sangiovanni-Vincentelli, Alberto L. | Seshia, Sanjit A.

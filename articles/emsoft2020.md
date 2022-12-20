@@ -1,4 +1,4 @@
-# EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+# EMSOFT 2020: 20th International Conference on Embedded Software
 Bourke, Timothy | Phan, Linh Thi Xuan
 * At: Online
 * Published: [IEEE TCAD, Vol. 39, No. 11](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9244237&punumber=43)

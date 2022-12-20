@@ -1,6 +1,6 @@
 # Deters, Morgan
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Storage Allocation for Real-Time, Embedded Systems
 Donahue, Steven M. | Hampton, Matthew P. | Deters, Morgan | Nye, Jonathan M. | Cytron, Ron | Kavi, Krishna M.

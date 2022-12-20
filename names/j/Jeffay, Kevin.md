@@ -2,7 +2,7 @@
 
 * PCs: 2002
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### Rate-Based Resource Allocation Models for Embedded Systems
 Jeffay, Kevin | Goddard, Steve

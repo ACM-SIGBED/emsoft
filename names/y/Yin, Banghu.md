@@ -1,6 +1,6 @@
 # Yin, Banghu
 
-## EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2022: 22nd International Conference on Embedded Software
 
 ### Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement
 Yin, Banghu | Chen, Liqian | Liu, Jiangchao | Wang, Ji

@@ -1,6 +1,6 @@
 # Wang, Lingtai
 
-## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2018: 18th International Conference on Embedded Software
 
 ### The Opacity of Real-Time Automata
 Wang, Lingtai | Zhan, Naijun | An, Jie

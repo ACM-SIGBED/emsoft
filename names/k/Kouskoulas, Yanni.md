@@ -1,6 +1,6 @@
 # Kouskoulas, Yanni
 
-## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2015: 15th International Conference on Embedded Software
 
 ### Formal Verification of ACAS X, an Industrial Airborne Collision Avoidance System
 Jeannin, Jean-Baptiste | Ghorbal, Khalil | Kouskoulas, Yanni | Gardner, Ryan W. | Schmidt, Aurora C. | Zawadzki, Erik | Platzer, André

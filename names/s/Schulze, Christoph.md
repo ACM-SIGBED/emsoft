@@ -1,6 +1,6 @@
 # Schulze, Christoph
 
-## EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2017: 17th International Conference on Embedded Software
 
 ### Improving Invariant Mining via Static Analysis
 Schulze, Christoph | Cleaveland, Rance

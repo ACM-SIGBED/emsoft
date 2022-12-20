@@ -1,6 +1,6 @@
 # Miskelly, Jack
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Fast DRAM PUFs on Commodity Devices
 Miskelly, Jack | O’Neill, Máire

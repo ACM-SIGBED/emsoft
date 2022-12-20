@@ -1,6 +1,6 @@
 # Akella, Venkatesh
 
-## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
 ### Markov Decision Process (MDP) Framework for Optimizing Software on Mobile Phones
 Cheung, Tang Lung | Okamoto, Kari | Maker III, Frank | Liu, Xin | Akella, Venkatesh

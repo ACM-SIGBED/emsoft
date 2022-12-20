@@ -1,6 +1,6 @@
 # Potomkin, Kostiantyn
 
-## EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
+## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Reachability analysis of linear hybrid systems via block decomposition
 Bogomolov, Sergiy | Forets, Marcelo | Frehse, Goran | Potomkin, Kostiantyn | Schilling, Christian

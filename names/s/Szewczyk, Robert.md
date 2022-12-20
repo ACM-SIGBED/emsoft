@@ -1,6 +1,6 @@
 # Szewczyk, Robert
 
-## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
+## EMSOFT 2001: 1st International Workshop on Embedded Software
 
 ### A Network-Centric Approach to Embedded Software for Tiny Devices
 Culler, David E. | Hill, Jason L. | Buonadonna, Philip | Szewczyk, Robert | Woo, Alec
