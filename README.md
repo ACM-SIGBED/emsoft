@@ -53,6 +53,11 @@ names are separated by vertical bars (`|`).
 2. One line per program committee member (beginning with a `*`).
    Chairs first and otherwise in alphabetical order.
 
+### Names files
+
+The reverse mapping from author names to articles is generated automatically 
+(`make summaries`).
+
 ## Scripts
 
 The [scripts/procproc.ml](scripts/procproc.ml) script can validate (`make`) 

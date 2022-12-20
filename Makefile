@@ -9,3 +9,7 @@ rewrite:
 authors:
 	$(PROCPROC) articles/*.md --print-authors | sort | uniq
 
+summaries:
+	-@rm -rf names/*
+	$(PROCPROC) articles/*.md --summarize-by-name names
+

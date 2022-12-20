@@ -26,7 +26,46 @@ type conference = {
   articles  : article list;
 }
 
-(* Reverse looksup on name *)
+(* Poor man's removal of unicode accents *)
+let unimap = [
+  ("Á", 'a');
+  ("À", 'a');
+  ("Â", 'a');
+  ("Ä", 'a');
+  ("Ă", 'a');
+  ("É", 'e');
+  ("È", 'e');
+  ("Ê", 'e');
+  ("Ë", 'e');
+  ("Í", 'i');
+  ("Ì", 'i');
+  ("Î", 'i');
+  ("Ï", 'i');
+  ("Ó", 'o');
+  ("Ò", 'o');
+  ("Ô", 'o');
+  ("Ö", 'o');
+  ("Ï", 'o');
+  ("Ú", 'u');
+  ("Ù", 'u');
+  ("Û", 'u');
+  ("Ü", 'u');
+  ("Ç", 'c');
+  ("Č", 'c');
+  ("Ș", 's');
+  ("Ț", 't');
+  ("ẞ", 's');
+  ]
+
+let convert_first s =
+  let rec f = function
+    | [] -> Char.lowercase_ascii s.[0]
+    | (m, c) :: mcs when String.starts_with ~prefix:m s -> c
+    | _ :: mcs -> f mcs
+  in
+  f unimap
+
+(* Reverse lookups on name *)
 
 type name_info = Info of {
   articles : article list;
@@ -291,12 +330,11 @@ let print_authors outc =
         (rev !conferences))
 
 let make_name_summaries path =
-  let make_path { last; _ } =
-    let path = Filename.concat path
-                (String.make 1 (Char.lowercase_ascii last.[0]))
-    in
-    (try Unix.mkdir path 0o666 with Unix.(Unix_error (EEXIST, _, _)) -> ());
-    path
+  let make_path ({ last; _ } as name) =
+    let first_letter = String.make 1 (convert_first last) in
+    let path = Filename.concat path first_letter in
+    (try Unix.mkdir path 0o777 with Unix.(Unix_error (EEXIST, _, _)) -> ());
+    Filename.concat path (string_of_name name ^ ".md")
   in
   let summarize name =
     let Info { articles } = get_name_info name in
