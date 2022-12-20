@@ -1,4 +1,6 @@
 # EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
+* Brandenburg, Björn B.
+* Sankaranarayanan, Sriram
 * Abbas, Houssam
 * Abdelzaher, Tarek
 * Xue, Bai

@@ -1,6 +1,6 @@
 # Halbwachs, Nicolas
 
-* PCs: 2009 | 2010 | 2011 | 2013 | 2014
+* PCs: 2009 (cochair) | 2010 | 2011 | 2013 | 2014
 
 ## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 

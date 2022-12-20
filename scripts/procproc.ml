@@ -73,29 +73,35 @@ let convert_first s =
 type name_info = Info of {
   articles : article list;
   pcs : string list;
+  chair : string list;
+  cochair : string list;
 }
 
-let empty_name_info = Info { articles = []; pcs = [] }
+let empty_name_info = Info { articles = []; pcs = [];
+                             chair = []; cochair = [] }
 
 let name_hash = ((Hashtbl.create 1000) : (name, name_info) Hashtbl.t)
 
-let add_article article name =
+let name_map f name =
   match Hashtbl.find_opt name_hash name with
-  | None ->
-      Hashtbl.add name_hash name
-        (Info { articles = [article]; pcs = [] })
-  | Some (Info ({ articles; _ } as info)) ->
-      Hashtbl.replace name_hash name
-        (Info { info with articles = article :: articles })
+  | None -> Hashtbl.add name_hash name (f empty_name_info)
+  | Some info -> Hashtbl.replace name_hash name (f info)
 
-let add_pc pc name =
-  match Hashtbl.find_opt name_hash name with
-  | None ->
-      Hashtbl.add name_hash name
-        (Info { articles = []; pcs = [pc] })
-  | Some (Info ({ pcs; _ } as info)) ->
-      Hashtbl.replace name_hash name
-        (Info { info with pcs = pc :: pcs })
+let add_article article =
+  name_map (fun (Info ({ articles; _ } as info)) ->
+              (Info { info with articles = article :: articles }))
+
+let add_pc pc =
+  name_map (fun (Info ({ pcs; _ } as info)) ->
+              (Info { info with pcs = pc :: pcs }))
+
+let add_chair year =
+  name_map (fun (Info ({ chair; _ } as info)) ->
+              (Info { info with chair = year :: chair }))
+
+let add_cochair year =
+  name_map (fun (Info ({ cochair; _ } as info)) ->
+              (Info { info with cochair = year :: cochair }))
 
 let name_compare { last = l1; first = f1 } { last = l2; first = f2 } =
   match String.compare l1 l2 with 0 -> String.compare f1 f2 | n -> n
@@ -176,12 +182,19 @@ let output_conference out
   output_char out '\n';
   ignore (List.fold_left (output_article check_article_session out) "" articles)
 
-let output_summary name articles pcs out =
+let output_pc_year was_chair was_cochair out year =
+  output_string out year;
+  if was_chair year then output_string out " (chair)"
+  else if was_cochair year then output_string out " (cochair)"
+
+let output_summary name (Info { articles; pcs; chair; cochair }) out =
   output_heading out 1 (string_of_name name);
   output_char out '\n';
   (if pcs <> [] then begin
     output_string out "* PCs: ";
-    output_list output_string out pcs;
+    output_list
+      (output_pc_year (fun y -> List.mem y chair)
+                      (fun y -> List.mem y cochair)) out pcs;
     output_char out '\n'
   end);
   ignore (List.fold_left
@@ -354,6 +367,8 @@ let read_conference fin =
   let title, seq = expect_heading 1 seq in
   let year = parse_conf_year title in
   let chair, cochair, seq = expect_chairs seq in
+  add_chair year chair;
+  Option.iter (add_cochair year) cochair;
   let where, seq = expect_field "At" seq in
   let published, seq = expect_field "Published" seq in
   let session, seq = expect_heading 2 seq in
@@ -408,8 +423,10 @@ let make_name_summaries path =
     Filename.concat path (string_of_name name ^ ".md")
   in
   let summarize name =
-    let Info { articles; pcs } = get_name_info name in
-    to_output (output_summary name (List.rev articles) (List.rev pcs))
+    let Info ({ articles; pcs; _ } as info) = get_name_info name in
+    to_output (output_summary name
+                  (Info { info with articles = List.rev articles;
+                                    pcs = List.rev pcs }))
       (make_path name)
   in
   List.iter summarize (all_names ())

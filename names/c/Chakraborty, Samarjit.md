@@ -1,6 +1,6 @@
 # Chakraborty, Samarjit
 
-* PCs: 2009 | 2013 | 2015 | 2021 | 2022
+* PCs: 2009 (chair) | 2013 | 2015 | 2021 | 2022
 
 ## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 

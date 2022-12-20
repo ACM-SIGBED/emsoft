@@ -1,6 +1,6 @@
 # Broman, David
 
-* PCs: 2016 | 2017 | 2018 | 2020 | 2021 | 2022
+* PCs: 2016 | 2017 | 2018 | 2020 | 2021 (cochair) | 2022 (chair)
 
 ## EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
 

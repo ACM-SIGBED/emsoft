@@ -1,6 +1,6 @@
 # Baruah, Sanjoy K.
 
-* PCs: 2011 | 2014 | 2015 | 2016 | 2018 | 2022
+* PCs: 2011 (chair) | 2014 | 2015 | 2016 | 2018 | 2022
 
 ## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
 

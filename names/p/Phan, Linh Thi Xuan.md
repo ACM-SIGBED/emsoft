@@ -1,6 +1,6 @@
 # Phan, Linh Thi Xuan
 
-* PCs: 2015 | 2016 | 2020 | 2021
+* PCs: 2015 | 2016 | 2020 (cochair) | 2021 (chair)
 
 ## EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
 

@@ -1,6 +1,6 @@
 # Fischmeister, Sebastian
 
-* PCs: 2009 | 2010 | 2011 | 2013 | 2014 | 2016
+* PCs: 2009 | 2010 | 2011 (cochair) | 2013 | 2014 | 2016
 
 ## EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
 

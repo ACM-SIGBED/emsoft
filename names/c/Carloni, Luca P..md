@@ -1,6 +1,6 @@
 # Carloni, Luca P.
 
-* PCs: 2005 | 2006 | 2007 | 2009 | 2010 | 2011 | 2014
+* PCs: 2005 | 2006 | 2007 | 2009 | 2010 (chair) | 2011 | 2014
 
 ## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
 

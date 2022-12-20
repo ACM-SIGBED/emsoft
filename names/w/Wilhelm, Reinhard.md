@@ -1,6 +1,6 @@
 # Wilhelm, Reinhard
 
-* PCs: 2002 | 2006 | 2007 | 2009 | 2010 | 2011 | 2012
+* PCs: 2002 | 2006 | 2007 (cochair) | 2009 | 2010 | 2011 | 2012
 
 ## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 

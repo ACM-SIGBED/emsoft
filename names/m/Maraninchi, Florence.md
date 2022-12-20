@@ -1,6 +1,6 @@
 # Maraninchi, Florence
 
-* PCs: 2007 | 2009 | 2012 | 2014 | 2015 | 2016 | 2017
+* PCs: 2007 | 2009 | 2012 (chair) | 2014 | 2015 | 2016 | 2017
 
 ## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
 

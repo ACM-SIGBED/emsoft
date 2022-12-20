@@ -1,6 +1,6 @@
 # de Simone, Robert
 
-* PCs: 2009 | 2010 | 2011 | 2013 | 2014 | 2015 | 2016 | 2017
+* PCs: 2009 | 2010 | 2011 | 2013 | 2014 | 2015 | 2016 | 2017 (chair)
 
 ## EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
 

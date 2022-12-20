@@ -1,6 +1,6 @@
 # Tripakis, Stavros
 
-* PCs: 2007 | 2010 | 2011 | 2012 | 2013 | 2014 | 2016 | 2017 | 2018 | 2021 | 2022
+* PCs: 2007 | 2010 (cochair) | 2011 | 2012 | 2013 | 2014 | 2016 | 2017 | 2018 | 2021 | 2022
 
 ## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 

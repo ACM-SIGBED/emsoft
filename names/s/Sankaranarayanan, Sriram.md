@@ -1,6 +1,6 @@
 # Sankaranarayanan, Sriram
 
-* PCs: 2016 | 2017 | 2019
+* PCs: 2016 | 2017 | 2018 (cochair) | 2019 (chair)
 
 ## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
 

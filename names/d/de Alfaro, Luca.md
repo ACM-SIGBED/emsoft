@@ -1,6 +1,6 @@
 # de Alfaro, Luca
 
-* PCs: 2004 | 2005 | 2008
+* PCs: 2004 | 2005 | 2008 (chair)
 
 ## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 

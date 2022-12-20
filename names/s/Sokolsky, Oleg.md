@@ -1,6 +1,6 @@
 # Sokolsky, Oleg
 
-* PCs: 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2021
+* PCs: 2012 | 2013 (cochair) | 2014 | 2015 | 2016 | 2017 | 2018 | 2021
 
 ## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 

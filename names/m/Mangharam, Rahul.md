@@ -1,6 +1,6 @@
 # Mangharam, Rahul
 
-* PCs: 2012 | 2013 | 2016
+* PCs: 2012 | 2013 | 2016 (cochair)
 
 ## EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
 

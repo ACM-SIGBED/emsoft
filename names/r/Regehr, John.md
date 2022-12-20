@@ -1,6 +1,6 @@
 # Regehr, John
 
-* PCs: 2007 | 2009 | 2012 | 2013 | 2014
+* PCs: 2007 | 2009 | 2012 (cochair) | 2013 | 2014
 
 ## EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
 

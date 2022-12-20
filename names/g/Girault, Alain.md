@@ -1,6 +1,6 @@
 # Girault, Alain
 
-* PCs: 2005 | 2015 | 2016 | 2022
+* PCs: 2005 | 2015 (chair) | 2016 | 2022
 
 ## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 
