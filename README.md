@@ -1,4 +1,4 @@
-# EMSOFT: ACM SIGBED International Conference on Embedded Software
+# EMSOFT: International Conference on Embedded Software
 
 This repository contains metadata for the EMSOFT conference.
 
