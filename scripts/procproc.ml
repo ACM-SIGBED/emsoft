@@ -20,7 +20,8 @@ type article = {
 
 type conference = {
   title     : string;
-  chairs    : name list;
+  chair     : name;
+  cochair   : name option;
   where     : string;
   published : string;
   articles  : article list;
@@ -148,9 +149,13 @@ let output_article check_current out current
   output_char out '\n';
   current
 
-let output_conference out { title; chairs; where; published; articles } =
+let output_conference out { title; chair; cochair; where; published; articles } =
   output_heading out 1 title;
-  output_names out chairs;
+  output_name out chair;
+  (match cochair with
+   | None -> ()
+   | Some cochair -> output_string out " | "; output_name out cochair);
+  output_char out '\n';
   output_field out "At" where;
   output_field out "Published" published;
   output_char out '\n';
@@ -289,16 +294,22 @@ let rec try_to_list tryf =
 let expect_articles data seq =
   try_to_list try_article data seq
 
+let expect_chairs seq =
+  match expect_names seq with
+  | [ chair; cochair ], seq' -> chair, Some cochair, seq'
+  | [ chair ], seq' -> chair, None, seq'
+  | _, _ -> error "expected one or two names (chair and cochair)"
+
 let read_conference fin =
   let seq = make_seq fin in
   let title, seq = expect_heading 1 seq in
-  let chairs, seq = expect_names seq in
+  let chair, cochair, seq = expect_chairs seq in
   let where, seq = expect_field "At" seq in
   let published, seq = expect_field "Published" seq in
   let session, seq = expect_heading 2 seq in
   let articles, seq = expect_articles (title, session) seq in
   expect_end seq;
-  { title; chairs; where; published; articles }
+  { title; chair; cochair; where; published; articles }
 
 (* Algorithms *)
 
