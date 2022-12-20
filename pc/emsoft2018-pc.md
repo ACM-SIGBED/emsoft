@@ -1,4 +1,4 @@
-# EMSOFT 2018 - Program Committee
+# EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
 * Abbas, Houssam
 * Abdelzaher, Tarek
 * Bai, Xue

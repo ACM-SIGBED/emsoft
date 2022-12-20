@@ -1,4 +1,4 @@
-# EMSOFT 2013 - Program Committee
+# EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
 * Ernst, Rolf
 * Sokolsky, Oleg
 * Alur, Rajeev

@@ -1,4 +1,4 @@
-# EMSOFT 2022 - Program Committee
+# EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
 * Broman, David
 * Pagetti, Claire
 * Andersson, James

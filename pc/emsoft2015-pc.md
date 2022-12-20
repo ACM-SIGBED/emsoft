@@ -1,4 +1,4 @@
-# EMSOFT 2015 - Program Committee
+# EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
 * Girault, Alain
 * Guan, Nan
 * Abdelzaher, Tarek

@@ -1,4 +1,4 @@
-# EMSOFT 2017 - Program Committee
+# EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
 * Brandenburg, Björn
 * de Simone, Robert
 * Årzén, Karl-Erik

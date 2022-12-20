@@ -1,4 +1,4 @@
-# EMSOFT 2010 - Program Committee
+# EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
 * Carloni, Luca
 * Tripakis, Stavros
 * Alur, Rajeev

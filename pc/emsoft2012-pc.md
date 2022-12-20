@@ -1,4 +1,4 @@
-# EMSOFT 2012 - Program Committee
+# EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
 * Maraninchi, Florence
 * Regehr, John
 * Anderson, James

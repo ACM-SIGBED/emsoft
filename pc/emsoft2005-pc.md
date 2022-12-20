@@ -1,4 +1,4 @@
-# EMSOFT 2005 - Program Committee
+# EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
 * Wolf, Wayne
 * Bacon, David
 * Benveniste, Albert

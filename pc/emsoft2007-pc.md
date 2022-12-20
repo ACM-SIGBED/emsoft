@@ -1,4 +1,4 @@
-# EMSOFT 2007 - Program Committee
+# EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
 * Alur, Rajeev
 * Benini, Luca
 * Benveniste, Albert

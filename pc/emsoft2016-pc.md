@@ -1,4 +1,4 @@
-# EMSOFT 2016 - Program Committee
+# EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
 * Eles, Petru
 * Mangharam, Rahul
 * Abeni, Luca

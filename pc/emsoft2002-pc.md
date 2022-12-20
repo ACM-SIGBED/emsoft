@@ -1,4 +1,4 @@
-# EMSOFT 2002 - Program Committee
+# EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 * Alur, Rajeev
 * Berry, Gerard
 * Broy, Manfred

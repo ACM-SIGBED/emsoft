@@ -1,4 +1,4 @@
-# EMSOFT 2020 - Program Committee
+# EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
 * Bourke, Timothy
 * Thi Xuan Phan, Linh
 * Abbas, Houssam

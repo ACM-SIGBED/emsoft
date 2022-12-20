@@ -1,4 +1,4 @@
-# EMSOFT 2006 - Program Committee
+# EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
 * Alur, Rajeev
 * Brinksma, Ed
 * Carloni, Luca

@@ -1,4 +1,4 @@
-# EMSOFT 2011 - Program Committee
+# EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
 * Baruah, Sanjoy K.
 * Fischmeister, Sebastian
 * Abdelzaher, Tarek

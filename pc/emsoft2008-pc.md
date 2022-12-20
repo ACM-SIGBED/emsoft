@@ -1,4 +1,4 @@
-# EMSOFT 2008 - Program Committee
+# EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
 * Bacon, David F.
 * Benini, Luca
 * Burns, Alan

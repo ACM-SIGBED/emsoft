@@ -1,4 +1,4 @@
-# EMSOFT 2021 - Program Committee
+# EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
 * Phan, Linh Thi Xuan
 * Broman, David
 * Abdelzaher, Tarek

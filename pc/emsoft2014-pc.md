@@ -1,4 +1,4 @@
-# EMSOFT 2014 - Program Committee
+# EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
 * Mitra, Tulika
 * Reineke, Jan
 * Bacivarov, Iuliana

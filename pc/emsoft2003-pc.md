@@ -1,4 +1,4 @@
-# EMSOFT 2003 - Program Committee
+# EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
 * Alur, Rajeev
 * Benveniste, Albert
 * Buttazzo, Giorgio

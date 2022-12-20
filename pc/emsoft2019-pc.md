@@ -1,4 +1,4 @@
-# EMSOFT 2019 - Program Committee
+# EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
 * Abbas, Houssam
 * Bak, Stanley
 * Balkan, Ayca 
