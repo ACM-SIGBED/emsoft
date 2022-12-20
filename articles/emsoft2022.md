@@ -132,7 +132,7 @@ Shi, Junjie | von Egidy, Christoph-Cordt | Chen, Kuan-Hsun | Chen, Jian-Jia
 
 ### Differentiable Inference of Temporal Logic Formulas
 Fronda, Nicole | Abbas, Houssa
-* DOI: [https://ieeexplore.ieee.org/document/9852801](https://doi.org/https://ieeexplore.ieee.org/document/9852801)
+* DOI: [10.1109/TCAD.2022.3197506](https://doi.org/10.1109/TCAD.2022.3197506)
 * URL: <https://arxiv.org/abs/2208.05440>
 
 ### Efficient Backward Reachability Using the Minkowski Difference of Constrained Zonotopes

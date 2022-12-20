@@ -1,4 +1,4 @@
-#!/usr/bin/env ocaml
+#!/usr/bin/env -S ocaml unix.cma
 
 (*
   2022-12-18 T. Bourke
@@ -10,11 +10,12 @@ type name = {
 }
 
 type article = {
-  title   : string;
-  authors : name list;
-  doi     : string;
-  url     : string option;
-  session : string;
+  title      : string;
+  authors    : name list;
+  doi        : string;
+  url        : string option;
+  conference : string;
+  session    : string;
 }
 
 type conference = {
@@ -25,12 +26,39 @@ type conference = {
   articles  : article list;
 }
 
+(* Reverse looksup on name *)
+
+type name_info = Info of {
+  articles : article list;
+}
+
+let empty_name_info = Info { articles = [] }
+
+let name_hash = ((Hashtbl.create 1000) : (name, name_info) Hashtbl.t)
+
+let add_article article name =
+  match Hashtbl.find_opt name_hash name with
+  | None ->
+      Hashtbl.add name_hash name
+        (Info { articles = [article] })
+  | Some (Info { articles }) ->
+      Hashtbl.replace name_hash name
+        (Info { articles = article :: articles })
+
+let name_compare { last = l1; first = f1 } { last = l2; first = f2 } =
+  match String.compare l1 l2 with 0 -> String.compare f1 f2 | n -> n
+
+let all_names () =
+  List.sort name_compare
+    (Hashtbl.fold (fun name _ names -> name :: names) name_hash [])
+
+let get_name_info = Hashtbl.find name_hash
+
 (* Printing *)
 
-let output_name out { last; first } =
-  output_string out last;
-  output_string out ", ";
-  output_string out first
+let string_of_name { last; first } = last ^ ", " ^ first
+
+let output_name out name = output_string out (string_of_name name)
 
 let output_name_endline out name =
   output_name out name;
@@ -61,18 +89,25 @@ let output_field out n v =
 let output_opt_field n out v =
   match v with None -> () | Some v -> output_field n out v
 
-let output_article out current_session { title; authors; doi; url; session } =
-  let current_session =
-    if String.equal session current_session
-    then current_session
-    else (output_heading out 2 session; output_char out '\n'; session)
-  in
+let check_article_session out current_session { session; _ } =
+  if String.equal current_session session
+  then current_session
+  else (output_heading out 2 session; output_char out '\n'; session)
+
+let check_article_conference out current_conference { conference; _ } =
+  if String.equal current_conference conference
+  then current_conference
+  else (output_heading out 2 conference; output_char out '\n'; conference)
+
+let output_article check_current out current
+    ({ title; authors; doi; url; _ } as article) =
+  let current = check_current out current article in
   output_heading out 3 title;
   output_names out authors;
   output_field out "DOI" doi;
   output_opt_field out "URL" url;
   output_char out '\n';
-  current_session
+  current
 
 let output_conference out { title; chairs; where; published; articles } =
   output_heading out 1 title;
@@ -80,7 +115,13 @@ let output_conference out { title; chairs; where; published; articles } =
   output_field out "At" where;
   output_field out "Published" published;
   output_char out '\n';
-  ignore (List.fold_left (output_article out) "" articles)
+  ignore (List.fold_left (output_article check_article_session out) "" articles)
+
+let output_summary name articles out =
+  output_heading out 1 (string_of_name name);
+  output_char out '\n';
+  ignore (List.fold_left
+            (output_article check_article_conference out) "" articles)
 
 (* Parsing *)
 
@@ -186,7 +227,7 @@ let try_session session seq =
   | None, seq -> session, seq
   | Some session, seq -> session, seq
 
-let try_article session seq =
+let try_article (conference, session) seq =
   let session, seq = try_session session seq in
   match try_heading 3 seq with
   | None, seq -> None, seq
@@ -194,7 +235,9 @@ let try_article session seq =
       let authors, seq = expect_names seq in
       let doi, seq = expect_field "DOI" seq in
       let url, seq = try_field "URL" seq in
-      Some ({ title; authors; doi; url; session }, session), seq
+      let article = { title; authors; doi; url; conference; session } in
+      List.iter (add_article article) authors;
+      Some (article, (conference, session)), seq
 
 let rec try_to_list tryf =
   let rec f acc state seq =
@@ -204,8 +247,8 @@ let rec try_to_list tryf =
   in
   f []
 
-let expect_articles session seq =
-  try_to_list try_article session seq
+let expect_articles data seq =
+  try_to_list try_article data seq
 
 let read_conference fin =
   let seq = make_seq fin in
@@ -214,7 +257,7 @@ let read_conference fin =
   let where, seq = expect_field "At" seq in
   let published, seq = expect_field "Published" seq in
   let session, seq = expect_heading 2 seq in
-  let articles, seq = expect_articles session seq in
+  let articles, seq = expect_articles (title, session) seq in
   expect_end seq;
   { title; chairs; where; published; articles }
 
@@ -247,6 +290,20 @@ let print_authors outc =
                   iter (output_name_endline outc) authors) articles)
         (rev !conferences))
 
+let make_name_summaries path =
+  let make_path { last; _ } =
+    let path = Filename.concat path
+                (String.make 1 (Char.lowercase_ascii last.[0]))
+    in
+    (try Unix.mkdir path 0o666 with Unix.(Unix_error (EEXIST, _, _)) -> ());
+    path
+  in
+  let summarize name =
+    let Info { articles } = get_name_info name in
+    to_output (output_summary name (List.rev articles)) (make_path name)
+  in
+  List.iter summarize (all_names ())
+
 let _ = Arg.parse [
     ("--print", Arg.Unit (fun () -> output_conferences stdout),
      "print conferences to stdout");
@@ -254,6 +311,8 @@ let _ = Arg.parse [
      "write conferences to file");
     ("--print-authors", Arg.Unit (fun () -> print_authors stdout),
      "print authors to stdout");
+    ("--summarize-by-name", Arg.String make_name_summaries,
+     "create summary pages indexed by last name")
   ]
   load_file
   "procproc: process article files"
