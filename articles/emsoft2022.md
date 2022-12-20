@@ -6,7 +6,7 @@ Broman, David | Pagetti, Claire
 ## Memory and Compilers
 
 ### iNVMFS: An Efficient File System for NVRAM-Based Intermittent Computing Devices
-Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li- Pin
+Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li-Pin
 * DOI: [10.1109/TCAD.2022.3197485](https://doi.org/10.1109/TCAD.2022.3197485)
 
 ### Mercury: Instruction Pipeline Aware Code Generation for Simulink Models
@@ -14,7 +14,7 @@ Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Cha
 * DOI: [10.1109/TCAD.2022.3199967](https://doi.org/10.1109/TCAD.2022.3199967)
 
 ### An I/O Virtualization Framework With I/O-Related Memory Contention Control for Real-Time Systems
-Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio
+Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio C.
 * DOI: [10.1109/TCAD.2022.3202434](https://doi.org/10.1109/TCAD.2022.3202434)
 
 ### Toward Register Spilling Security Using LLVM and ARM Pointer Authentication
@@ -29,7 +29,7 @@ Hobbs, Clara | Ghosh, Bineet | Xu, Shengjie | Duggirala, Parasara Sridhar | Chak
 * URL: <https://www.cs.unc.edu/~samarjit/papers/emsoft2022.pdf>
 
 ### Verified Train Controllers for the Federal Railroad Administration Train Kinematics Model: Balancing Competing Brake and Track Forces
-Kabra, Aditi | Mitsch, Stefan | Platzer, André
+Kabra, Aditi | Mitsch, Stefan | Platzer, André
 * DOI: [10.1109/TCAD.2022.3197690](https://doi.org/10.1109/TCAD.2022.3197690)
 
 ### Verifying Controllers With Vision-Based Perception Using Safe Approximate Abstractions
@@ -43,7 +43,7 @@ Zhu, Weidong | Butler, Kevin R. B.
 ## Machine Learning, Networks, and IoT
 
 ### Adaptive Edge Offloading for Image Classification Under Rate Limit
-Qiu, Jiaming | Wang, Ruiqi | Chakrabarti, Ayan | Guérin, Roch | Lu, kChenyang
+Qiu, Jiaming | Wang, Ruiqi | Chakrabarti, Ayan | Guérin, Roch | Lu, Chenyang
 * DOI: [10.1109/TCAD.2022.3197533](https://doi.org/10.1109/TCAD.2022.3197533)
 * URL: <https://arxiv.org/abs/2208.00485>
 

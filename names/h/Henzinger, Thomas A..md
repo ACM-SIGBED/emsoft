@@ -20,6 +20,11 @@ Kirsch, Christoph M. | Sanvido, Marco A. A. | Henzinger, Thomas A. | Pree, Wolfg
 * DOI: [10.1007/3-540-45828-X_5](https://doi.org/10.1007/3-540-45828-X_5)
 * URL: <https://www.cs.uni-salzburg.at/~ck/content/publications/conferences/EMSOFT02-GiottoHelicopterControl.pdf>
 
+### Time-Safety Checking for Embedded Programs
+Henzinger, Thomas A. | Kirsch, Christoph M. | Majumdar, Rupak | Matic, Slobodan
+* DOI: [10.1007/3-540-45828-X_7](https://doi.org/10.1007/3-540-45828-X_7)
+* URL: <https://people.mpi-sws.org/~rupak/Papers/TimeSafetyCheckingForECode.ps>
+
 ### Timed Interfaces
 de Alfaro, Luca | Henzinger, Thomas A. | Stoelinga, Mariëlle
 * DOI: [10.1007/3-540-45828-X_9](https://doi.org/10.1007/3-540-45828-X_9)

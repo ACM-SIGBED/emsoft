@@ -7,18 +7,18 @@
 * Ernst, Rolf
 * Gill, Christopher D.
 * Hansson, Hans
-* Kim, Jin-soo
+* Kim, Jin-Soo
 * Kirsch, Christoph M.
 * Larsen, Kim Guldstrand
 * Lee, Insup
 * Liu, Jane
-* Melhem, Rami
+* Melhem, Rami G.
 * Min, Sang Lyul
 * van Ommering, Rob
 * Palsberg, Jens
 * Sangiovanni-Vincentelli, Alberto L.
 * Sifakis, Joseph
-* Sipma, Henny
+* Sipma, Henny B.
 * Srikant, Y. N.
 * Stavridou-Coleman, Victoria
 * Talpin, Jean-Pierre

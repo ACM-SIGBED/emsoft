@@ -2,7 +2,7 @@
 * Eles, Petru
 * Mangharam, Rahul
 * Abeni, Luca
-* Almeida, Luis
+* Almeida, Luís
 * Årzén, Karl-Erik
 * Baruah, Sanjoy K.
 * Bini, Enrico
@@ -16,7 +16,7 @@
 * Dang, Thao
 * de Simone, Robert
 * Derler, Patricia
-* Deshmukh, Jyotirmoy
+* Deshmukh, Jyotirmoy V.
 * Edwards, Stephen A.
 * Ernst, Rolf
 * Falk, Heiko
@@ -28,7 +28,7 @@
 * Härtig, Hermann
 * Heitmeyer, Connie
 * Johnson, Taylor
-* Koutsoukos, Xenofon
+* Koutsoukos, Xenofon D.
 * Kuo, Tei-Wei
 * Li, Xuandong
 * Mandel, Louis
@@ -48,7 +48,7 @@
 * Tripakis, Stavros
 * von Hanxleden, Reinhard
 * Xu, Wenyao
-* Xue, Jason
+* Xue, Chun Jason
 * Xue, Jingling
 * Yi, Wang
 * Yovine, Sergio

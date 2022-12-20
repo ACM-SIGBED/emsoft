@@ -1,7 +1,5 @@
 # Wolf, Wayne
 
-* PCs: 2003 | 2004 | 2005 | 2007
-
 ## EMSOFT 2001: 1st ACM SIGBED International Workshop on Embedded Software
 
 ### Embedded Software for Video

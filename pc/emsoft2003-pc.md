@@ -12,10 +12,10 @@
 * Malik, Sharad
 * Palsberg, Jens
 * Pnueli, Amir
-* Rinard, Martin
+* Rinard, Martin C.
 * Shin, Heonshik
-* Shin, Kang
+* Shin, Kang G.
 * Stankovic, John A.
 * Sztipanovits, Janos
-* Wolf, Wayne
+* Wolf, Wayne H.
 * Yovine, Sergio

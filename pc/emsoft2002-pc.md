@@ -7,10 +7,10 @@
 * Kopetz, Hermann
 * Lee, Edward A.
 * Min, Sang Lyul
-* Rinard, Martin
+* Rinard, Martin C.
 * Rushby, John M.
 * Sangiovanni-Vincentelli, Alberto L.
-* Sastry, Shankar
+* Sastry, S. Shankar
 * Sifakis, Joseph
 * Stankovic, John A.
 * Thiele, Lothar

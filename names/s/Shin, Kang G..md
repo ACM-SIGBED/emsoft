@@ -1,5 +1,7 @@
 # Shin, Kang G.
 
+* PCs: 2003
+
 ## EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
 
 ### Thermal-Aware Resource Management for Embedded Real-Time Systems

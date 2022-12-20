@@ -1,14 +1,14 @@
 # EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
-* Wolf, Wayne
+* Wolf, Wayne H.
 * Bacon, David F.
 * Benveniste, Albert
 * Bernat, Guillem
-* Bhattacharyya, Shuvra
+* Bhattacharyya, Shuvra S.
 * Burns, Alan
 * Buttazzo, Giorgio
 * Caccamo, Marco
 * Carloni, Luca P.
-* Davidson, Jack
+* Davidson, Jack W.
 * de Alfaro, Luca
 * Debes, Eric
 * Edwards, Stephen A.
@@ -17,37 +17,37 @@
 * Fuhrman, Tom
 * Girault, Alain
 * Goodacre, John
-* Hellestrand, Graham
+* Hellestrand, Graham R.
 * Henzinger, Thomas A.
 * Hwang, Tai-Yi
 * Imai, Masaharu
 * Jacome, Margarida
-* Johnson, Steve
-* Kandemir, Mahmut
+* Johnson, Steven D.
+* Kandemir, Mahmut T.
 * Kirsch, Christoph M.
 * Koopman, Phil
 * Kuo, Tei-Wei
 * Lee, Edward A.
 * Lee, Insup
 * Lin, Steve
-* Loyall, Joe
+* Loyall, Joseph P.
 * Mossé, Daniel
 * Mueller, Frank
 * Palsberg, Jens
 * Puschner, Peter P.
 * Sangiovanni-Vincentelli, Alberto L.
 * Selic, Bran
-* Shelton, Charles
+* Shelton, Charles P.
 * Sifakis, Joseph
-* Srivastava, Mani
+* Srivastava, Mani B.
 * Stankovic, John A.
 * Sztipanovits, Janos
 * Taha, Walid
 * Tansley, Stewart
 * Törngren, Martin
-* Veidenbaum, Alex
+* Veidenbaum, Alexander V.
 * Vestal, Steve
 * Vugranam, Sreedhar
-* Whalley, David
+* Whalley, David B.
 * Wilson, Don
 * Yu, Heather

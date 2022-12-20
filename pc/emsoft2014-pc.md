@@ -3,7 +3,7 @@
 * Reineke, Jan
 * Bacivarov, Iuliana
 * Baruah, Sanjoy K.
-* Bekooij, Marco
+* Bekooij, Marco Jan Gerrit
 * Carloni, Luca P.
 * Černý, Pavol
 * de Niz, Dionisio

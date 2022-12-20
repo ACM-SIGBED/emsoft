@@ -6,7 +6,7 @@ Eles, Petru | Mangharam, Rahul
 ## Timing and Energy-Aware Modeling and Programming of Embedded Systems
 
 ### Energy and Timing Aware Synchronous Programming
-Wang, Jia Jie | Roop, Partha S. | Girault, Alain
+Wang, JiaJie | Roop, Partha S. | Girault, Alain
 * DOI: [10.1145/2968478.2968500](https://doi.org/10.1145/2968478.2968500)
 * URL: <https://hal.inria.fr/hal-01412100/document>
 

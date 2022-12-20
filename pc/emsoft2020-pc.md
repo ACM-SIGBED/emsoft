@@ -35,7 +35,7 @@
 * Jeannin, Jean-Baptiste
 * Jha, Susmit
 * Jiang, Yu
-* Koutsoukos, Xenofon
+* Koutsoukos, Xenofon D.
 * Kumar, Swarun
 * Lin, Shan
 * Mancuso, Renato
@@ -57,5 +57,5 @@
 * Ward, Bryan
 * Weiss, Gera
 * Xue, Bai
-* Xue, Jason
+* Xue, Chun Jason
 * Zhan, Naijun

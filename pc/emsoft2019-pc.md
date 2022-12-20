@@ -27,7 +27,7 @@
 * Jeannin, Jean-Baptiste
 * Jha, Susmit
 * Kapinski, James
-* Koutsoukos, Xenofon
+* Koutsoukos, Xenofon D.
 * Lee, Edward A.
 * Li, Jing
 * Lin, Shan
@@ -41,7 +41,7 @@
 * Pouzet, Marc
 * Prabhakar, Pavithra
 * Putot, Sylvie
-* Ramesh, S
+* Ramesh, S.
 * Roop, Partha S.
 * Rozier, Kristin Yvonne
 * Saha, Indranil
@@ -55,5 +55,5 @@
 * Ward, Bryan
 * Weiss, Gera
 * Xue, Bai
-* Xue, Jason
+* Xue, Chun Jason
 * Zhan, Naijun

@@ -13,7 +13,7 @@
 * Ji, Wang
 * Jonsson, Bengt
 * Kim, Jesung
-* Kim, Jinsoo
+* Kim, Jin-Soo
 * Kim, Tae-Hyung
 * Kuo, Tei-Wei
 * Larsen, Kim Guldstrand

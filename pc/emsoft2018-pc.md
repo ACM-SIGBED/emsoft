@@ -25,7 +25,7 @@
 * Jha, Susmit
 * Jin, Xiaoqing
 * Johnson, Taylor
-* Koutsoukos, Xenofon
+* Koutsoukos, Xenofon D.
 * Kumar, Pratyush
 * Lee, Edward A.
 * Li, Wenchao

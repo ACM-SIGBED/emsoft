@@ -86,7 +86,7 @@ Krishna, Jyothi V.S. | Nasre, Rupesh
 * DOI: [10.1109/TCAD.2018.2858366](https://doi.org/10.1109/TCAD.2018.2858366)
 
 ### Modeling, Analysis, and Hard Real-Time Scheduling of Adaptive Streaming Applications
-Zhai, Jiali Teddy | Niknam, Sobhan | Stefanov, Todor
+Zhai, Jiali Teddy | Niknam, Sobhan | Stefanov, Todor P.
 * DOI: [10.1109/TCAD.2018.2858365](https://doi.org/10.1109/TCAD.2018.2858365)
 * URL: <https://arxiv.org/pdf/1807.04835.pdf>
 

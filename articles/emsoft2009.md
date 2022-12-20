@@ -153,7 +153,7 @@ Whitham, Jack | Audsley, Neil C.
 * URL: <https://www.cs.york.ac.uk/rts/static/papers/R:Whitham:2009b.pdf>
 
 ### Dataflow Models for Shared Memory Access Latency Analysis
-Staschulat, Jan | Bekooij, Marco
+Staschulat, Jan | Bekooij, Marco Jan Gerrit
 * DOI: [10.1145/1629335.1629372](https://doi.org/10.1145/1629335.1629372)
 
 ## Flash Memory

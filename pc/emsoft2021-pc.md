@@ -56,6 +56,6 @@
 * Ward, Bryan
 * West, Richard
 * Xue, Bai
-* Xue, Jason
+* Xue, Chun Jason
 * Zeng, Haibo
 * Zhan, Naijun

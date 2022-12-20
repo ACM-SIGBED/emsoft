@@ -1,8 +1,8 @@
 # EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
-* Almeida, Luis
+* Almeida, Luís
 * Benveniste, Albert
 * Bernat, Guillem
-* Bhattacharyya, Shuvra
+* Bhattacharyya, Shuvra S.
 * Burns, Alan
 * Caccamo, Marco
 * de Alfaro, Luca
@@ -27,5 +27,5 @@
 * Taha, Walid
 * Törngren, Martin
 * Tovar, Eduardo
-* Wolf, Wayne
+* Wolf, Wayne H.
 * Yovine, Sergio

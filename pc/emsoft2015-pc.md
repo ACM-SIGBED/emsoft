@@ -35,6 +35,6 @@
 * Sokolsky, Oleg
 * Shrivastava, Aviral
 * Xu, Wenyao
-* Xue, Jason
+* Xue, Chun Jason
 * Xue, Jingling
 * Yovine, Sergio

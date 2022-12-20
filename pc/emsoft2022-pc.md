@@ -1,7 +1,7 @@
 # EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
 * Broman, David
 * Pagetti, Claire
-* Anderson, James
+* Anderson, James H.
 * Bak, Stanley
 * Baruah, Sanjoy K.
 * Beutel, Jan

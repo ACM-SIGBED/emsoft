@@ -2,7 +2,7 @@
 * Baruah, Sanjoy K.
 * Fischmeister, Sebastian
 * Abdelzaher, Tarek
-* Almeida, Luis
+* Almeida, Luís
 * Baker, Ted
 * Bhaduri, Purandar
 * Bini, Enrico
@@ -20,7 +20,7 @@
 * Lee, Edward A.
 * Lee, Insup
 * Lu, Chenyang
-* Maibaum, Thomas
+* Maibaum, T. S. E.
 * Ramaprasad, Harini
 * Ramesh, S.
 * Ren, Shangping

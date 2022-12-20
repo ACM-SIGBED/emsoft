@@ -23,4 +23,4 @@
 * Tripakis, Stavros
 * Vaandrager, Frits W.
 * Wilhelm, Reinhard
-* Wolf, Wayne
+* Wolf, Wayne H.

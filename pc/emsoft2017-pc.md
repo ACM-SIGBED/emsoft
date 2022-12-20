@@ -24,7 +24,7 @@
 * Kapinski, James
 * Kim, Hyoseung
 * Kirsch, Christoph M.
-* Koutsoukos, Xenofon
+* Koutsoukos, Xenofon D.
 * Kuo, Tei-Wei
 * Li, Xuandong
 * Maraninchi, Florence

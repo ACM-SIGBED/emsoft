@@ -10,6 +10,6 @@ Staschulat, Jan | Ernst, Rolf
 ## EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
 
 ### Dataflow Models for Shared Memory Access Latency Analysis
-Staschulat, Jan | Bekooij, Marco
+Staschulat, Jan | Bekooij, Marco Jan Gerrit
 * DOI: [10.1145/1629335.1629372](https://doi.org/10.1145/1629335.1629372)
 
