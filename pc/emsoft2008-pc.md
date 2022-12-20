@@ -3,23 +3,23 @@
 * Benini, Luca
 * Burns, Alan
 * de Alfaro, Luca
-* Dutt, Nikil
+* Dutt, Nikil D.
 * Ernst, Rolf
-* Gill, Christopher
+* Gill, Christopher D.
 * Hansson, Hans
 * Kim, Jin-soo
-* Kirsch, Christoph
-* Larsen, Kim G.
+* Kirsch, Christoph M.
+* Larsen, Kim Guldstrand
 * Lee, Insup
 * Liu, Jane
 * Melhem, Rami
 * Min, Sang Lyul
 * van Ommering, Rob
 * Palsberg, Jens
-* Sangiovanni-Vincentelli, Alberto
+* Sangiovanni-Vincentelli, Alberto L.
 * Sifakis, Joseph
 * Sipma, Henny
-* Srikant, Y.N.
+* Srikant, Y. N.
 * Stavridou-Coleman, Victoria
 * Talpin, Jean-Pierre
 * Tardieu, Olivier

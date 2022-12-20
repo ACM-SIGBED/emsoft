@@ -5,11 +5,11 @@
 * Årzén, Karl-Erik
 * Baruah, Sanjoy K.
 * Bourke, Timothy
-* Brandenburg, Björn
+* Brandenburg, Björn B.
 * Chakraborty, Samarjit
 * Chen, Wenguang
 * Derler, Patricia
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Eles, Petru
 * Ernst, Rolf
 * Geilen, Marc
@@ -18,7 +18,7 @@
 * Härtig, Hermann
 * Kato, Shinpei
 * Kuo, Tei-Wei
-* Lee, Edward
+* Lee, Edward A.
 * Li, Xuandong
 * Lipari, Giuseppe
 * Mandel, Louis
@@ -28,7 +28,7 @@
 * Palopoli, Luigi
 * Phan, Linh Thi Xuan
 * Reineke, Jan
-* Roop, Partha
+* Roop, Partha S.
 * Roychoudhury, Abhik
 * Shukla, Sandeep
 * de Simone, Robert

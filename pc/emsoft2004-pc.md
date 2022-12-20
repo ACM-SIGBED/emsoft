@@ -7,22 +7,22 @@
 * Caccamo, Marco
 * de Alfaro, Luca
 * Decotignie, Jean-Dominique
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Eles, Petru
 * Fohler, Gerhard
 * Valls, Marisol Garcia
-* Harbour, Michael Gonzalez
-* Henzinger, Tom
+* González Harbour, Michael
+* Henzinger, Thomas A.
 * Kaiser, Joerg
-* Lee, Edward
+* Lee, Edward A.
 * Lee, Insup
 * Lipari, Giuseppe
 * Lo Bello, Lucia
 * Mossé, Daniel
 * Mueller, Frank
-* Puschner, Peter
-* Sangiovanni-Vincentelli, Alberto
-* Stankovic, John
+* Puschner, Peter P.
+* Sangiovanni-Vincentelli, Alberto L.
+* Stankovic, John A.
 * Sztipanovits, Janos
 * Taha, Walid
 * Törngren, Martin

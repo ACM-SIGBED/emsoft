@@ -231,7 +231,7 @@ Regehr, John
 * URL: <https://www.cs.utah.edu/~regehr/papers/emsoft05/regehr-emsoft05.pdf>
 
 ### Testing Real-Time Embedded Software using UPPAAL-TRON: an Industrial Case Study
-Guldstrand Larsen, Kim | Mikucionis, Marius | Nielsen, Brian | Skou, Arne
+Larsen, Kim Guldstrand | Mikucionis, Marius | Nielsen, Brian | Skou, Arne
 * DOI: [10.1145/1086228.1086283](https://doi.org/10.1145/1086228.1086283)
 * URL: <https://homes.cs.aau.dk/~marius/tron/emsoft05.pdf>
 

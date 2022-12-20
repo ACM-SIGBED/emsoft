@@ -1,10 +1,10 @@
 # EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
 * Alur, Rajeev
 * Brinksma, Ed
-* Carloni, Luca
+* Carloni, Luca P.
 * Choi, Jin-Young
 * Cleaveland, Rance
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Ge, Yu
 * Hansson, Hans
 * Heiser, Gernot
@@ -16,7 +16,7 @@
 * Kim, Jinsoo
 * Kim, Tae-Hyung
 * Kuo, Tei-Wei
-* Larsen, Kim G.
+* Larsen, Kim Guldstrand
 * Lee, Jaejin
 * Liu, Jane
 * Min, Sang Lyul
@@ -31,7 +31,7 @@
 * Tansley, Stewart
 * Thiagarajan, P.S.
 * Thiele, Lothar
-* Vaandrager, Frits
+* Vaandrager, Frits W.
 * Wilhelm, Reinhard
 * Wu, Zhaohui
 * Zhou, Xingshe

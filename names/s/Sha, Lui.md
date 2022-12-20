@@ -1,5 +1,7 @@
 # Sha, Lui
 
+* PCs: 2006
+
 ## EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 
 ### Upgrading Embedded Software in the Field: Dependability and Survivability

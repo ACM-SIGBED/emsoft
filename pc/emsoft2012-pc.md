@@ -5,15 +5,15 @@
 * Bhaduri, Purandar
 * Challen, Geoff
 * Cuoq, Pascal
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Eles, Petru
 * Falk, Heiko
 * Fohler, Gerhard
 * Fränzle, Martin
 * Gamatié, Abdoulaye
-* Gill, Christopher
-* Lee, Edward
-* Lipari, Guiseppe
+* Gill, Christopher D.
+* Lee, Edward A.
+* Lipari, Giuseppe
 * Mangharam, Rahul
 * Norrish, Michael
 * Parmer, Gabriel

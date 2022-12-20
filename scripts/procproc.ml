@@ -19,6 +19,7 @@ type article = {
 }
 
 type conference = {
+  year      : string;
   title     : string;
   chair     : name;
   cochair   : name option;
@@ -29,6 +30,7 @@ type conference = {
 
 (* Poor man's removal of unicode accents *)
 let unimap = [
+  ("Å", 'a');
   ("Á", 'a');
   ("À", 'a');
   ("Â", 'a');
@@ -70,9 +72,10 @@ let convert_first s =
 
 type name_info = Info of {
   articles : article list;
+  pcs : string list;
 }
 
-let empty_name_info = Info { articles = [] }
+let empty_name_info = Info { articles = []; pcs = [] }
 
 let name_hash = ((Hashtbl.create 1000) : (name, name_info) Hashtbl.t)
 
@@ -80,10 +83,19 @@ let add_article article name =
   match Hashtbl.find_opt name_hash name with
   | None ->
       Hashtbl.add name_hash name
-        (Info { articles = [article] })
-  | Some (Info { articles }) ->
+        (Info { articles = [article]; pcs = [] })
+  | Some (Info ({ articles; _ } as info)) ->
       Hashtbl.replace name_hash name
-        (Info { articles = article :: articles })
+        (Info { info with articles = article :: articles })
+
+let add_pc pc name =
+  match Hashtbl.find_opt name_hash name with
+  | None ->
+      Hashtbl.add name_hash name
+        (Info { articles = []; pcs = [pc] })
+  | Some (Info ({ pcs; _ } as info)) ->
+      Hashtbl.replace name_hash name
+        (Info { info with pcs = pc :: pcs })
 
 let name_compare { last = l1; first = f1 } { last = l2; first = f2 } =
   match String.compare l1 l2 with 0 -> String.compare f1 f2 | n -> n
@@ -96,6 +108,15 @@ let get_name_info = Hashtbl.find name_hash
 
 (* Printing *)
 
+let rec output_list output_item out xs =
+  match xs with
+  | []    -> ()
+  | [x]   -> output_item out x; output_char out '\n'
+  | x::xs ->
+      output_item out x;
+      output_string out " | ";
+      output_list output_item out xs
+
 let string_of_name { last; first } = last ^ ", " ^ first
 
 let output_name out name = output_string out (string_of_name name)
@@ -104,14 +125,7 @@ let output_name_endline out name =
   output_name out name;
   output_char out '\n'
 
-let rec output_names out names =
-  match names with
-  | []    -> ()
-  | [x]   -> output_name out x; output_char out '\n'
-  | x::xs ->
-      output_name out x;
-      output_string out " | ";
-      output_names out xs
+let rec output_names = output_list output_name
 
 let output_heading out n s =
   for i = 1 to n do output_char out '#' done;
@@ -149,7 +163,8 @@ let output_article check_current out current
   output_char out '\n';
   current
 
-let output_conference out { title; chair; cochair; where; published; articles } =
+let output_conference out
+    { title; chair; cochair; where; published; articles; _} =
   output_heading out 1 title;
   output_name out chair;
   (match cochair with
@@ -161,9 +176,14 @@ let output_conference out { title; chair; cochair; where; published; articles } 
   output_char out '\n';
   ignore (List.fold_left (output_article check_article_session out) "" articles)
 
-let output_summary name articles out =
+let output_summary name articles pcs out =
   output_heading out 1 (string_of_name name);
   output_char out '\n';
+  (if pcs <> [] then begin
+    output_string out "* PCs: ";
+    output_list output_string out pcs;
+    output_char out '\n'
+  end);
   ignore (List.fold_left
             (output_article check_article_conference out) "" articles)
 
@@ -181,11 +201,13 @@ exception Parse_error
 type line =
   | Heading of int * string
   | Field of string * string
+  | Item of string
   | Text of string
 
 let print_line = function
   | Heading (n, s) -> print_endline ("heading " ^ Int.to_string n ^ ": " ^ s)
   | Field (n, v)   -> print_endline ("field: " ^ n ^ "=" ^ v)
+  | Item s         -> print_endline ("item: " ^ s)
   | Text s         -> print_endline ("text: " ^ s)
 
 let error fmt =
@@ -218,8 +240,12 @@ let parse_line fin =
   then let h = count_leading_chars '#' s in
         Heading (h, String.(trim (sub s h (length s - h))))
   else if s.[0] = '*'
-  then let s1, s2 = split_on_first_char ':' s in
-       Field (String.(trim (sub s1 1 (length s1 - 1))), String.trim s2)
+  then begin
+    if String.contains s ':' then
+      let s1, s2 = split_on_first_char ':' s in
+      Field (String.(trim (sub s1 1 (length s1 - 1))), String.trim s2)
+    else Item (String.(trim (sub s 1 (length s - 1))))
+  end
   else Text s
 
 let rec make_seq fin =
@@ -236,6 +262,16 @@ let parse_name s =
 
 let parse_names s = List.map parse_name String.(split_on_char '|' s)
 
+let drop_prefix prefix s=
+  if String.starts_with ~prefix s
+  then let l = String.length prefix in
+       String.(sub s l (length s - l))
+  else error "expected prefix '" ^ prefix ^ "': " ^ s
+
+let parse_conf_year s =
+  let conf, _ = split_on_first_char ':' s in
+  drop_prefix "EMSOFT " conf
+
 let expect_names seq =
   match seq () with
   | Seq.Cons (Text s, seq') -> (parse_names s, seq')
@@ -250,6 +286,11 @@ let expect_heading n seq =
   match try_heading n seq with
   | None, _ -> error "expected heading level %d (leading '%s')" n (String.make n '#')
   | Some s, seq' -> s, seq'
+
+let try_item seq =
+  match seq () with
+  | Seq.Cons (Item s, seq') -> Some s, seq'
+  | v -> None, (fun () -> v)
 
 let try_field n seq =
   match seq () with
@@ -291,6 +332,14 @@ let rec try_to_list tryf =
   in
   f []
 
+let rec try_to_list' tryf =
+  let rec f acc seq =
+    match tryf seq with
+    | None, seq' -> List.rev acc, seq'
+    | Some x, seq' -> f (x::acc) seq'
+  in
+  f []
+
 let expect_articles data seq =
   try_to_list try_article data seq
 
@@ -303,13 +352,22 @@ let expect_chairs seq =
 let read_conference fin =
   let seq = make_seq fin in
   let title, seq = expect_heading 1 seq in
+  let year = parse_conf_year title in
   let chair, cochair, seq = expect_chairs seq in
   let where, seq = expect_field "At" seq in
   let published, seq = expect_field "Published" seq in
   let session, seq = expect_heading 2 seq in
   let articles, seq = expect_articles (title, session) seq in
   expect_end seq;
-  { title; chair; cochair; where; published; articles }
+  { title; year; chair; cochair; where; published; articles }
+
+let read_pc fin =
+  let seq = make_seq fin in
+  let title, seq = expect_heading 1 seq in
+  let year = parse_conf_year title in
+  let names, seq = try_to_list' try_item seq in
+  List.(iter (add_pc year) (map parse_name names));
+  expect_end seq
 
 (* Algorithms *)
 
@@ -318,7 +376,9 @@ let conferences = ref []
 let load_file filename =
   let fin = open_in filename in
   reset_filename filename;
-  conferences := read_conference fin :: !conferences;
+  if String.ends_with ~suffix:"-pc.md" filename
+  then read_pc fin
+  else conferences := read_conference fin :: !conferences;
   close_in fin
 
 let output_conferences outc =
@@ -348,8 +408,9 @@ let make_name_summaries path =
     Filename.concat path (string_of_name name ^ ".md")
   in
   let summarize name =
-    let Info { articles } = get_name_info name in
-    to_output (output_summary name (List.rev articles)) (make_path name)
+    let Info { articles; pcs } = get_name_info name in
+    to_output (output_summary name (List.rev articles) (List.rev pcs))
+      (make_path name)
   in
   List.iter summarize (all_names ())
 

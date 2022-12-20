@@ -5,29 +5,29 @@
 * Bacon, David F.
 * Bouyer, Patricia
 * Bozorgzadeh, Elaheh
-* Carloni, Luca
+* Carloni, Luca P.
 * Chou, Pai
 * David, Vincent
 * de Simone, Robert
-* Dutt, Nikil
+* Dutt, Nikil D.
 * Eles, Petru
 * Ernst, Rolf
 * Fischmeister, Sebastian
 * Inverardi, Paola
 * Jonsson, Bengt
-* Kirsch, Christoph
+* Kirsch, Christoph M.
 * Kuo, Tei-Wei
-* Lee, Edward
+* Lee, Edward A.
 * Maraninchi, Florence
 * Marwedel, Peter
 * Min, Sang Lyul
-* Mok, Aloysius
+* Mok, Aloysius K.
 * Panda, Preeti Ranjan
-* Pappas, George
+* Pappas, George J.
 * Pasareanu, Corina
 * Ramesh, S.
 * Regehr, John
-* Teich, Juergen
+* Teich, Jürgen
 * Vardanega, Tullio
 * Venkataramani, Girish
 * Wilhelm, Reinhard

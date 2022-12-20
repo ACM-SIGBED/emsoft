@@ -1,5 +1,7 @@
 # Gamatié, Abdoulaye
 
+* PCs: 2010 | 2012 | 2017
+
 ## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
 
 ### Polychronous Mode Automata

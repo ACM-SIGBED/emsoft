@@ -1,6 +1,6 @@
 # EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
 * Bourke, Timothy
-* Thi Xuan Phan, Linh
+* Phan, Linh Thi Xuan
 * Abbas, Houssam
 * Abdelzaher, Tarek
 * Bak, Stanley
@@ -10,7 +10,7 @@
 * Biondi, Alessandro
 * Bogomolov, Sergiy
 * Bonakdarpour, Borzoo
-* Brandenburg, Björn
+* Brandenburg, Björn B.
 * Broman, David
 * Chang, Li-Pin
 * Chang, Wanli
@@ -18,14 +18,14 @@
 * Cock, David
 * Dang, Thao
 * Dasgupta, Pallab
-* De Niz, Dionisio
-* DeHon, André
+* de Niz, Dionisio
+* DeHon, André
 * Derler, Patricia
 * Duggirala, Parasara Sridhar
 * Ernst, Rolf
 * Fainekos, Georgios
 * Ganapathy, Vinod
-* Garoche, Pierre-Loïc
+* Garoche, Pierre-Loïc
 * Geilen, Marc
 * Goessler, Gregor
 * Goossens, Kees
@@ -50,10 +50,10 @@
 * Ramesh, S.
 * Roychoudhury, Abhik
 * Saha, Indranil
-* Schröder-Preikschat, Wolfgang
+* Schröder-Preikschat, Wolfgang
 * Sciuto, Donatella
 * Thiele, Lothar
-* Völp, Marcus
+* Völp, Marcus
 * Ward, Bryan
 * Weiss, Gera
 * Xue, Bai

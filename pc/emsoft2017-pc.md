@@ -1,5 +1,5 @@
 # EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
-* Brandenburg, Björn
+* Brandenburg, Björn B.
 * de Simone, Robert
 * Årzén, Karl-Erik
 * Bini, Enrico
@@ -10,7 +10,7 @@
 * Chattopadhyay, Sudipta
 * Dang, Thao
 * Derler, Patricia
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Ehlers, Ruediger
 * Eles, Petru
 * Ernst, Rolf
@@ -23,7 +23,7 @@
 * Johnson, Taylor
 * Kapinski, James
 * Kim, Hyoseung
-* Kirsch, Christoph
+* Kirsch, Christoph M.
 * Koutsoukos, Xenofon
 * Kuo, Tei-Wei
 * Li, Xuandong
@@ -35,9 +35,9 @@
 * Palopoli, Luigi
 * Parmer, Gabriel
 * Pellizzoni, Rodolfo
-* Potop Butucaru, Dumitru
+* Potop-Butucaru, Dumitru
 * Quinton, Sophie
-* Roop, Partha
+* Roop, Partha S.
 * Sankaranarayanan, Sriram
 * Sciuto, Donatella
 * Shukla, Sandeep

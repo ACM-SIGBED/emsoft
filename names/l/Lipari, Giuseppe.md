@@ -1,5 +1,7 @@
 # Lipari, Giuseppe
 
+* PCs: 2004 | 2012 | 2015
+
 ## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
 
 ### Using Resource Reservation Techniques for Power-Aware Scheduling

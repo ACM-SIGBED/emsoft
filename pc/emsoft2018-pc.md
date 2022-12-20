@@ -1,7 +1,7 @@
 # EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
 * Abbas, Houssam
 * Abdelzaher, Tarek
-* Bai, Xue
+* Xue, Bai
 * Baruah, Sanjoy K.
 * Biondi, Alessandro
 * Bogomolov, Sergiy
@@ -17,7 +17,7 @@
 * Eles, Petru
 * Ernst, Rolf
 * Fainekos, Georgios
-* Gill, Christopher
+* Gill, Christopher D.
 * Guan, Nan
 * Guo, Zhishan
 * Hasuo, Ichiro
@@ -27,7 +27,7 @@
 * Johnson, Taylor
 * Koutsoukos, Xenofon
 * Kumar, Pratyush
-* Lee, Edward
+* Lee, Edward A.
 * Li, Wenchao
 * Liu, Cong
 * Maggio, Martina
@@ -44,7 +44,7 @@
 * Putot, Sylvie
 * Radhakrishna, Arjun
 * Rozier, Kristin Yvonne
-* S, Ramesh
+* Ramesh, S.
 * Saha, Indranil
 * Schröder-Preikschat, Wolfgang
 * Sciuto, Donatella

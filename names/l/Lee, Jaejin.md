@@ -1,5 +1,7 @@
 # Lee, Jaejin
 
+* PCs: 2006 | 2007
+
 ## EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
 
 ### Compiler-Assisted Demand Paging for Embedded Systems with Flash Memory

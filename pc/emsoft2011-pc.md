@@ -7,17 +7,17 @@
 * Bhaduri, Purandar
 * Bini, Enrico
 * Burns, Alan
-* Carloni, Luca
+* Carloni, Luca P.
 * de Simone, Robert
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Ernst, Rolf
-* Froehlich, Anttnio Augusto
+* Fröhlich, Antônio Augusto
 * Halbwachs, Nicolas
 * Heiser, Gernot
 * Kim, Jihong
-* Kirsch, Christoph
-* Larsen, Kim G.
-* Lee, Edward
+* Kirsch, Christoph M.
+* Larsen, Kim Guldstrand
+* Lee, Edward A.
 * Lee, Insup
 * Lu, Chenyang
 * Maibaum, Thomas

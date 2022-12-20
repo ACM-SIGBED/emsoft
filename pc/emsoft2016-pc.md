@@ -8,7 +8,7 @@
 * Bini, Enrico
 * Bogdan, Paul
 * Bourke, Timothy
-* Brandenburg, Björn
+* Brandenburg, Björn B.
 * Broman, David
 * Chattopadhyay, Sudipta
 * Chen, Wenguang
@@ -17,7 +17,7 @@
 * de Simone, Robert
 * Derler, Patricia
 * Deshmukh, Jyotirmoy
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Ernst, Rolf
 * Falk, Heiko
 * Fischmeister, Sebastian
@@ -38,7 +38,7 @@
 * Pajic, Miroslav
 * Palopoli, Luigi
 * Phan, Linh Thi Xuan
-* Roop, Partha
+* Roop, Partha S.
 * Rowe, Anthony
 * Sankaranarayanan, Sriram
 * Shrivastava, Aviral

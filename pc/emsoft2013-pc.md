@@ -3,23 +3,23 @@
 * Sokolsky, Oleg
 * Alur, Rajeev
 * Chakraborty, Samarjit
-* De Niz, Dionisio
+* de Niz, Dionisio
 * de Simone, Robert
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Eles, Petru
 * Fischmeister, Sebastian
 * Fränzle, Martin
-* Gill, Christopher
+* Gill, Christopher D.
 * Halbwachs, Nicolas
 * Hamann, Arne
 * Heiser, Gernot
 * Hugues, Jerome
 * Kang, Soon Ju
 * Karsai, Gabor
-* Kirsch, Christoph
+* Kirsch, Christoph M.
 * Kuo, Tei-Wei
 * Lawford, Mark
-* Lee, Edward
+* Lee, Edward A.
 * Mangharam, Rahul
 * Medina, Julio
 * Ramesh, S.

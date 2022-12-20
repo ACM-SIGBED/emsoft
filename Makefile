@@ -11,5 +11,5 @@ authors:
 
 summaries:
 	-@rm -rf names/*
-	$(PROCPROC) articles/*.md --summarize-by-name names
+	$(PROCPROC) articles/*.md pc/*.md --summarize-by-name names
 

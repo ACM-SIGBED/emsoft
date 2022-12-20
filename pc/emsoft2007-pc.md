@@ -3,24 +3,24 @@
 * Benini, Luca
 * Benveniste, Albert
 * Brinksma, Ed
-* Carloni, Luca
+* Carloni, Luca P.
 * Heiser, Gernot
 * Jonsson, Bengt
-* Kirsch, Christoph
+* Kirsch, Christoph M.
 * Lee, Jaejin
 * Li, Wei
 * Maraninchi, Florence
 * Mossé, Daniel
 * Palsberg, Jens
-* Pappas, George
+* Pappas, George J.
 * Pop, Paul
 * Ramalingam, G.
 * Regehr, John
-* Srikant, Y.N.
+* Srikant, Y. N.
 * Tansley, Stewart
 * Thiagarajan, P.S.
 * Thiele, Lothar
 * Tripakis, Stavros
-* Vaandrager, Frits
+* Vaandrager, Frits W.
 * Wilhelm, Reinhard
 * Wolf, Wayne

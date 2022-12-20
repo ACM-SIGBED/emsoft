@@ -1,5 +1,7 @@
 # Kim, Jinsoo
 
+* PCs: 2006
+
 ## EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
 
 ### A Superblock-Based Flash Translation Layer for NAND Flash Memory

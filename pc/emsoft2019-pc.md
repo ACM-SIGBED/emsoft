@@ -14,7 +14,7 @@
 * Dasari, Dakshina
 * Dasgupta, Pallab
 * Derler, Patricia
-* De Niz, Dionisio
+* de Niz, Dionisio
 * Ehlers, Ruediger
 * Ernst, Rolf
 * Fainekos, Georgios
@@ -28,7 +28,7 @@
 * Jha, Susmit
 * Kapinski, James
 * Koutsoukos, Xenofon
-* Lee, Edward
+* Lee, Edward A.
 * Li, Jing
 * Lin, Shan
 * Mancuso, Renato
@@ -42,7 +42,7 @@
 * Prabhakar, Pavithra
 * Putot, Sylvie
 * Ramesh, S
-* Roop, Partha
+* Roop, Partha S.
 * Rozier, Kristin Yvonne
 * Saha, Indranil
 * Sankaranarayanan, Sriram

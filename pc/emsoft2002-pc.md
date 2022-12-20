@@ -1,18 +1,18 @@
 # EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
 * Alur, Rajeev
-* Berry, Gerard
+* Berry, Gérard
 * Broy, Manfred
-* Henzinger, Tom
+* Henzinger, Thomas A.
 * Jeffay, Kevin
 * Kopetz, Hermann
-* Lee, Edward
+* Lee, Edward A.
 * Min, Sang Lyul
 * Rinard, Martin
-* Rushby, John
-* Sangiovanni-Vincentelli, Alberto
+* Rushby, John M.
+* Sangiovanni-Vincentelli, Alberto L.
 * Sastry, Shankar
 * Sifakis, Joseph
-* Stankovic, John
+* Stankovic, John A.
 * Thiele, Lothar
 * Wilhelm, Reinhard
 * Sztipanovits, Janos

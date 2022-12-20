@@ -7,7 +7,7 @@
 * Kim, Kane
 * Kopetz, Hermann
 * Lavagno, Luciano
-* Lee, Edward
+* Lee, Edward A.
 * Lee, Insup
 * Malik, Sharad
 * Palsberg, Jens
@@ -15,7 +15,7 @@
 * Rinard, Martin
 * Shin, Heonshik
 * Shin, Kang
-* Stankovic, John
+* Stankovic, John A.
 * Sztipanovits, Janos
 * Wolf, Wayne
 * Yovine, Sergio

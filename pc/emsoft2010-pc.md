@@ -1,5 +1,5 @@
 # EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
-* Carloni, Luca
+* Carloni, Luca P.
 * Tripakis, Stavros
 * Alur, Rajeev
 * Baras, John
@@ -7,30 +7,30 @@
 * Butts, Ken
 * Cohen, Albert
 * de Simone, Robert
-* Edwards, Stephen
+* Edwards, Stephen A.
 * Ernst, Rolf
 * Fischmeister, Sebastian
 * Gamatié, Abdoulaye
 * Geilen, Marc
 * Halbwachs, Nicolas
-* Hamon, Gregoire
+* Hamon, Grégoire
 * Jonsson, Bengt
-* Kirsch, Christoph
+* Kirsch, Christoph M.
 * Kopetz, Hermann
 * Kuo, Tei-Wei
-* Lee, Edward
+* Lee, Edward A.
 * Min, Sang Lyul
 * Mitra, Tulika
-* Pappas, George
+* Pappas, George J.
 * Pasareanu, Corina
 * Pinto, Alessandro
 * Rabbah, Rodric
 * Ramesh, S.
 * Ruggiero, Martino
-* Seshia, Sanjit
+* Seshia, Sanjit A.
 * Shin, Insik
 * Soudris, Dimitrios
-* Srikant, Y.N.
+* Srikant, Y. N.
 * Sztipanovits, Janos
 * Tabuada, Paulo
 * Taha, Walid

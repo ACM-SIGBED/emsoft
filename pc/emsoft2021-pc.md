@@ -15,11 +15,11 @@
 * Dang, Thao
 * Darulova, Eva
 * Dasgupta, Pallab
-* DeHon, Andre
+* DeHon, André
 * Duggirala, Parasara Sridhar
 * Eles, Petru
 * Ernst, Rolf
-* Gill, Chris
+* Gill, Christopher D.
 * Goessler, Gregor
 * Graf, Susanne
 * Guan, Nan
@@ -27,7 +27,7 @@
 * Jha, Susmit
 * Jiang, Yu
 * Kim, Hokeun
-* Lee, Edward
+* Lee, Edward A.
 * Lin, Chung-Wei
 * Liu, Cong
 * Maggio, Martina
@@ -46,13 +46,13 @@
 * Saha, Indranil
 * Saidi, Selma
 * Sander, Ingo
-* Schröder-Preikschat, Wolfgang
+* Schröder-Preikschat, Wolfgang
 * Sciuto, Donatella
 * Sinha, Roopak
 * Sokolsky, Oleg
 * Thiele, Lothar
 * Tripakis, Stavros
-* Völp, Marcus
+* Völp, Marcus
 * Ward, Bryan
 * West, Richard
 * Xue, Bai
