@@ -60,10 +60,22 @@ let unimap = [
   ("ẞ", 's');
   ]
 
+(* Not available under OCaml 4.11.1 *)
+let starts_with ~prefix s =
+  let len_s = String.length s in
+  let len_p = String.length prefix in
+  len_p <= len_s && (prefix = String.sub s 0 len_p)
+
+(* Not available under OCaml 4.11.1 *)
+let ends_with ~suffix s =
+  let len_s = String.length s in
+  let len_p = String.length suffix in
+  len_p <= len_s && (suffix = String.sub s (len_s - len_p) len_p)
+
 let convert_first s =
   let rec f = function
     | [] -> Char.lowercase_ascii s.[0]
-    | (m, c) :: mcs when String.starts_with ~prefix:m s -> c
+    | (m, c) :: mcs when starts_with ~prefix:m s -> c
     | _ :: mcs -> f mcs
   in
   f unimap
@@ -276,7 +288,7 @@ let parse_name s =
 let parse_names s = List.map parse_name String.(split_on_char '|' s)
 
 let drop_prefix prefix s=
-  if String.starts_with ~prefix s
+  if starts_with ~prefix s
   then let l = String.length prefix in
        String.(sub s l (length s - l))
   else error "expected prefix '" ^ prefix ^ "': " ^ s
@@ -392,7 +404,7 @@ let conferences = ref []
 let load_file filename =
   let fin = open_in filename in
   reset_filename filename;
-  if String.ends_with ~suffix:"-pc.md" filename
+  if ends_with ~suffix:"-pc.md" filename
   then read_pc fin
   else conferences := read_conference fin :: !conferences;
   close_in fin
