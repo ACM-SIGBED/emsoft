@@ -2,6 +2,9 @@
 
 (*
   2022-12-18 T. Bourke
+
+  This script is public domain. Feel free to reuse and adapt it with no
+  constraints.
  *)
 
 type name = {
