@@ -78,6 +78,6 @@ It should be easy to adapt it to display conference informations (e.g.,
 format (e.g., in html for a website or LaTeX for a report).
 
 The script is written in [OCaml >= 4.11.1](https://ocaml.org). The easiest 
-way to install the necessary dependencies is to run `sudo apt-get -y install 
-ocaml` (or similar).
+way to install the necessary dependencies is to run
+`sudo apt-get -y install ocaml` (or similar).
 
