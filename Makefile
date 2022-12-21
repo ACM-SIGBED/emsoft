@@ -10,6 +10,6 @@ authors:
 	$(PROCPROC) articles/*.md --print-authors | sort | uniq
 
 summaries:
-	-@rm -rf names/*
-	$(PROCPROC) articles/*.md pc/*.md --summarize-by-name names
+	-@rm -rf by_name/*
+	$(PROCPROC) articles/*.md pc/*.md --summarize-by-name by_name
 

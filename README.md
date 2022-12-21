@@ -55,8 +55,8 @@ names are separated by vertical bars (`|`).
 
 ### Names files
 
-The reverse mapping from author names to articles is generated automatically 
-(`make summaries`).
+The reverse mapping in `by_names` from author names to articles is generated 
+automatically (`make summaries`).
 
 ## Scripts
 

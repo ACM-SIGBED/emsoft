@@ -14,7 +14,7 @@ Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Cha
 * DOI: [10.1109/TCAD.2022.3199967](https://doi.org/10.1109/TCAD.2022.3199967)
 
 ### An I/O Virtualization Framework With I/O-Related Memory Contention Control for Real-Time Systems
-Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio C.
+Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio C.
 * DOI: [10.1109/TCAD.2022.3202434](https://doi.org/10.1109/TCAD.2022.3202434)
 
 ### Toward Register Spilling Security Using LLVM and ARM Pointer Authentication
@@ -43,7 +43,7 @@ Zhu, Weidong | Butler, Kevin R. B.
 ## Machine Learning, Networks, and IoT
 
 ### Adaptive Edge Offloading for Image Classification Under Rate Limit
-Qiu, Jiaming | Wang, Ruiqi | Chakrabarti, Ayan | Guérin, Roch | Lu, Chenyang
+Qiu, Jiaming | Wang, Ruiqi | Chakrabarti, Ayan | Guérin, Roch | Lu, Chenyang
 * DOI: [10.1109/TCAD.2022.3197533](https://doi.org/10.1109/TCAD.2022.3197533)
 * URL: <https://arxiv.org/abs/2208.00485>
 
