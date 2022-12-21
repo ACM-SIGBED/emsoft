@@ -7,6 +7,14 @@ author's versions of the articles (access must not require registration or
 payment), either by submitting a pull request or sending an 
 [email](mailto:timothy.bourke@inria.fr).
 
+**EMSOFT Chairs**: To add a new conference entry, simply copy the previous 
+entries in `articles` and `pc` and edit them in the obvious way. Be careful 
+not to introduce unwanted line breaks. Type `make validate` to check that 
+the script can parse the new file. Type `make summaries` to update the name 
+index. Submit a pull request or send a mail to update the repository. If you 
+like, you could encourage authors to provide unencumbered links to their 
+articles.
+
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
 * EMSOFT 2021: [articles](articles/emsoft2021.md), [pc](pc/emsoft2021-pc.md)
 * EMSOFT 2020: [articles](articles/emsoft2020.md), [pc](pc/emsoft2020-pc.md)
