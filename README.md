@@ -37,7 +37,9 @@ manipulated by scripts. All names are formatted as `last, first`. Lists of
 names are separated by vertical bars (`|`).
 
 ### Articles files
-1. A header (`h1`) naming the conference.
+1. A header (`h1`) naming the conference. The conference name must begin 
+   with the sequence: acronym, space, year, colon, full title. For example, 
+   `EMSOFT 2022: 22nd International Conference on Embedded Software`.
 2. A list of program chair names.
 3. For each session:
     1. A header (`h2`) with the session title

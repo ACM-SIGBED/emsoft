@@ -283,7 +283,8 @@ let drop_prefix prefix s=
 
 let parse_conf_year s =
   let conf, _ = split_on_first_char ':' s in
-  drop_prefix "EMSOFT " conf
+  let _, year = split_on_first_char ' ' conf in
+  year
 
 let expect_names seq =
   match seq () with
