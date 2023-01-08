@@ -470,14 +470,34 @@ let output_author_pcs confs out { last; first } (Info { pcs; _ }) =
     output_char out '\n'
   end
 
+let output_author_confs confs out { last; first } (Info { articles; _ }) =
+  output_string out last;
+  output_char out ',';
+  output_string out first;
+  let at { title; _ } { conference; _ } = String.equal title conference in
+  List.iter (fun conf ->
+      output_string out (if List.exists (at conf) articles then ",1" else ",0"))
+    confs;
+  output_char out '\n'
+
+let output_conf_headings out =
+  List.iter (fun { year; _ } -> output_char out ','; output_year out year)
+
 let make_pc_csv out =
   output_bom out;
   let confs = List.(sort by_year !conferences) in
-  output_char out ',';
-  List.iter
-    (fun { year; _ } -> output_char out ','; output_year out year) confs;
+  output_string out "last,name";
+  output_conf_headings out confs;
   output_char out '\n';
   Hashtbl.iter (output_author_pcs confs out) name_hash
+
+let make_author_csv out =
+  output_bom out;
+  let confs = List.(sort by_year !conferences) in
+  output_string out "last,name";
+  output_conf_headings out confs;
+  output_char out '\n';
+  Hashtbl.iter (output_author_confs confs out) name_hash
 
 let _ = Arg.parse [
     ("--print", Arg.Unit (fun () -> output_conferences stdout),
@@ -490,6 +510,8 @@ let _ = Arg.parse [
      "create summary pages indexed by last name");
     ("--pc-csv", Arg.String (to_output make_pc_csv),
      "write pc summary to csv file");
+    ("--author-csv", Arg.String (to_output make_author_csv),
+     "write author summary to csv file");
   ]
   load_file
   "procproc: process article files"
