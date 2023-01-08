@@ -21,8 +21,10 @@ type article = {
   session    : string;
 }
 
+type year = int
+
 type conference = {
-  year      : string;
+  year      : year;
   title     : string;
   chair     : name;
   cochair   : name option;
@@ -30,6 +32,8 @@ type conference = {
   published : string;
   articles  : article list;
 }
+
+let by_year { year = y1; _ } { year = y2; _ } = Int.compare y1 y2
 
 (* Poor man's removal of unicode accents *)
 let unimap = [
@@ -87,9 +91,9 @@ let convert_first s =
 
 type name_info = Info of {
   articles : article list;
-  pcs : string list;
-  chair : string list;
-  cochair : string list;
+  pcs : year list;
+  chair : year list;
+  cochair : year list;
 }
 
 let empty_name_info = Info { articles = []; pcs = [];
@@ -129,6 +133,12 @@ let get_name_info = Hashtbl.find name_hash
 
 (* Printing *)
 
+(* UTF-8 Byte Order Mark *)
+let output_bom out =
+  output_char out '\xEF';
+  output_char out '\xBB';
+  output_char out '\xBF'
+
 let rec output_list output_item out xs =
   match xs with
   | []    -> ()
@@ -153,6 +163,8 @@ let output_heading out n s =
   output_char out ' ';
   output_string out s;
   output_char out '\n'
+
+let output_year out y = output_string out (string_of_int y)
 
 let output_field out n v =
   output_string out "* ";
@@ -198,7 +210,7 @@ let output_conference out
   ignore (List.fold_left (output_article check_article_session out) "" articles)
 
 let output_pc_year was_chair was_cochair out year =
-  output_string out year;
+  output_year out year;
   if was_chair year then output_string out " (chair)"
   else if was_cochair year then output_string out " (cochair)"
 
@@ -296,10 +308,10 @@ let drop_prefix prefix s=
        String.(sub s l (length s - l))
   else error "expected prefix '" ^ prefix ^ "': " ^ s
 
-let parse_conf_year s =
+let parse_conf_acronym_year s =
   let conf, _ = split_on_first_char ':' s in
-  let _, year = split_on_first_char ' ' conf in
-  year
+  let acronym, year = split_on_first_char ' ' conf in
+  String.trim acronym, int_of_string year
 
 let expect_names seq =
   match seq () with
@@ -381,7 +393,7 @@ let expect_chairs seq =
 let read_conference fin =
   let seq = make_seq fin in
   let title, seq = expect_heading 1 seq in
-  let year = parse_conf_year title in
+  let _, year = parse_conf_acronym_year title in
   let chair, cochair, seq = expect_chairs seq in
   add_chair year chair;
   Option.iter (add_cochair year) cochair;
@@ -395,7 +407,7 @@ let read_conference fin =
 let read_pc fin =
   let seq = make_seq fin in
   let title, seq = expect_heading 1 seq in
-  let year = parse_conf_year title in
+  let _, year = parse_conf_acronym_year title in
   let names, seq = try_to_list' try_item seq in
   List.(iter (add_pc year) (map parse_name names));
   expect_end seq
@@ -447,6 +459,26 @@ let make_name_summaries path =
   in
   List.iter summarize (all_names ())
 
+let output_author_pcs confs out { last; first } (Info { pcs; _ }) =
+  if pcs <> [] then begin
+    output_string out last;
+    output_char out ',';
+    output_string out first;
+    List.iter (fun { year = y; _ } ->
+                output_string out (if List.mem y pcs then ",1" else ",0"))
+      confs;
+    output_char out '\n'
+  end
+
+let make_pc_csv out =
+  output_bom out;
+  let confs = List.(sort by_year !conferences) in
+  output_char out ',';
+  List.iter
+    (fun { year; _ } -> output_char out ','; output_year out year) confs;
+  output_char out '\n';
+  Hashtbl.iter (output_author_pcs confs out) name_hash
+
 let _ = Arg.parse [
     ("--print", Arg.Unit (fun () -> output_conferences stdout),
      "print conferences to stdout");
@@ -455,7 +487,9 @@ let _ = Arg.parse [
     ("--print-authors", Arg.Unit (fun () -> print_authors stdout),
      "print authors to stdout");
     ("--summarize-by-name", Arg.String make_name_summaries,
-     "create summary pages indexed by last name")
+     "create summary pages indexed by last name");
+    ("--pc-csv", Arg.String (to_output make_pc_csv),
+     "write pc summary to csv file");
   ]
   load_file
   "procproc: process article files"

@@ -3,11 +3,14 @@ PROCPROC=./scripts/procproc.ml
 validate:
 	@for f in articles/*.md; do $(PROCPROC) $$f; done
 
-rewrite:
+update: summary-pc.csv
 	@for f in articles/*.md; do $(PROCPROC) $$f --output $$f; done
 
 authors:
 	$(PROCPROC) articles/*.md --print-authors | sort | uniq
+
+summary-pc.csv:
+	./scripts/procproc.ml articles/*.md pc/*.md --pc-csv $@
 
 summaries:
 	-@rm -rf by_name/*
