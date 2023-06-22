@@ -13,7 +13,7 @@
 * Halbwachs, Nicolas
 * Hamann, Arne
 * Heiser, Gernot
-* Hugues, Jerome
+* Hugues, Jérôme
 * Kang, Soon Ju
 * Karsai, Gabor
 * Kirsch, Christoph M.

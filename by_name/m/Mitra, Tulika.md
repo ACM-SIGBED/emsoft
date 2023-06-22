@@ -1,6 +1,6 @@
 # Mitra, Tulika
 
-* PCs: 2010 | 2014 (chair) | 2015 | 2016 | 2022
+* PCs: 2010 | 2014 (chair) | 2015 | 2016 | 2022 | 2023
 
 ## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 

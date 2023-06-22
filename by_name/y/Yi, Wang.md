@@ -1,6 +1,6 @@
 # Yi, Wang
 
-* PCs: 2006 (cochair) | 2011 | 2012 | 2013 | 2014 | 2016 | 2017
+* PCs: 2006 (cochair) | 2011 | 2012 | 2013 | 2014 | 2016 | 2017 | 2023
 
 ## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 

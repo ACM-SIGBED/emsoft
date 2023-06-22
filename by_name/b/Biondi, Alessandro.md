@@ -1,6 +1,6 @@
 # Biondi, Alessandro
 
-* PCs: 2018 | 2019 | 2020 | 2022
+* PCs: 2018 | 2019 | 2020 | 2022 | 2023 (cochair)
 
 ## EMSOFT 2022: 22nd International Conference on Embedded Software
 

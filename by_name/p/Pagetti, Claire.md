@@ -1,6 +1,6 @@
 # Pagetti, Claire
 
-* PCs: 2017 | 2018 | 2019 | 2020 | 2021 | 2022 (cochair)
+* PCs: 2017 | 2018 | 2019 | 2020 | 2021 | 2022 (cochair) | 2023 (chair)
 
 ## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
