@@ -21,3 +21,8 @@ Baruah, Sanjoy K.
 Baruah, Sanjoy K.
 * DOI: [10.1145/2968478.2968488](https://doi.org/10.1145/2968478.2968488)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Optimal Synthesis of Robust IDK Classifier Cascades
+Baruah, Sanjoy K. | Burns, Alan | Davis, Robert
+

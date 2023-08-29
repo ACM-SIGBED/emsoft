@@ -35,3 +35,8 @@ Bourke, Timothy | Carcenac, Francois | Colaço, Jean-Louis | Pagano, Bruno | Pas
 * DOI: [10.1145/3126516](https://doi.org/10.1145/3126516)
 * URL: <https://hal.inria.fr/hal-01575631/document>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### A Constructive State-based Semantics and Interpreter for a Synchronous Data-flow Language with State machines
+Colaço, Jean-Louis | Mendler, Michael | Pauget, Baptiste | Pouzet, Marc
+

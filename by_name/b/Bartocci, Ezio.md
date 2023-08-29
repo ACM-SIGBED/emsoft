@@ -21,3 +21,8 @@ Ma, Meiyi | Stankovic, John A. | Bartocci, Ezio | Feng, Lu
 * DOI: [10.1145/3477032](https://doi.org/10.1145/3477032)
 * URL: <https://arxiv.org/pdf/2011.00384.pdf>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Mining Hyperproperties using Temporal Logics
+Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Nickovic, Dejan
+

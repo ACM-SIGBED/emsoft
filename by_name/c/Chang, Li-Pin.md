@@ -38,3 +38,8 @@ Wang, Yong-Xuan | Tsai, Chung-Hsuan | Chang, Li-Pin
 Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li-Pin
 * DOI: [10.1109/TCAD.2022.3197485](https://doi.org/10.1109/TCAD.2022.3197485)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Rectifying Skewed Kernel Page Reclamation in Mobile Devices for Improving User-Perceivable Latency
+Chou, Yi-Quan | Shen, Lin-Wei | Chang, Li-Pin
+

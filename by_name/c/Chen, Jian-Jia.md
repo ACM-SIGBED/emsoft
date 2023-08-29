@@ -46,3 +46,8 @@ Shi, Junjie | von Egidy, Christoph-Cordt | Chen, Kuan-Hsun | Chen, Jian-Jia
 * DOI: [10.1109/TCAD.2022.3197501](https://doi.org/10.1109/TCAD.2022.3197501)
 * URL: <https://research.utwente.nl/en/publications/formal-verification-of-resource-synchronization-protocol-implemen>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Probabilistic Reaction Time Analysis
+Günzel, Mario | Ueter, Niklas | Chen, Kuan-Hsun | Brüggen, Georg von der | Chen, Jian-Jia
+

@@ -6,3 +6,8 @@
 Li, Changlong | Shi, Liang | Liang, Yu | Xue, Chun Jason
 * DOI: [10.1109/TCAD.2020.3012316](https://doi.org/10.1109/TCAD.2020.3012316)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### iAware: Interaction Aware Task Scheduling for Reducing Resource Contention in Mobile Systems
+Zheng, Yongchun | Li, Changlong | Xiong, Yi | Liu, Weihong | ji, Cheng | Zhu, Zongwei | Yu, Lichen
+

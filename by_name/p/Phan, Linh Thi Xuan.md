@@ -23,3 +23,8 @@ Lee, Jaewoo | Chwa, Hoon Sung | Phan, Linh Thi Xuan | Shin, Insik | Lee, Insup
 * DOI: [10.1145/3126498](https://doi.org/10.1145/3126498)
 * URL: <https://repository.upenn.edu/cgi/viewcontent.cgi?article=1882&context=cis_papers>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### CrossTalk: Making Low-Latency Fault Tolerance Cheap by Exploiting Redundant Networks
+Loveless, Andrew | Phan, Linh Thi Xuan | Erickson, Lisa | Dreslinski, Ronald | Kasikci, Baris
+

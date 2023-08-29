@@ -7,3 +7,8 @@ Bartocci, Ezio | Deshmukh, Jyotirmoy | Gigler, Felix | Mateis, Cristinel | Ničk
 * DOI: [10.1109/TCAD.2020.3012240](https://doi.org/10.1109/TCAD.2020.3012240)
 * URL: <https://par.nsf.gov/servlets/purl/10199915>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Mining Hyperproperties using Temporal Logics
+Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Nickovic, Dejan
+

@@ -15,7 +15,7 @@ type name = {
 type article = {
   title      : string;
   authors    : name list;
-  doi        : string;
+  doi        : string option;
   url        : string option;
   conference : string;
   session    : string;
@@ -191,7 +191,7 @@ let output_article check_current out current
   let current = check_current out current article in
   output_heading out 3 title;
   output_names out authors;
-  output_field out "DOI" doi;
+  output_opt_field out "DOI" doi;
   output_opt_field out "URL" url;
   output_char out '\n';
   current
@@ -359,7 +359,7 @@ let try_article (conference, session) seq =
   | None, seq -> None, seq
   | Some title, seq ->
       let authors, seq = expect_names seq in
-      let doi, seq = expect_field "DOI" seq in
+      let doi, seq = try_field "DOI" seq in
       let url, seq = try_field "URL" seq in
       let article = { title; authors; doi; url; conference; session } in
       List.iter (add_article article) authors;

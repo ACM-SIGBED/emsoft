@@ -18,3 +18,8 @@ Huang, Chao | Chen, Xin | Lin, Wang | Yang, Zhengfeng | Li, Xuandong
 Zhang, Yifan | Yang, Zhengfeng | Lin, Wang | Zhu, Huibiao | Chen, Xin | Li, Xuandong
 * DOI: [10.1109/TCAD.2018.2858383](https://doi.org/10.1109/TCAD.2018.2858383)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Formal Synthesis of Neural Barrier Certificates for Continuous Systems via Counterexample Guided Learning
+Zhao, Hanrui | Qi, Niuniu | Dehbi, Lydia | Zeng, Xia | Yang, Zhengfeng
+

@@ -26,3 +26,8 @@ Salamati, Mahmoud | Salvia, Rocco | Darulova, Eva | Soudjani, Sadegh | Majumdar,
 Rabe, Robert | Izycheva, Anastasiia | Darulova, Eva
 * DOI: [10.1145/3477012](https://doi.org/10.1145/3477012)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Sound Mixed Fixed-Point Quantization of Neural Networks
+Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
+

@@ -12,3 +12,8 @@ Günzel, Mario | von der Brüggen, Georg | Chen, Jian-Jia
 Günzel, Mario | Hakert, Christian | Chen, Kuan-Hsun | Chen, Jian-Jia
 * DOI: [10.1145/3477019](https://doi.org/10.1145/3477019)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Probabilistic Reaction Time Analysis
+Günzel, Mario | Ueter, Niklas | Chen, Kuan-Hsun | Brüggen, Georg von der | Chen, Jian-Jia
+

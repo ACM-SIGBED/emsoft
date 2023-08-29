@@ -21,3 +21,8 @@ Juniwal, Garvit | Donzé, Alexandre | Jensen, Jeff C. | Seshia, Sanjit A.
 * DOI: [10.1145/2656045.2656053](https://doi.org/10.1145/2656045.2656053)
 * URL: <https://people.eecs.berkeley.edu/~sseshia/pubdir/emsoft14-cpsgrader.pdf>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Towards Building Verifiable CPS using Lingua Franca
+Lin, Shaokai | Manerkar, Yatin A. | Lohstroh, Marten | Polgreen, Elizabeth | Yu, Sheng-Jung | Jerad, Chadlia | Lee, Edward A. | Seshia, Sanjit A.
+

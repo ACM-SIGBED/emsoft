@@ -76,3 +76,11 @@ N. Bui, Dai | Lee, Edward A.
 Lee, Edward A. | Niknami, Mehrdad | Nouidui, Thierry S. | Wetter, Michael
 * DOI: [10.1109/EMSOFT.2015.7318266](https://doi.org/10.1109/EMSOFT.2015.7318266)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Towards Building Verifiable CPS using Lingua Franca
+Lin, Shaokai | Manerkar, Yatin A. | Lohstroh, Marten | Polgreen, Elizabeth | Yu, Sheng-Jung | Jerad, Chadlia | Lee, Edward A. | Seshia, Sanjit A.
+
+### Consistency vs. Availability in Distributed Cyber-Physical Systems
+Lee, Edward A. | Akella, Ravi | Bateni, Soroush | Lin, Shaokai | Lohstroh, Marten | Menard, Christian
+

@@ -6,3 +6,8 @@
 Salamati, Mahmoud | Salvia, Rocco | Darulova, Eva | Soudjani, Sadegh | Majumdar, Rupak
 * DOI: [10.1145/3358223](https://doi.org/10.1145/3358223)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Neural Abstraction-Based Controller Synthesis and Deployment
+Majumdar, Rupak | Salamati, Mahmoud | Soudjani, Sadegh
+

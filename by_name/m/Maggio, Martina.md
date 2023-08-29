@@ -14,3 +14,8 @@ Hoffmann, Henry | Maggio, Martina | Santambrogio, Marco D. | Leva, Alberto | Aga
 Pazzaglia, Paolo | Maggio, Martina
 * DOI: [10.1109/TCAD.2022.3199146](https://doi.org/10.1109/TCAD.2022.3199146)
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Stochastic Analysis of Control Systems Subject to Communication and Computation Faults
+Vreman, Nils | Maggio, Martina
+

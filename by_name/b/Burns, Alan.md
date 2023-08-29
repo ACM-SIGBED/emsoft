@@ -16,3 +16,8 @@ Dai, Xiaotian | Chang, Wanli | Zhao, Shuai | Burns, Alan
 * DOI: [10.1145/3358213](https://doi.org/10.1145/3358213)
 * URL: <https://www.xiaotiandai.com/files/emsoft19_dual_period_v3_rev1.pdf>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Optimal Synthesis of Robust IDK Classifier Cascades
+Baruah, Sanjoy K. | Burns, Alan | Davis, Robert
+

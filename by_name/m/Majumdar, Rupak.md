@@ -80,3 +80,8 @@ Majumdar, Rupak | Mallik, Kaushik | Schmuck, Anne-Kathrin | Zufferey, Damien
 * DOI: [10.1109/TCAD.2020.3012641](https://doi.org/10.1109/TCAD.2020.3012641)
 * URL: <https://dzufferey.github.io/files/2020_Assume-Guarantee_Distributed_Synthesis.pdf>
 
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Neural Abstraction-Based Controller Synthesis and Deployment
+Majumdar, Rupak | Salamati, Mahmoud | Soudjani, Sadegh
+
