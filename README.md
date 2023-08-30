@@ -15,6 +15,7 @@ index. Submit a pull request or send a mail to update the repository. If you
 like, you could encourage authors to provide unencumbered links to their 
 articles.
 
+* EMSOFT 2023: [articles](articles/emsoft2023.md), [pc](pc/emsoft2023-pc.md)
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
 * EMSOFT 2021: [articles](articles/emsoft2021.md), [pc](pc/emsoft2021-pc.md)
 * EMSOFT 2020: [articles](articles/emsoft2020.md), [pc](pc/emsoft2020-pc.md)
@@ -45,21 +46,21 @@ manipulated by scripts. All names are formatted as `last, first`. Lists of
 names are separated by vertical bars (`|`).
 
 ### Articles files
-1. A header (`h1`) naming the conference. The conference name must begin 
-   with the sequence: acronym, space, year, colon, full title. For example, 
+1. A header (`#`) naming the conference. The conference name must begin with 
+   the sequence: acronym, space, year, colon, full title. For example, 
    `EMSOFT 2022: 22nd International Conference on Embedded Software`.
 2. A list of program chair names.
 3. For each session:
-    1. A header (`h2`) with the session title
+    1. A header (`##`) with the session title
     2. A list of articles
 3. For each article:
-    1. A header (`h3`) with the article title
+    1. A header (`###`) with the article title
     2. A list of author names
-    3. `* DOI: [doi](https://doi.org/doi)`
+    3. *optional*: `* DOI: [doi](https://doi.org/doi)`
     4. *optional*: `* [URL](link-to-freely-available-author-version)`
 
 ### Program committee files
-1. A header (`h1`) naming the conference.
+1. A header (`#`) naming the conference.
 2. One line per program committee member (beginning with a `*`).
    Chairs first and otherwise in alphabetical order.
 
