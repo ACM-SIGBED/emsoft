@@ -20,7 +20,7 @@ Bourke, Timothy | Pesin, Basile | Pouzet, Marc
 Khan, Osama | Park, Gwanjong | Seo, Euiseong
 
 ### iAware: Interaction Aware Task Scheduling for Reducing Resource Contention in Mobile Systems
-Zheng, Yongchun | Li, Changlong | Xiong, Yi | Liu, Weihong | ji, Cheng | Zhu, Zongwei | Yu, Lichen
+Zheng, Yongchun | Li, Changlong | Xiong, Yi | Liu, Weihong | Ji, Cheng | Zhu, Zongwei | Yu, Lichen
 
 ### Rectifying Skewed Kernel Page Reclamation in Mobile Devices for Improving User-Perceivable Latency
 Chou, Yi-Quan | Shen, Lin-Wei | Chang, Li-Pin
