@@ -1,0 +1,180 @@
+
+h1, h2, h3, h4 {
+  font-family: sans-serif;
+}
+
+h3 {
+  margin-bottom: 1ex;
+}
+
+p {
+  max-width: 35em;
+}
+
+hr {
+  margin-inline-start: 0;
+  max-width: 25em;
+  border-top: 1px solid #8c8b8b;
+}
+
+@media only screen and (min-width: 40em) {
+  #main {
+    margin: 1em;
+  }
+}
+
+/* global tweaks */
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #00008B;
+}
+
+a:visited {
+  color: #00008B;
+}
+
+a:hover {
+  color: #DC143C;
+}
+
+/* main conference index */
+
+dl.conf-index {
+  margin-top: 2em;
+}
+
+dl.conf-index dt {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+dl.conf-index dd {
+  margin-left: 0;
+  padding-bottom: 1em;
+}
+
+dl.conf-index dd ul {
+  padding-left: 1.5em;
+  margin-top: .2em;
+  margin-bottom: 0;
+}
+
+/* participant index */
+
+div.index-links ul {
+  max-width: 22em;
+  padding-top: 0;
+  margin-top: 0;
+  padding-left: 0;
+  margin-left: 0;
+  list-style-type: none;
+  font-size: larger;
+}
+
+div.index-links li {
+  display: inline-block;
+  padding-left: .5em;
+  padding-right: .5em;
+  line-height: 2em;
+}
+
+div.participants h2 {
+  margin-bottom: .5em;
+}
+
+ul.name-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.name-list li {
+  margin-bottom: .5ex;
+}
+
+/* Oxford comma-separated lists */
+
+div.comma-list-label {
+  position: relative;
+  float: left;
+}
+
+div.comma-list-label:after {
+  content: ' ';
+}
+
+ul.comma-list {
+  width: auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+ul.comma-list li {
+  position: relative;
+  float: left;
+}
+
+ul.comma-list li:after { content: ', '; }
+ul.comma-list li:last-child:after { content: ''; }
+
+/* two elements only */
+ul.comma-list li:nth-last-child(2):after { content: ' and '; }
+/* three or more elements */
+ul.comma-list li:nth-last-child(3) + li:after { content: ', and '; }
+
+/* articles */
+
+div.article-authors {
+  max-width: 40em;
+}
+
+div.article-links ul {
+  padding-left: 1em;
+  margin-left: .2em;
+  list-style: square;
+}
+
+/* conference page */
+
+div.conf-info dt {
+  display: inline-block;
+}
+
+div.conf-info dl {
+  margin: 1em;
+}
+
+div.conf-info dt {
+  width: 6em;
+  display: inline-block;
+  font-style: italic;
+}
+
+div.conf-info dd {
+  margin-left: 0;
+  display: inline;
+  vertical-align: top;
+  line-height: 1.3;
+}
+
+div.conf-info dd:after { content:'';display:block; }
+
+div.dimmed-h2 h2 {
+  margin-top: 5px;
+  font-size: 16px;
+  color: #9c9b9b;
+}
+
+/* navigation elements */
+
+#menu {
+  float: right;
+}
