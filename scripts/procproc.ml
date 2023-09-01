@@ -338,6 +338,23 @@ module Html = struct
     List.iter (fprintf out "<li>%a</li>" ln) names;
     fprintf out {|</ul>|}
 
+  let hor_list_items ~cls ln out items =
+    let rec output_list = function
+      | []    -> ()
+      | [x]   -> fprintf out {|and <span class="list-item">%a</span>|} ln x
+      | x::xs ->
+          fprintf out {|<span class="list-item">%a</span>, |} ln x;
+          output_list xs
+    in
+    output_string out {|<div class="hor-list">|};
+    (match items with
+    | [x]   -> fprintf out {|<span class="list-item">%a</span>|} ln x
+    | [x; y] ->
+        fprintf out {|<span class="list-item">%a</span> and
+                      <span class="list-item">%a</span>|} ln x ln y
+    | xs -> output_list xs);
+    output_string out {|</div>|}
+
   let markdown_link_re = Str.regexp {|[ 	]*\[\(.*\)\](\(.*\))|}
   let markdown_url_re = Str.regexp {|<\(.*\)>|}
 
@@ -435,7 +452,7 @@ module Html = struct
           <div class="article-links"><ul>%a%a</ul></div>
         </div>
       |} title
-         (list_names ~cls:"comma-list" (linked_name' ~rel:"..")) authors
+         (hor_list_items ~cls:"comma-list" (linked_name' ~rel:"..")) authors
          output_opt_li doi
          output_opt_li url;
     current
@@ -454,7 +471,7 @@ module Html = struct
                |} (list_names ~cls:"name-list" (linked_name' ~rel:"..")) members)
     else (false, Fun.const ())
 
-  let conf site_title path
+  let conf path
            ({ acronym; year; title;
               chair; cochair; where; published;
               articles; _ } as conf) =
@@ -463,7 +480,7 @@ module Html = struct
         (fprintf out "<dt>cochair:</dt><dd>%a</dd>" (linked_name' ~rel:".."))
     in
     let has_pc, show_pc = make_show_pc acronym year in
-    to_output (template ~rel:".." (site_title ^ ": " ^ title) (fun out ->
+    to_output (template ~rel:".." title (fun out ->
       fprintf out {|
           <h1>%s</h1>
           <div id="menu">
@@ -529,19 +546,19 @@ module Html = struct
        |} index_links groups participant_lists groups
     ))
 
-  let output_pc_years was_chair was_cochair out =
-    let output_pc_year (acronym, year) =
+  let output_pc_years was_chair was_cochair =
+    let output_pc_year out (acronym, year) =
       let conffile =
         Filename.(concat ".."
                    (concat "confs" (conference_fileroot' acronym year ^ ".html")))
       in
-      fprintf out {|<li><a href="%s#section-pc">%d%s%s</a></li>|}
+      fprintf out {|<a href="%s#section-pc">%d%s%s</a>|}
         conffile
         year
         (if was_chair year then " (chair)" else "")
         (if was_cochair year then " (cochair)" else "")
     in
-    List.iter output_pc_year
+    hor_list_items ~cls:"pc-list" output_pc_year
 
   let participant site_title path name =
     let first_last = string_of_name' name in
@@ -551,8 +568,7 @@ module Html = struct
           <h1>%s</h1>
         |} first_last;
       if pcs <> [] then
-        fprintf out {|<div class="comma-list-label">Program Committees:</div>
-                      <ul class="comma-list">%a</ul></p>|}
+        fprintf out {|<div class="comma-list-label">Program Committees: %a.</div></p>|}
           (output_pc_years (fun y -> List.mem y chair)
                            (fun y -> List.mem y cochair)) (List.rev pcs);
       output_string out {|<div class="dimmed-h2">|};
@@ -566,7 +582,7 @@ module Html = struct
     (* conferences *)
     let confs_path = Filename.(concat path "confs") in
     (try Sys.mkdir confs_path 0o777 with Sys_error _ -> ());
-    List.(iter (conf site_title confs_path) !conferences);
+    List.(iter (conf confs_path) !conferences);
     (* participants *)
     let names = all_names () in
     participant_index site_title names Filename.(concat path "participants.html");

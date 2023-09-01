@@ -1,4 +1,6 @@
 
+/* global tweaks */
+
 h1, h2, h3, h4 {
   font-family: sans-serif;
 }
@@ -23,7 +25,13 @@ hr {
   }
 }
 
-/* global tweaks */
+div.hor-list {
+  display: inline;
+}
+
+div.hor-list span.list-item {
+  white-space: nowrap;
+}
 
 a {
   text-decoration: none;
@@ -95,40 +103,6 @@ ul.name-list {
 ul.name-list li {
   margin-bottom: .5ex;
 }
-
-/* Oxford comma-separated lists */
-
-div.comma-list-label {
-  position: relative;
-  float: left;
-}
-
-div.comma-list-label:after {
-  content: ' ';
-}
-
-ul.comma-list {
-  width: auto;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-}
-
-ul.comma-list li {
-  position: relative;
-  float: left;
-}
-
-ul.comma-list li:after { content: ', '; }
-ul.comma-list li:last-child:after { content: ''; }
-
-/* two elements only */
-ul.comma-list li:nth-last-child(2):after { content: ' and '; }
-/* three or more elements */
-ul.comma-list li:nth-last-child(3) + li:after { content: ', and '; }
 
 /* articles */
 
