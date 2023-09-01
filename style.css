@@ -149,6 +149,14 @@ div.dimmed-h2 h2 {
 
 /* navigation elements */
 
-#menu {
-  float: right;
+@media only screen and (min-width: 40em) {
+  #menu {
+    float: right;
+  }
 }
+@media only screen and (max-width: 40em) {
+  #menu {
+    padding-bottom: 1em;
+  }
+}
+

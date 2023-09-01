@@ -566,6 +566,9 @@ module Html = struct
     to_output (template ~rel:".." (site_title ^ ": " ^ first_last) (fun out ->
       fprintf out {|
           <h1>%s</h1>
+          <div id="menu">
+            <a href="../index.html">(return to main page)</a>
+          </div>
         |} first_last;
       if pcs <> [] then
         fprintf out {|<div class="comma-list-label">Program Committees: %a.</div></p>|}
