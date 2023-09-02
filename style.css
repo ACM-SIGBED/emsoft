@@ -19,9 +19,21 @@ hr {
   border-top: 1px solid #8c8b8b;
 }
 
+body {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
 @media only screen and (min-width: 40em) {
   #main {
     margin: 1em;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  #main {
+    margin: 4px;
   }
 }
 
@@ -149,14 +161,47 @@ div.dimmed-h2 h2 {
 
 /* navigation elements */
 
-@media only screen and (min-width: 40em) {
-  #menu {
-    float: right;
-  }
+#top-bar {
+  width: 100%;
+  background-color: #00008B;
 }
-@media only screen and (max-width: 40em) {
-  #menu {
-    padding-bottom: 1em;
-  }
+
+div.top-bar-inner {
+  padding: 0;
+  max-width: 35em;
+  background-color: #00008B;
+}
+
+div.top-bar-inner span.button {
+  font-family: sans-serif;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+span.active {
+  background-color: #DC143C;
+}
+
+div.top-bar-inner span.divider {
+  padding: 0;
+  color: #FFFFFF;
+  position: relative;
+  top: .1ex;
+}
+
+div.top-bar-inner span.button a:link {
+  color: #FFFFFF;
+}
+
+div.top-bar-inner span.button a:visited {
+  color: #FFFFFF;
+}
+
+div.top-bar-inner span.button a:hover {
+  color: #DC143C;
+}
+
+div.top-bar-inner span.active a:hover {
+  color: #00008B;
 }
 

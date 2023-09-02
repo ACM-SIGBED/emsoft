@@ -369,8 +369,7 @@ module Html = struct
     else
       output_string out text
 
-  (* TODO: add structure for css framework and navigation links *)
-  let template ?rel title make out =
+  let template ?rel ?(active="") title make out =
     let rootpath = match rel with None -> "" | Some s -> s ^ "/" in
     fprintf out {|
         <html>
@@ -380,12 +379,24 @@ module Html = struct
             <link rel="stylesheet" href="%sstyle.css">
           </head>
           <body>
+          <div id="top-bar">
+            <div class="top-bar-inner">
+              <span class="button logo"><a href="https://sigbed.org/emsoft/">acm sigbed</a></span>
+              <span class="divider">|</span>
+              <span class="button%s"><a href="%sindex.html">emsoft</a></span>
+              <span class="divider">|</span>
+              <span class="button%s"><a href="%sparticipants.html">participants</a></span>
+            </div>
+          </div>
           <div id="main">
             %t
           </div>
           </body>
         </html>
-     |} title rootpath make
+     |} title rootpath
+        (if active = "index" then " active" else "") rootpath
+        (if active = "participants" then " active" else "") rootpath
+        make
 
   let cochair_opt ~rel out =
     Option.iter (fun cc ->
@@ -412,16 +423,18 @@ module Html = struct
         (cochair_opt ~rel:"") cochair
 
   let index site_title =
-    to_output (template site_title (fun out ->
+    to_output (template ~active:"index" site_title (fun out ->
       fprintf out {|
           <h1>%s</h1>
+          <p>EMSOFT is held annually as part of
+             <a href="https://esweek.org">Embedded Systems Week (ESWEEK)</a>.</p>
           <p>These pages are generated from the
              <a href="https://github.com/ACM-SIGBED/emsoft/tree/main">ACM-SIGBED/emsoft</a>
              repository on github. To fix an error or add a link, please make
              a pull request.
           </p>
-          <p>There is an index of <a href="participants.html">participants</a>
-             (authors and program committee members).</p>
+          <p>The <a href="participants.html">participant index</a> lists
+             authors and program committee members.</p>
           <dl class="conf-index">%a</dl>
         |}
         site_title
@@ -483,9 +496,6 @@ module Html = struct
     to_output (template ~rel:".." title (fun out ->
       fprintf out {|
           <h1>%s</h1>
-          <div id="menu">
-            <a href="../index.html">(return to main page)</a>
-          </div>
           <div class="conf-info">
             <dl>
               <dt>chair:</dt><dd>%a</dd>%a
@@ -534,13 +544,11 @@ module Html = struct
     |> List.rev_map (fun (cg, group) -> (cg, List.rev group))
 
   let participant_index site_title names =
-    to_output (template (site_title ^ ": participant index") (fun out ->
+    to_output (template ~active:"participants"
+                        (site_title ^ ": participant index") (fun out ->
       let groups = group_by_first_letter names in
       fprintf out {|
         <h1>Participant Index</h1>
-        <div id="menu">
-          <a href="../index.html">(return to main page)</a>
-        </div>
         <div class="index-links"><ul>%a</ul></div>
         <div class="participants">%a</div>
        |} index_links groups participant_lists groups
@@ -564,12 +572,7 @@ module Html = struct
     let first_last = string_of_name' name in
     let Info { articles; pcs; chair; cochair; _ } = get_name_info name in
     to_output (template ~rel:".." (site_title ^ ": " ^ first_last) (fun out ->
-      fprintf out {|
-          <h1>%s</h1>
-          <div id="menu">
-            <a href="../index.html">(return to main page)</a>
-          </div>
-        |} first_last;
+      fprintf out {|<h1>%s</h1>|} first_last;
       if pcs <> [] then
         fprintf out {|<div class="comma-list-label">Program Committees: %a.</div></p>|}
           (output_pc_years (fun y -> List.mem y chair)
