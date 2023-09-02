@@ -50,11 +50,11 @@ a {
 }
 
 a:link {
-  color: #00008B;
+  color: #002F65;
 }
 
 a:visited {
-  color: #00008B;
+  color: #002F65;
 }
 
 a:hover {
@@ -163,17 +163,22 @@ div.dimmed-h2 h2 {
 
 #top-bar {
   width: 100%;
-  background-color: #00008B;
+  background-color: #002F65;
 }
 
 div.top-bar-inner {
   padding: 0;
   max-width: 35em;
-  background-color: #00008B;
+  background-color: #002F65;
+  text-transform: uppercase;
 }
 
 div.top-bar-inner span.button {
+  font-size: 12px;
   font-family: sans-serif;
+  font-weight: 800;
+  padding-top: 3px;
+  padding-bottom: 1px;
   padding-left: .5em;
   padding-right: .5em;
 }
@@ -202,6 +207,6 @@ div.top-bar-inner span.button a:hover {
 }
 
 div.top-bar-inner span.active a:hover {
-  color: #00008B;
+  color: #002F65;
 }
 
