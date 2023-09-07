@@ -1,6 +1,7 @@
 # EMSOFT: International Conference on Embedded Software
 
-This repository contains metadata for the EMSOFT conference.
+This repository contains metadata for the EMSOFT conference. It is used to 
+generate the web pages at <https://www.sigbed.org/emsoft-info/>.
 
 Feel free to correct the content and especially to provide links to the 
 author's versions of the articles (access must not require registration or 
