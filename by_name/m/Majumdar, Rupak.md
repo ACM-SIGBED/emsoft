@@ -84,4 +84,5 @@ Majumdar, Rupak | Mallik, Kaushik | Schmuck, Anne-Kathrin | Zufferey, Damien
 
 ### Neural Abstraction-Based Controller Synthesis and Deployment
 Majumdar, Rupak | Salamati, Mahmoud | Soudjani, Sadegh
+* DOI: [10.1145/3608104](https://doi.org/10.1145/3608104)
 

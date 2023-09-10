@@ -4,4 +4,5 @@
 
 ### Sound Mixed Fixed-Point Quantization of Neural Networks
 Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
+* DOI: [10.1145/3609118](https://doi.org/10.1145/3609118)
 

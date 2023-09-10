@@ -3,8 +3,11 @@ PROCPROC=./scripts/procproc.ml
 validate:
 	@for f in articles/*.md; do $(PROCPROC) $$f; done
 
-update: summary-pc.csv summary-author.csv
+rewrite:
+	# should give same result
 	@for f in articles/*.md; do $(PROCPROC) $$f --output $$f; done
+
+update: summaries summary-pc.csv summary-author.csv
 
 authors:
 	$(PROCPROC) articles/*.md --print-authors | sort | uniq
@@ -25,5 +28,5 @@ www:
 	@cp style.css ./www/
 	$(PROCPROC) articles/*.md pc/*.md --html ./www
 
-.PHONY: FORCE validate update authors summaries www
+.PHONY: FORCE validate update rewrite authors summaries www
 
