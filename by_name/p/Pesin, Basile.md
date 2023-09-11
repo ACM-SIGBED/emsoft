@@ -12,4 +12,5 @@ Bourke, Timothy | Jeanmaire, Paul | Pesin, Basile | Pouzet, Marc
 ### Verified Compilation of Synchronous Dataflow with State Machines
 Bourke, Timothy | Pesin, Basile | Pouzet, Marc
 * DOI: [10.1145/3608102](https://doi.org/10.1145/3608102)
+* URL: <https://inria.hal.science/hal-04201401>
 

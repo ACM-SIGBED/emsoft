@@ -16,6 +16,7 @@ Brun, Lélio | Garion, Christophe | Garoche, Pierre-loic | Thirioux, Xavier
 ### Verified Compilation of Synchronous Dataflow with State Machines
 Bourke, Timothy | Pesin, Basile | Pouzet, Marc
 * DOI: [10.1145/3608102](https://doi.org/10.1145/3608102)
+* URL: <https://inria.hal.science/hal-04201401>
 
 ## Mobile and Resource-Constrained Systems
 
