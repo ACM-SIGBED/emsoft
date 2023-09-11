@@ -40,6 +40,7 @@ Loveless, Andrew | Phan, Linh Thi Xuan | Erickson, Lisa | Dreslinski, Ronald | K
 
 ### Improving worst-case TSN communication times of large sensor data samples by exploiting synchronization
 Peeck, Jonas | Ernst, Rolf
+* DOI: [10.1145/3609120](https://dl.acm.org/doi/10.1145/3609120)
 
 ### B-AWARE: Blockage Aware RSU Scheduling for 5G Enabled Autonomous Vehicles
 Szeto, Matthew | Andert, Edward | Shrivastava, Aviral | Reisslein, Martin | Lin, Chung-Wei | Richmond, Christ D.
