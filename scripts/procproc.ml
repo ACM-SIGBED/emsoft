@@ -827,9 +827,11 @@ let make_name_summaries path =
 let output_author_pcs (confs : conference list) out
                       { last; first } (Info { pcs; _ }) =
   if pcs <> [] then begin
+    output_char out '"';
     output_string out last;
-    output_char out ',';
+    output_string out "\",\"";
     output_string out first;
+    output_char out '"';
     List.iter (fun ({ acronym = a; year = y; _ } : conference) ->
                 output_string out (if List.mem (a, y) pcs then ",1" else ",0"))
       confs;
@@ -838,9 +840,11 @@ let output_author_pcs (confs : conference list) out
 
 let output_author_confs (confs : conference list) out
                         { last; first } (Info { articles; _ }) =
+  output_char out '"';
   output_string out last;
-  output_char out ',';
+  output_string out "\",\"";
   output_string out first;
+  output_char out '"';
   let at ({ title; _ } : conference) { conference; _ } =
     String.equal title conference
   in
