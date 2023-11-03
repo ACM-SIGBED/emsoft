@@ -838,6 +838,10 @@ let output_author_pcs (confs : conference list) out
     output_char out '\n'
   end
 
+let list_count p =
+  let count s c = if p c then s + 1 else s in
+  List.fold_left count 0
+
 let output_author_confs (confs : conference list) out
                         { last; first } (Info { articles; _ }) =
   output_char out '"';
@@ -849,7 +853,8 @@ let output_author_confs (confs : conference list) out
     String.equal title conference
   in
   List.iter (fun conf ->
-      output_string out (if List.exists (at conf) articles then ",1" else ",0"))
+      output_char out ',';
+      output_string out (string_of_int (list_count (at conf) articles)))
     confs;
   output_char out '\n'
 
