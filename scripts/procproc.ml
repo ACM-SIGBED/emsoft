@@ -865,7 +865,7 @@ let output_conf_headings out =
 let make_pc_csv out =
   output_bom out;
   let confs = List.(sort by_year !conferences) in
-  output_string out "last,name";
+  output_string out "\"last name\",\"first name\"";
   output_conf_headings out confs;
   output_char out '\n';
   Hashtbl.iter (output_author_pcs confs out) name_hash
@@ -873,7 +873,7 @@ let make_pc_csv out =
 let make_author_csv out =
   output_bom out;
   let confs = List.(sort by_year !conferences) in
-  output_string out "last,name";
+  output_string out "\"last name\",\"first name\"";
   output_conf_headings out confs;
   output_char out '\n';
   Hashtbl.iter (output_author_confs confs out) name_hash
