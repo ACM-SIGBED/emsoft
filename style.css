@@ -116,6 +116,11 @@ ul.name-list li {
   margin-bottom: .5ex;
 }
 
+ul.name-list li span.affiliation {
+  font-style: italic;
+  color: #9c9b9b;
+}
+
 /* articles */
 
 div.article-authors {

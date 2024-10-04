@@ -165,6 +165,9 @@ type name_info = Info of {
 let string_of_affiliation = function
   | None -> ""
   | Some s -> " (" ^ s ^ ")"
+let span_of_affiliation = function
+  | None -> ""
+  | Some s -> " <span class=\"affiliation\">(" ^ s ^ ")</span>"
 let full_string_of_name { last; first; affiliation } =
   last ^ ", " ^ first ^ string_of_affiliation affiliation
 let string_of_name { last; first; affiliation } = last ^ ", " ^ first
@@ -344,15 +347,16 @@ module Html = struct
 
   let fprintf = Printf.fprintf
 
-  let linked_name_base to_string ~rel out name =
+  let linked_name_base to_string ~rel out ({ affiliation; _ } as name) =
     let path = (if rel = "" then Fun.id else Filename.concat rel) "participants"
     in
-    fprintf out {|<a href="%s">%s</a>|}
+    fprintf out {|<a href="%s">%s</a>%s|}
       (Filename.concat path (string_of_name name ^ ".html"))
       (to_string name)
+      (span_of_affiliation affiliation)
 
-  let linked_name ~rel out name = linked_name_base full_string_of_name ~rel out name
-  let linked_name' ~rel out name = linked_name_base full_string_of_name' ~rel out name
+  let linked_name ~rel out name = linked_name_base string_of_name ~rel out name
+  let linked_name' ~rel out name = linked_name_base string_of_name' ~rel out name
 
   let list_names ~cls ln out names =
     fprintf out {|<ul class="%s">|} cls;
