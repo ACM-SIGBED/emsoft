@@ -10,6 +10,7 @@
 type name = {
   last : string;
   first : string;
+  affiliation : string option;
 }
 
 type article = {
@@ -148,12 +149,30 @@ let conference_fileroot ({ acronym; year; _ } : conference) =
 
 (* Reverse lookups on name *)
 
+type pc = PC of {
+    acronym : string;
+    year : year;
+    affiliation : string option;
+}
+
 type name_info = Info of {
   articles : article list;
-  pcs : (string * year) list;
+  pcs : pc list;
   chair : year list;
   cochair : year list;
 }
+
+let string_of_affiliation = function
+  | None -> ""
+  | Some s -> " (" ^ s ^ ")"
+let full_string_of_name { last; first; affiliation } =
+  last ^ ", " ^ first ^ string_of_affiliation affiliation
+let string_of_name { last; first; affiliation } = last ^ ", " ^ first
+let full_string_of_name' { last; first; affiliation } =
+  first ^ " " ^ last ^ string_of_affiliation affiliation
+let string_of_name' { last; first; affiliation } = first ^ " " ^ last
+
+let suppress_name_details name = { name with affiliation = None }
 
 let empty_name_info = Info { articles = []; pcs = [];
                              chair = []; cochair = [] }
@@ -161,17 +180,22 @@ let empty_name_info = Info { articles = []; pcs = [];
 let name_hash = ((Hashtbl.create 1000) : (name, name_info) Hashtbl.t)
 
 let name_map f name =
+  let name = suppress_name_details name in
   match Hashtbl.find_opt name_hash name with
-  | None -> Hashtbl.add name_hash name (f empty_name_info)
-  | Some info -> Hashtbl.replace name_hash name (f info)
+  | None ->
+      Hashtbl.add name_hash name (f empty_name_info)
+  | Some info ->
+      Hashtbl.replace name_hash name (f info)
 
 let add_article article =
   name_map (fun (Info ({ articles; _ } as info)) ->
               (Info { info with articles = article :: articles }))
 
-let add_pc pc =
+let add_pc (acronym, year) ({ affiliation; _ } as name) =
   name_map (fun (Info ({ pcs; _ } as info)) ->
-              (Info { info with pcs = pc :: pcs }))
+        (Info { info with
+                  pcs = (PC { acronym; year; affiliation }) :: pcs }))
+    name
 
 let add_chair year =
   name_map (fun (Info ({ chair; _ } as info)) ->
@@ -214,9 +238,6 @@ let get_committee_members a y =
   with Not_found -> []
 
 let get_name_info = Hashtbl.find name_hash
-
-let string_of_name { last; first } = last ^ ", " ^ first
-let string_of_name' { last; first } = first ^ " " ^ last
 
 (* Output *)
 
@@ -297,7 +318,7 @@ module Markdown = struct
     output_char out '\n';
     ignore (List.fold_left (output_article check_article_session out) "" articles)
 
-  let output_pc_year was_chair was_cochair out (_, year) =
+  let output_pc_year was_chair was_cochair out (PC { year; _ }) =
     output_year out year;
     if was_chair year then output_string out " (chair)"
     else if was_cochair year then output_string out " (cochair)"
@@ -323,15 +344,15 @@ module Html = struct
 
   let fprintf = Printf.fprintf
 
-  let linked_name_base to_string ~rel out ({ last; first } as name) =
+  let linked_name_base to_string ~rel out name =
     let path = (if rel = "" then Fun.id else Filename.concat rel) "participants"
     in
     fprintf out {|<a href="%s">%s</a>|}
       (Filename.concat path (string_of_name name ^ ".html"))
       (to_string name)
 
-  let linked_name ~rel out name = linked_name_base string_of_name ~rel out name
-  let linked_name' ~rel out name = linked_name_base string_of_name' ~rel out name
+  let linked_name ~rel out name = linked_name_base full_string_of_name ~rel out name
+  let linked_name' ~rel out name = linked_name_base full_string_of_name' ~rel out name
 
   let list_names ~cls ln out names =
     fprintf out {|<ul class="%s">|} cls;
@@ -555,7 +576,7 @@ module Html = struct
     ))
 
   let output_pc_years was_chair was_cochair =
-    let output_pc_year out (acronym, year) =
+    let output_pc_year out (PC { acronym; year; _ }) =
       let conffile =
         Filename.(concat ".."
                    (concat "confs" (conference_fileroot' acronym year ^ ".html")))
@@ -667,9 +688,18 @@ let rec make_seq fin =
     | exception End_of_file -> Seq.Nil
   in f
 
+let name_re = Str.regexp {|\([^,]*\),\([^(]*\)\((\([^)]*\))\)?|}
+
 let parse_name s =
-  let last, first = split_on_first_char ',' s in
-  String.{ last = trim last; first = trim first }
+  if not (Str.string_match name_re s 0)
+  then error "'%s' is not a name" s
+  else
+    let last = String.trim (Str.matched_group 1 s) in
+    let first = String.trim (Str.matched_group 2 s) in
+    let affiliation = match Str.matched_group 4 s with
+                      | s -> Some (String.trim s)
+                      | exception Not_found -> None
+    in String.{ last; first; affiliation }
 
 let parse_names s = List.map parse_name String.(split_on_char '|' s)
 
@@ -824,6 +854,9 @@ let make_name_summaries path =
   in
   List.iter summarize (all_names ())
 
+let has_pc a y =
+  List.exists (fun (PC { acronym; year; _ }) -> acronym = a && year = y)
+
 let output_author_pcs (confs : conference list) out
                       { last; first } (Info { pcs; _ }) =
   if pcs <> [] then begin
@@ -833,7 +866,7 @@ let output_author_pcs (confs : conference list) out
     output_string out first;
     output_char out '"';
     List.iter (fun ({ acronym = a; year = y; _ } : conference) ->
-                output_string out (if List.mem (a, y) pcs then ",1" else ",0"))
+                output_string out (if has_pc a y pcs then ",1" else ",0"))
       confs;
     output_char out '\n'
   end

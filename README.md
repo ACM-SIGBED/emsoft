@@ -16,6 +16,7 @@ index. Submit a pull request or send a mail to update the repository. If you
 like, you could encourage authors to provide unencumbered links to their 
 articles.
 
+* EMSOFT 2024: [articles](articles/emsoft2024.md), [pc](pc/emsoft2024-pc.md)
 * EMSOFT 2023: [articles](articles/emsoft2023.md), [pc](pc/emsoft2023-pc.md)
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
 * EMSOFT 2021: [articles](articles/emsoft2021.md), [pc](pc/emsoft2021-pc.md)
@@ -63,7 +64,8 @@ names are separated by vertical bars (`|`).
 ### Program committee files
 1. A header (`#`) naming the conference.
 2. One line per program committee member (beginning with a `*`).
-   Chairs first and otherwise in alphabetical order.
+   Chairs first and otherwise in alphabetical order. Some names are followed 
+   by affiliations between parentheses.
 
 ### Names files
 
