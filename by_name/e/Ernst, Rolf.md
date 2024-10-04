@@ -1,6 +1,6 @@
 # Ernst, Rolf
 
-* PCs: 2003 | 2008 | 2009 | 2010 | 2011 | 2013 (chair) | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022
+* PCs: 2003 | 2008 | 2009 | 2010 | 2011 | 2013 (chair) | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2024
 
 ## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
@@ -44,4 +44,9 @@ Schlatow, Johannes | Ernst, Rolf
 ### Improving worst-case TSN communication times of large sensor data samples by exploiting synchronization
 Peeck, Jonas | Ernst, Rolf
 * DOI: [10.1145/3609120](https://dl.acm.org/doi/10.1145/3609120)
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Large Data Transfer Optimization for Improved Robustness in Real-Time V2X-Communication
+Bendrick, Alex | Sperling, Nora | Ernst, Rolf
 

@@ -43,3 +43,8 @@ Li, Changlong | Shi, Liang | Liang, Yu | Xue, Chun Jason
 Fu, Chenchen | Lu, Xinhang | Qiu, Xiaoxing | Sun, Sujunjie | Xu, Xueyong | Wu, Weiwei | Xue, Chun Jason | Han, Song
 * DOI: [10.1109/TCAD.2022.3197978](https://doi.org/10.1109/TCAD.2022.3197978)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Ghostbuster: A Software Approach for Reducing Ghosting Effect on Electrophoretic Displays
+Hu, Tao | Cui, Menglong | Lyu, Mingsong | Yang, Tao | Zhou, Yiyang | Deng, Qingxu | Xue, Chun Jason | Guan, Nan
+

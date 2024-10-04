@@ -9,3 +9,8 @@ Pinto, Alessandro | Carloni, Luca P. | Sangiovanni-Vincentelli, Alberto L.
 * DOI: [10.1145/1289927.1289936](https://doi.org/10.1145/1289927.1289936)
 * URL: <http://www.cs.columbia.edu/~luca/research/cosibas_EMSOFT07.pdf>
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Contract-Based Hierarchical Modeling and Traceability of Heterogeneous Requirements
+Naik, Nikhil Vijay | Pinto, Alessandro | Nuzzo, Pierluigi
+

@@ -1,6 +1,6 @@
 # Chang, Li-Pin
 
-* PCs: 2020 | 2021 | 2022 | 2023
+* PCs: 2020 | 2021 | 2022 | 2023 | 2024
 
 ## EMSOFT 2016: 16th International Conference on Embedded Software
 
@@ -43,4 +43,9 @@ Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li-Pin
 ### Rectifying Skewed Kernel Page Reclamation in Mobile Devices for Improving User-Perceivable Latency
 Chou, Yi-Quan | Shen, Lin-Wei | Chang, Li-Pin
 * DOI: [10.1145/3607937](https://doi.org/10.1145/3607937)
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### iFKVS: Lightweight Key-Value Store for Flash-Based Intermittently-Computing Devices
+Chen, Yen-Hsun | Liao, Ting-En | Chang, Li-Pin
 

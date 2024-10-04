@@ -1,6 +1,6 @@
 # Zhan, Naijun
 
-* PCs: 2019 | 2020 | 2021
+* PCs: 2019 | 2020 | 2021 | 2024
 
 ## EMSOFT 2011: 11th International Conference on Embedded Software
 
@@ -36,4 +36,9 @@ Xue, Bai | Fränzle, Martin | Zhan, Naijun | Bogomolov, Sergiy | Xia, Bican
 An, Jie | Zhan, Bohua | Zhan, Naijun | Zhang, Miaomiao
 * DOI: [10.1145/3477030](https://doi.org/10.1145/3477030)
 * URL: <https://lcs.ios.ac.cn/~znj/papers/Learning_Nondeterministic_Real_Time_Automata.pdf>
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Modelling and Analysis of the LatestTime Message Synchronization Policy in ROS
+Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
 

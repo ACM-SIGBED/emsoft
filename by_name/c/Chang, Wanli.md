@@ -34,3 +34,11 @@ Shen, Yuheng | Sun, Hao | Jiang, Yu | Shi, Heyuan | Yang, Yixiao | Chang, Wanli
 Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Chang, Wanli | Wang, Rui
 * DOI: [10.1109/TCAD.2022.3199967](https://doi.org/10.1109/TCAD.2022.3199967)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### ECG: Augmenting Embedded Operating System Fuzzing via LLM-based Corpus Generation
+Zhang, Qiang | Shen, Yuheng | Liu, Jianzhong | Xu, Yiru | Shi, Heyuan | Jiang, Yu | Chang, Wanli
+
+### Parallel Fuzzing of IoT Messaging Protocols through Collaborative Packet Generation
+Luo, Zhengxiong | Yu, Junze | Du, Qingpeng | Zhao, Yanyang | Wu, Feifan | Shi, Heyuan | Chang, Wanli | Jiang, Yu
+

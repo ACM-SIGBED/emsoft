@@ -1,6 +1,6 @@
 # Bonakdarpour, Borzoo
 
-* PCs: 2018 | 2019 | 2020
+* PCs: 2018 | 2019 | 2020 | 2024
 
 ## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
@@ -53,4 +53,9 @@ Medhat, Ramy | Lam, Michael O. | Rountree, Barry L. | Bonakdarpour, Borzoo | Fis
 Wang, Yu | Zarei, Mojtaba | Bonakdarpour, Borzoo | Pajic, Miroslav
 * DOI: [10.1145/3358232](https://doi.org/10.1145/3358232)
 * URL: <https://cse.msu.edu/tart/sites/default/files/publications/files/2021-08/tecs19.pdf>
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Efficient Discovery of Actual Causality using Abstraction-Refinement
+Rafieioskouei, Arshia | Bonakdarpour, Borzoo
 

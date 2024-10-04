@@ -1,6 +1,6 @@
 # Nelissen, Geoffrey
 
-* PCs: 2018 | 2019 | 2022 | 2023
+* PCs: 2018 | 2019 | 2022 | 2023 | 2024
 
 ## EMSOFT 2020: 20th International Conference on Embedded Software
 

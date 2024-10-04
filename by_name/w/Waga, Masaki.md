@@ -13,3 +13,8 @@ Waga, Masaki | Hasuo, Ichiro
 Shijubo, Junya | Waga, Masaki | Suenaga, Kohei
 * DOI: [10.1145/3609127](https://doi.org/10.1145/3609127)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Hyper parametric timed CTL
+Waga, Masaki | André, Étienne
+

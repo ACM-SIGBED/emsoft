@@ -1,6 +1,6 @@
 # Zeng, Haibo
 
-* PCs: 2021 | 2022 | 2023
+* PCs: 2021 | 2022 | 2023 | 2024
 
 ## EMSOFT 2017: 17th International Conference on Embedded Software
 

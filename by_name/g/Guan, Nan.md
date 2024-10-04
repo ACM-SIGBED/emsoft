@@ -1,6 +1,6 @@
 # Guan, Nan
 
-* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023
+* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024
 
 ## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
@@ -43,4 +43,12 @@ Liu, Songran | Zhang, Wei | Lv, Mingsong | Chen, Qiulin | Guan, Nan
 ### Schedulability Analysis for Timed Automata With Tasks
 Sun, Jinghao | Guan, Nan | Shi, Rongxiao | Tan, Guozhen | Yi, Wang
 * DOI: [10.1145/3477020](https://doi.org/10.1145/3477020)
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Modelling and Analysis of the LatestTime Message Synchronization Policy in ROS
+Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
+
+### Ghostbuster: A Software Approach for Reducing Ghosting Effect on Electrophoretic Displays
+Hu, Tao | Cui, Menglong | Lyu, Mingsong | Yang, Tao | Zhou, Yiyang | Deng, Qingxu | Xue, Chun Jason | Guan, Nan
 

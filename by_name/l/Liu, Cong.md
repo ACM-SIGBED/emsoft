@@ -1,6 +1,6 @@
 # Liu, Cong
 
-* PCs: 2018 | 2021
+* PCs: 2018 | 2021 | 2024
 
 ## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 
@@ -27,4 +27,9 @@ Zhou, Husheng | Liu, Cong
 Wang, Zhendong | Jiang, Zihang | Wang, Zhen | Tang, Xulong | Liu, Cong | Yin, Shouyi | Hu, Yang
 * DOI: [10.1109/TCAD.2020.3013047](https://doi.org/10.1109/TCAD.2020.3013047)
 * URL: <http://xzt102.github.io/publications/2020_TCAD_Zhendong.pdf>
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### MII: A Multifaceted Framework for Intermittence-aware Inference and Scheduling
+Zhang, Ziliang | Liu, Cong | Kim, Hyoseung
 

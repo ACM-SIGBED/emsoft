@@ -6,3 +6,8 @@
 Ghosh, Sumana | Dutta, Souradeep | Dey, Soumyajit | Dasgupta, Pallab
 * DOI: [10.1145/3126514](https://doi.org/10.1145/3126514)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Revisiting Dynamic Scheduling of Control Tasks: A Performance-aware Fine-grained Approach
+Adhikary, Sunandan | Koley, Ipsita | Ghosh, Saurav Kumar | Ghosh, Sumana | Dey, Soumyajit
+

@@ -1,6 +1,6 @@
 # Saha, Indranil
 
-* PCs: 2014 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023
+* PCs: 2014 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024
 
 ## EMSOFT 2010: 10th International Conference on Embedded Software
 

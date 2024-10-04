@@ -1,6 +1,6 @@
 # Prabhakar, Pavithra
 
-* PCs: 2018 | 2019 | 2020 | 2021
+* PCs: 2018 | 2019 | 2020 | 2021 | 2024
 
 ## EMSOFT 2013: 13th International Conference on Embedded Software
 
@@ -26,4 +26,9 @@ Prabhakar, Pavithra | García Soto, Miriam
 ### Counterexample Guided Abstraction Refinement for Polyhedral Probabilistic Hybrid Systems
 Lal, Ratan | Prabhakar, Pavithra
 * DOI: [abs/10.1145/3358217](https://doi.org/abs/10.1145/3358217)
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Approximate Conformance Checking for Closed-Loop Systems with Neural Network Controllers
+P, Habeeb | Gupta, Lipsy | Prabhakar, Pavithra
 

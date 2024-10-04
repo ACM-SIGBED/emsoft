@@ -1,6 +1,6 @@
 # Jeannin, Jean-Baptiste
 
-* PCs: 2019 | 2020 | 2023
+* PCs: 2019 | 2020 | 2023 | 2024
 
 ## EMSOFT 2015: 15th International Conference on Embedded Software
 

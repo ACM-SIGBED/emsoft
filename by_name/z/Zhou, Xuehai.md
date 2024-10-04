@@ -6,3 +6,8 @@
 Shi, Liang | Li, Jianhua | Xue, Chun Jason | Yang, Chengmo | Zhou, Xuehai
 * DOI: [10.1145/2038642.2038694](https://doi.org/10.1145/2038642.2038694)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Arch2End: Two-stage Unified System-level Modeling for Heterogeneous Intelligent Devices
+Liu, Weihong | Zhu, Zongwei | Li, Boyu | Xiong, Yi | Lian, Zirui | Geng, Jiawei | Zhou, Xuehai
+

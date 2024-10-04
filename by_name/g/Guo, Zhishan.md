@@ -1,6 +1,6 @@
 # Guo, Zhishan
 
-* PCs: 2018 | 2019 | 2020
+* PCs: 2018 | 2019 | 2020 | 2024
 
 ## EMSOFT 2018: 18th International Conference on Embedded Software
 
@@ -20,4 +20,9 @@ Sun, Jinghao | Shi, Rongxiao | Wang, Kexuan | Guan, Nan | Guo, Zhishan
 Bhuiyan, Ashikahmed | Reghenzani, Federico | Fornaciari, William | Guo, Zhishan
 * DOI: [10.1109/TCAD.2020.3012231](https://doi.org/10.1109/TCAD.2020.3012231)
 * URL: <https://www.ece.ucf.edu/~zsguo/pubs/journals/TCAD2020a.pdf>
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Dynamic Priority Scheduling of Multi-Threaded ROS 2 Executor with Shared Resources
+Al Arafat, Abdullah | Wilson, Kurt | Yang, Kecheng | Guo, Zhishan
 

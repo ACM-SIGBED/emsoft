@@ -17,3 +17,8 @@ Feng, Zhiwei | Gu, Zonghua | Yu, Haichuan | Deng, Qingxu | Niu, Linwei
 Chang, Shuangshuang | Bi, Ran | Sun, Jinghao | Liu, Weichen | Yu, Qi | Deng, Qingxu | Gu, Zonghua
 * DOI: [10.1109/TCAD.2022.3197532](https://doi.org/10.1109/TCAD.2022.3197532)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Ghostbuster: A Software Approach for Reducing Ghosting Effect on Electrophoretic Displays
+Hu, Tao | Cui, Menglong | Lyu, Mingsong | Yang, Tao | Zhou, Yiyang | Deng, Qingxu | Xue, Chun Jason | Guan, Nan
+

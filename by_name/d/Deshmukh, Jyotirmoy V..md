@@ -1,6 +1,6 @@
 # Deshmukh, Jyotirmoy V.
 
-* PCs: 2016
+* PCs: 2016 | 2024
 
 ## EMSOFT 2014: 14th International Conference on Embedded Software
 
@@ -33,4 +33,9 @@ Deshmukh, Jyotirmoy V. | Horvat, Marko | Jin, Xiaoqing | Majumdar, Rupak | Prabh
 ### Specification Mining and Robust Design under Uncertainty: A Stochastic Temporal Logic Approach
 Kyriakis, Panagiotis | Deshmukh, Jyotirmoy V. | Bogdan, Paul
 * DOI: [10.1145/3358231](https://doi.org/10.1145/3358231)
+
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Statistical Reachability Analysis of Stochastic Cyber-Physical Systems under Distribution Shift
+Hashemi, Navid | Lindemann, Lars | Deshmukh, Jyotirmoy V.
 

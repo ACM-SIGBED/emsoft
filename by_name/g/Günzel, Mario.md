@@ -18,3 +18,8 @@ Günzel, Mario | Hakert, Christian | Chen, Kuan-Hsun | Chen, Jian-Jia
 Günzel, Mario | Ueter, Niklas | Chen, Kuan-Hsun | Brüggen, Georg von der | Chen, Jian-Jia
 * DOI: [10.1145/3609390](https://doi.org/10.1145/3609390)
 
+## EMSOFT 2024: 24th International Conference on Embedded Software
+
+### Thread Carefully: Preventing Starvation in the ROS 2 Multithreaded Executor
+Teper, Harun | Kuhse, Daniel | Günzel, Mario | von der Brüggen, Georg | Howar, Falk | Chen, Jian-Jia
+

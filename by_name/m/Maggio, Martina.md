@@ -1,6 +1,6 @@
 # Maggio, Martina
 
-* PCs: 2018 | 2021
+* PCs: 2018 | 2021 | 2024 (cochair)
 
 ## EMSOFT 2013: 13th International Conference on Embedded Software
 

@@ -1,6 +1,6 @@
 # Hamann, Arne
 
-* PCs: 2013 | 2023
+* PCs: 2013 | 2023 | 2024
 
 ## EMSOFT 2007: 7th ACM & IEEE International Conference on Embedded Software
 

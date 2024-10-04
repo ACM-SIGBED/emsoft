@@ -1,6 +1,6 @@
 # Lu, Chenyang
 
-* PCs: 2011 | 2023
+* PCs: 2011 | 2023 | 2024
 
 ## EMSOFT 2011: 11th International Conference on Embedded Software
 
