@@ -1,7 +1,7 @@
 # EMSOFT 2023: 23rd International Conference on Embedded Software
 Pagetti, Claire | Biondi, Alessandro
 * At: Hamburg, Germany
-* Published: TBA
+* Published: [ACM TECS, Vol. 22, No. 5s](https://dl.acm.org/toc/tecs/2023/22/5s#heading3)
 
 ## Formal CPS Design
 
