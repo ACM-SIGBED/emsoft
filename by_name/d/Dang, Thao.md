@@ -1,6 +1,6 @@
 # Dang, Thao
 
-* PCs: 2016 | 2017 | 2018 | 2020 | 2021
+* PCs: 2016 | 2017 | 2018 | 2020 | 2021 | 2025
 
 ## EMSOFT 2001: 1st International Workshop on Embedded Software
 

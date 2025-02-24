@@ -1,6 +1,6 @@
 # Abbas, Houssam
 
-* PCs: 2018 | 2019 | 2020
+* PCs: 2018 | 2019 | 2020 | 2025
 
 ## EMSOFT 2022: 22nd International Conference on Embedded Software
 

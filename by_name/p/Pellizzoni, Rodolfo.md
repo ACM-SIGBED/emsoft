@@ -1,6 +1,6 @@
 # Pellizzoni, Rodolfo
 
-* PCs: 2017 | 2021
+* PCs: 2017 | 2021 | 2025
 
 ## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 

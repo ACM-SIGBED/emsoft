@@ -1,6 +1,6 @@
 # Tabuada, Paulo
 
-* PCs: 2010 | 2013 | 2014
+* PCs: 2010 | 2013 | 2014 | 2025
 
 ## EMSOFT 2010: 10th International Conference on Embedded Software
 

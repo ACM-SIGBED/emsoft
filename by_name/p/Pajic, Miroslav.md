@@ -1,6 +1,6 @@
 # Pajic, Miroslav
 
-* PCs: 2015 | 2016 | 2017 | 2018 | 2021
+* PCs: 2015 | 2016 | 2017 | 2018 | 2021 | 2025
 
 ## EMSOFT 2015: 15th International Conference on Embedded Software
 

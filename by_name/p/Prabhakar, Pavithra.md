@@ -1,6 +1,6 @@
 # Prabhakar, Pavithra
 
-* PCs: 2018 | 2019 | 2020 | 2021 | 2024
+* PCs: 2018 | 2019 | 2020 | 2021 | 2024 | 2025
 
 ## EMSOFT 2013: 13th International Conference on Embedded Software
 

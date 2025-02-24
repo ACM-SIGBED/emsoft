@@ -1,6 +1,6 @@
 # Deshmukh, Jyotirmoy V.
 
-* PCs: 2016 | 2024
+* PCs: 2016 | 2024 | 2025
 
 ## EMSOFT 2014: 14th International Conference on Embedded Software
 
