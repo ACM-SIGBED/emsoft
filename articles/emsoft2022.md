@@ -12,10 +12,12 @@ Wu, Ying-Jan | Kuo, Ching-Yu | Chang, Li-Pin
 ### Mercury: Instruction Pipeline Aware Code Generation for Simulink Models
 Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Chang, Wanli | Wang, Rui
 * DOI: [10.1109/TCAD.2022.3199967](https://doi.org/10.1109/TCAD.2022.3199967)
+* URL: <http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Mercury.pdf>
 
 ### An I/O Virtualization Framework With I/O-Related Memory Contention Control for Real-Time Systems
 Borgioli, Niccolò | Zini, Matteo | Casini, Daniel | Cicero, Giorgiomaria | Biondi, Alessandro | Buttazzo, Giorgio C.
 * DOI: [10.1109/TCAD.2022.3202434](https://doi.org/10.1109/TCAD.2022.3202434)
+* URL: <http://retis.sssup.it/~giorgio/paps/2022/TCAD22.pdf>
 
 ### Toward Register Spilling Security Using LLVM and ARM Pointer Authentication
 Fanti, Andrea | Chinea Perez, Carlos | Denis-Courmont, Remi | Roascio, Gianluca | Ekberg, Jan-Erik
@@ -35,6 +37,7 @@ Kabra, Aditi | Mitsch, Stefan | Platzer, André
 ### Verifying Controllers With Vision-Based Perception Using Safe Approximate Abstractions
 Hsieh, Chiao | Li, Yangge | Sun, Dawei | Joshi, Keyur | Misailovic, Sasa | Mitra, Sayan
 * DOI: [10.1109/TCAD.2022.3197508](https://doi.org/10.1109/TCAD.2022.3197508)
+* URL: <https://mitras.ece.illinois.edu/research/2022/EMSOFT2022.pdf>
 
 ### NASA: NVM-Assisted Secure Deletion for Flash Memory
 Zhu, Weidong | Butler, Kevin R. B.
@@ -70,6 +73,7 @@ Zhang, Zhenya | Arcaini, Paolo | Xie, Xuan
 ### Vulnerability Detection of ICS Protocols Via Cross-State Fuzzing
 Zuo, Feilong | Luo, Zhengxiong | Yu, Junze | Chen, Ting | Xu, Zichen | Cui, Aiguo | Jiang, Yu
 * DOI: [10.1109/TCAD.2022.3201471](https://doi.org/10.1109/TCAD.2022.3201471)
+* URL: <https://fouzhe.github.io/publications/paper/emsoft2022.pdf>
 
 ### Characterising the Effect of Deadline Misses on Time-Triggered Task Chains
 Pazzaglia, Paolo | Maggio, Martina
@@ -78,6 +82,7 @@ Pazzaglia, Paolo | Maggio, Martina
 ### MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing
 Xu, Yiwen | Yin, Zijing | Hou, Yiwei | Liu, Jianzhong | Jiang, Yu
 * DOI: [10.1109/TCAD.2022.3200908](https://doi.org/10.1109/TCAD.2022.3200908)
+* URL: <http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Midas.pdf>
 
 ## Energy and Efficiency
 
@@ -113,6 +118,7 @@ Zhang, Wen | Xie, Mimi | Scott, Caleb | Pan, Chen
 ### An MILP Encoding for Efficient Verification of Quantized Deep Neural Networks
 Mistry, Samvid | Saha, Indranil | Biswas, Swarnendu
 * DOI: [10.1109/TCAD.2022.3197697](https://doi.org/10.1109/TCAD.2022.3197697)
+* URL: <https://www.cse.iitk.ac.in/users/swarnendu/files/papers/milp-emsoft22.pdf>
 
 ### Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement
 Yin, Banghu | Chen, Liqian | Liu, Jiangchao | Wang, Ji

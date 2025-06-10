@@ -1,45 +1,45 @@
 # EMSOFT 2022: 22nd ACM SIGBED International Conference on Embedded Software
-* Broman, David
-* Pagetti, Claire
-* Anderson, James H.
-* Bak, Stanley
-* Baruah, Sanjoy K.
-* Beutel, Jan
-* Biondi, Alessandro
-* Bourke, Timothy
-* Brandenburg, Björn B.
-* Cassez, Franck
-* Chakraborty, Samarjit
-* Chang, Li-Pin
-* Chattopadhyay, Sudipta
-* Chen, Jian-Jia
-* Cheng, Chih-Hong
-* Delmas, Remi
-* Derler, Patricia
-* Eles, Petru
-* Ernst, Rolf
-* Falk, Heiko
-* Gill, Christopher D.
-* Girault, Alain
-* Gogniat, Guy
-* Graf, Susanne
-* Guan, Nan
-* Hasuo, Ichiro
-* Hotescu, Oana
-* Jiang, Yu
-* Kim, Hokeun
-* Kim, Hanjun
-* Lin, Shan
-* Mamalet, Franck
-* Mitra, Tulika
-* Mueller, Frank
-* Nelissen, Geoffrey
-* Platzer, André
-* Saha, Indranil
-* Saidi, Selma
-* Schoeberl, Martin
-* Sciuto, Donatella
-* Tripakis, Stavros
-* Wählisch, Matthias
-* Ward, Bryan
-* Zeng, Haibo
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Pagetti, Claire (Onera / ENSEEIHT, France)
+* Anderson, James H. (University of North Carolina at Chapel Hill, USA)
+* Bak, Stanley (Stony Brook University, USA)
+* Baruah, Sanjoy K. (Washington University in St. Louis, USA)
+* Beutel, Jan (University of Innsbruck, Austria)
+* Biondi, Alessandro (Scuola Superiore Sant’Anna, Italy)
+* Bourke, Timothy (Inria, France)
+* Brandenburg, Björn B. (Max Planck Institute for Software Systems, Germany)
+* Cassez, Franck (Macquarie University, Australia)
+* Chakraborty, Samarjit (University of North Carolina at Chapel Hill, USA)
+* Chang, Li-Pin (National Yang Ming Chiao Tung University, Taiwan)
+* Chattopadhyay, Sudipta (Singapore University of Technology and Design, Singapore)
+* Chen, Jian-Jia (TU Dortmund, Germany)
+* Cheng, Chih-Hong (Fraunhofer IKS, Germany)
+* Delmas, Remi (Amazon Web Services, USA)
+* Derler, Patricia (Kontrol GmbH, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Falk, Heiko (Hamburg University of Technology, Germany)
+* Gill, Christopher D. (Washington University in St. Louis, USA)
+* Girault, Alain (Inria, France)
+* Gogniat, Guy (University of South Brittany, France)
+* Graf, Susanne (CNRS/Verimag, France)
+* Guan, Nan (City University of Hong Kong, China)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Hotescu, Oana (ISAE-SUPAERO, France)
+* Jiang, Yu (Tsinghua University, China)
+* Kim, Hokeun (Hanyang University, South Korea & UC Berkeley, USA)
+* Kim, Hanjun (Yonsei University, South Korea)
+* Lin, Shan (Stony Brook University, USA)
+* Mamalet, Franck (IRT Saint Exupéry, France)
+* Mitra, Tulika (National University of Singapore, Singapore)
+* Mueller, Frank (North Carolina State University, USA)
+* Nelissen, Geoffrey (Eindhoven University of Technology, The Netherlands)
+* Platzer, André (Carnegie Mellon University, USA)
+* Saha, Indranil (IIT Kanpur, India)
+* Saidi, Selma (TU Dortmund, Germany)
+* Schoeberl, Martin (Technical University of Denmark, Denmark)
+* Sciuto, Donatella (Polytechnic University of Milan)
+* Tripakis, Stavros (Northeastern University, USA)
+* Wählisch, Matthias (Freie Universität Berlin, Germany)
+* Ward, Bryan (MIT Lincoln Laboratory, USA)
+* Zeng, Haibo (Virginia Tech, USA)
