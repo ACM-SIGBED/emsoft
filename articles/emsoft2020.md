@@ -116,6 +116,7 @@ Vilardell, Sergi | Serra, Isabel | Santalla, Roberto | Mezzetti, Enrico | Abella
 ### HopliteRT*: Real-Time NoC for FPGA
 Ribot González, Yilian | Nelissen, Geoffrey
 * DOI: [10.1109/TCAD.2020.3012748](https://doi.org/10.1109/TCAD.2020.3012748)
+* URL: <https://scispace.com/pdf/hoplitert-real-time-noc-for-fpga-19l40ysrhk.pdf>
 
 ### EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking
 Gao, Jian | Xu, Yiwen | Jiang, Yu | Liu, Zhe | Chang, Wanli | Jiao, Xun | Sun, Jiaguang

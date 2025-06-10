@@ -1,61 +1,61 @@
 # EMSOFT 2020: 20th ACM SIGBED International Conference on Embedded Software
-* Bourke, Timothy
-* Phan, Linh Thi Xuan
-* Abbas, Houssam
-* Abdelzaher, Tarek
-* Bak, Stanley
-* Balkan, Ayca
-* Baudart, Guillaume
-* Bini, Enrico
-* Biondi, Alessandro
-* Bogomolov, Sergiy
-* Bonakdarpour, Borzoo
-* Brandenburg, Björn B.
-* Broman, David
-* Chang, Li-Pin
-* Chang, Wanli
-* Chantem, Thidapat
-* Cock, David
-* Dang, Thao
-* Dasgupta, Pallab
-* de Niz, Dionisio
-* DeHon, André
-* Derler, Patricia
-* Duggirala, Parasara Sridhar
-* Ernst, Rolf
-* Fainekos, Georgios
-* Ganapathy, Vinod
-* Garoche, Pierre-Loïc
-* Geilen, Marc
-* Goessler, Gregor
-* Goossens, Kees
-* Guan, Nan
-* Guo, Zhishan
-* Hasuo, Ichiro
-* Jeannin, Jean-Baptiste
-* Jha, Susmit
-* Jiang, Yu
-* Koutsoukos, Xenofon D.
-* Kumar, Swarun
-* Lin, Shan
-* Mancuso, Renato
-* Moy, Matthieu
-* Noh, Sam H.
-* Ozay, Necmiye
-* Pagetti, Claire
-* Parmer, Gabriel
-* Pouzet, Marc
-* Prabhakar, Pavithra
-* Putot, Sylvie
-* Ramesh, S.
-* Roychoudhury, Abhik
-* Saha, Indranil
-* Schröder-Preikschat, Wolfgang
-* Sciuto, Donatella
-* Thiele, Lothar
-* Völp, Marcus
-* Ward, Bryan
-* Weiss, Gera
-* Xue, Bai
-* Xue, Chun Jason
-* Zhan, Naijun
+* Bourke, Timothy (Inria, France)
+* Phan, Linh Thi Xuan (University of Pennsylvania, USA)
+* Abbas, Houssam (Oregon State University, USA)
+* Abdelzaher, Tarek (University of Illinois at Urbana Champaign, USA)
+* Bak, Stanley (Safe Sky Analytics, USA)
+* Balkan, Ayca (Medtronic Inc, USA)
+* Baudart, Guillaume (IBM Watson, USA)
+* Bini, Enrico (University of Turin, Italy)
+* Biondi, Alessandro (Scuola Superiore Sant'Anna - Pisa, Italy)
+* Bogomolov, Sergiy (Newcastle University, UK)
+* Bonakdarpour, Borzoo (Iowa State University, USA)
+* Brandenburg, Björn B. (Max Planck Institute for Software Systems, Germany)
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Chang, Li-Pin (National Chiao Tung University, Taiwan)
+* Chang, Wanli (University of York, UK)
+* Chantem, Thidapat (Virginia Tech, USA)
+* Cock, David (ETH Zürich, Switzerland)
+* Dang, Thao (CNRS, France)
+* Dasgupta, Pallab (IIT Kharagpur, India)
+* de Niz, Dionisio (CMU Software Engineering Institute, USA)
+* DeHon, André (University of Pennsylvania, USA)
+* Derler, Patricia (National Instruments, USA)
+* Duggirala, Parasara Sridhar (University of North Carolina at Chapel Hill, USA)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fainekos, Georgios (Arizona State University, USA)
+* Ganapathy, Vinod (Indian Institute of Science, Bangalore, India)
+* Garoche, Pierre-Loïc (Onera, France)
+* Geilen, Marc (Eindhoven University of Technology, The Netherlands)
+* Goessler, Gregor (Inria, France)
+* Goossens, Kees (Eindhoven University of Technology, The Netherlands)
+* Guan, Nan (The Hong Kong Polytechnic University, China)
+* Guo, Zhishan (University of Central Florida, USA)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Jeannin, Jean-Baptiste (University of Michigan, USA)
+* Jha, Susmit (SRI International, USA)
+* Jiang, Yu (Tsinghua University, China)
+* Koutsoukos, Xenofon D. (Vanderbilt University, USA)
+* Kumar, Swarun (Carnegie Mellon University, USA)
+* Lin, Shan (Stonybrook University, USA)
+* Mancuso, Renato (Boston University, USA)
+* Moy, Matthieu (Université Claude Bernard Lyon, France)
+* Noh, Sam H. (Ulsan National Institute of Science and Technology, South Korea)
+* Ozay, Necmiye (University of Michigan, USA)
+* Pagetti, Claire (Onera / ENSEEIHT, France)
+* Parmer, Gabriel (George Washington University, USA)
+* Pouzet, Marc (École normale supérieure, France)
+* Prabhakar, Pavithra (Kansas State University, USA)
+* Putot, Sylvie (École polytechnique, France)
+* Ramesh, S. (General Motors, USA)
+* Roychoudhury, Abhik (National University of Singapore, Singapore)
+* Saha, Indranil (IIT Kanpur, India)
+* Schröder-Preikschat, Wolfgang (Friedrich–Alexander University Erlangen–Nürnberg, Germany)
+* Sciuto, Donatella (Polytechnic University of Milan, Italy)
+* Thiele, Lothar (ETH Zürich, Switzerland)
+* Völp, Marcus (University of Luxembourg, Luxembourg)
+* Ward, Bryan (MIT Lincoln Laboratory, USA)
+* Weiss, Gera (Ben Gurion University of the Negev, Israel)
+* Xue, Bai (State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, China)
+* Xue, Chun Jason (City University of Hong Kong, China)
+* Zhan, Naijun (State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, China)
