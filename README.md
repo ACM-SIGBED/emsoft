@@ -16,6 +16,7 @@ index. Submit a pull request or send a mail to update the repository. If you
 like, you could encourage authors to provide unencumbered links to their 
 articles.
 
+* EMSOFT 2024: [articles](articles/emsoft2025.md), [pc](pc/emsoft2025-pc.md)
 * EMSOFT 2024: [articles](articles/emsoft2024.md), [pc](pc/emsoft2024-pc.md)
 * EMSOFT 2023: [articles](articles/emsoft2023.md), [pc](pc/emsoft2023-pc.md)
 * EMSOFT 2022: [articles](articles/emsoft2022.md), [pc](pc/emsoft2022-pc.md)
