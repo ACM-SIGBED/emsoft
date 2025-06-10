@@ -8,10 +8,12 @@ Pagetti, Claire | Biondi, Alessandro
 ### Towards Building Verifiable CPS using Lingua Franca
 Lin, Shaokai | Manerkar, Yatin A. | Lohstroh, Marten | Polgreen, Elizabeth | Yu, Sheng-Jung | Jerad, Chadlia | Lee, Edward A. | Seshia, Sanjit A.
 * DOI: [10.1145/3609134](https://doi.org/10.1145/3609134)
+* URL: <https://people.eecs.berkeley.edu/~sseshia/pubdir/lfverifier-tecs23.pdf>
 
 ### Equation-Directed Axiomatization of Lustre Semantics to Enable Optimized Code Validation
 Brun, Lélio | Garion, Christophe | Garoche, Pierre-loic | Thirioux, Xavier
 * DOI: [10.1145/3609393](https://doi.org/10.1145/3609393)
+* URL: <https://hal.science/hal-04201875/document>
 
 ### Verified Compilation of Synchronous Dataflow with State Machines
 Bourke, Timothy | Pesin, Basile | Pouzet, Marc
@@ -37,6 +39,7 @@ Chou, Yi-Quan | Shen, Lin-Wei | Chang, Li-Pin
 ### CrossTalk: Making Low-Latency Fault Tolerance Cheap by Exploiting Redundant Networks
 Loveless, Andrew | Phan, Linh Thi Xuan | Erickson, Lisa | Dreslinski, Ronald | Kasikci, Baris
 * DOI: [10.1145/3609436](https://doi.org/10.1145/3609436)
+* URL: <https://www.cis.upenn.edu/~linhphan/papers/crosstalk-emsoft2023.pdf>
 
 ### Improving worst-case TSN communication times of large sensor data samples by exploiting synchronization
 Peeck, Jonas | Ernst, Rolf
@@ -45,6 +48,7 @@ Peeck, Jonas | Ernst, Rolf
 ### B-AWARE: Blockage Aware RSU Scheduling for 5G Enabled Autonomous Vehicles
 Szeto, Matthew | Andert, Edward | Shrivastava, Aviral | Reisslein, Martin | Lin, Chung-Wei | Richmond, Christ D.
 * DOI: [10.1145/3609133](https://doi.org/10.1145/3609133)
+* URL: <https://par.nsf.gov/servlets/purl/10492296>
 
 ## Real-Time and Distributed Systems
 
@@ -59,20 +63,24 @@ Lee, Edward A. | Akella, Ravi | Bateni, Soroush | Lin, Shaokai | Lohstroh, Marte
 ### Probabilistic Reaction Time Analysis
 Günzel, Mario | Ueter, Niklas | Chen, Kuan-Hsun | Brüggen, Georg von der | Chen, Jian-Jia
 * DOI: [10.1145/3609390](https://doi.org/10.1145/3609390)
+* URL: <https://ris.utwente.nl/ws/portalfiles/portal/319903909/3609390.pdf>
 
 ## Optimization and Design of Embedded Systems
 
 ### Sound Mixed Fixed-Point Quantization of Neural Networks
 Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
 * DOI: [10.1145/3609118](https://doi.org/10.1145/3609118)
+* URL: <https://diva-portal.org/smash/get/diva2:1809377/FULLTEXT01.pdf>
 
 ### A Constructive State-based Semantics and Interpreter for a Synchronous Data-flow Language with State machines
 Colaço, Jean-Louis | Mendler, Michael | Pauget, Baptiste | Pouzet, Marc
 * DOI: [10.1145/3609131](https://doi.org/10.1145/3609131)
+* URL: <https://www.di.ens.fr/~pouzet/bib/emsoft23b-extended.pdf>
 
 ### Optimal Synthesis of Robust IDK Classifier Cascades
 Baruah, Sanjoy K. | Burns, Alan | Davis, Robert
 * DOI: [10.1145/3609129](https://doi.org/10.1145/3609129)
+* URL: <https://eprints.whiterose.ac.uk/id/eprint/208518/1/3609129.pdf>
 
 ## Learning from Black-Box Components
 
@@ -87,6 +95,7 @@ Singh, Nikhilesh | Renganathan, Karthikeyan | Rebeiro, Chester | Jose, Jithin | 
 ### Probabilistic Black-Box Checking via Active MDP Learning
 Shijubo, Junya | Waga, Masaki | Suenaga, Kohei
 * DOI: [10.1145/3609127](https://doi.org/10.1145/3609127)
+* URL: <https://arxiv.org/pdf/2308.07930>
 
 ## Design of Control Systems
 
@@ -101,4 +110,5 @@ Zhao, Hanrui | Qi, Niuniu | Dehbi, Lydia | Zeng, Xia | Yang, Zhengfeng
 ### Neural Abstraction-Based Controller Synthesis and Deployment
 Majumdar, Rupak | Salamati, Mahmoud | Soudjani, Sadegh
 * DOI: [10.1145/3608104](https://doi.org/10.1145/3608104)
+* URL: <https://arxiv.org/pdf/2307.03783>
 

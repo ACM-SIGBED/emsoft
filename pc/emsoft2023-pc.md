@@ -1,52 +1,52 @@
 # EMSOFT 2023: 23rd ACM SIGBED International Conference on Embedded Software
-* Pagetti, Claire
-* Biondi, Alessandro
-* Edwards, Stephen A.
-* Becker, Juergen
-* Becker, Matthias
-* Boniol, Frédéric
-* Bourke, Timothy
-* Brandenburg, Björn B.
-* Casini, Daniel
-* Chakraborty, Samarjit
-* Chang, Li-Pin
-* Chattopadhyay, Sudipta
-* Chen, Jian-Jia
-* Cheng, Chih-Hong
-* Cohen, Albert
-* Delmas, Remi
-* Derler, Patricia
-* Falk, Heiko
-* Feng, Lu
-* Fohler, Gerhard
-* Gu, Zonghua
-* Guan, Nan
-* Hamann, Arne
-* Hasuo, Ichiro
-* Hugues, Jérôme
-* Jeannin, Jean-Baptiste
-* Johnson, Taylor
-* Kim, Hokeun
-* Kim, Hanjun
-* Kritikakou, Angeliki
-* Lo Bello, Lucia
-* Lohmann, Daniel
-* Lu, Chenyang
-* Ma, Meiyi
-* Mamalet, Franck
-* Mitra, Tulika
-* Mitsch, Stefan
-* Nelissen, Geoffrey
-* Phan, Linh Thi Xuan
-* Roux, Olivier H.
-* Saha, Indranil
-* Scharbarg, Jean-Luc
-* Seshia, Sanjit A.
-* Sun, Youcheng
-* Thiele, Lothar
-* Ward, Bryan
-* Xie, Mimi
-* Yi, Wang
-* Yıldırım, Kasım Sinan
-* Zeng, Haibo
-* Zhu, Qi
+* Pagetti, Claire (ONERA, France)
+* Biondi, Alessandro (Scuola Superiore Sant’Anna, Italy)
+* Edwards, Stephen A. (Columbia University, USA)
+* Becker, Juergen (Karlsruhe Institute of Technology, Germany)
+* Becker, Matthias (KTH Royal Institute of Technology, Sweden)
+* Boniol, Frédéric (ONERA, France)
+* Bourke, Timothy (Inria, France)
+* Brandenburg, Björn B. (Max Planck Institute for Software Systems, Germany)
+* Casini, Daniel (Scuola Superiore Sant’Anna, Italy)
+* Chakraborty, Samarjit (University of North Carolina, USA)
+* Chang, Li-Pin (National Yang Ming Chiao Tung University, Taiwan)
+* Chattopadhyay, Sudipta (Singapore University of Technology and Design, Singapore)
+* Chen, Jian-Jia (TU Dortmund, Germany)
+* Cheng, Chih-Hong (Fraunhofer IKS, Germany)
+* Cohen, Albert (Google, France)
+* Delmas, Remi (Amazon Web Services, USA)
+* Derler, Patricia (Zoox, USA)
+* Falk, Heiko (Hamburg University of Technology, Germany)
+* Feng, Lu (University of Virginia, USA)
+* Fohler, Gerhard (TU Kaiserslautern, Germany)
+* Gu, Zonghua (Umeå University, Sweden)
+* Guan, Nan (City University of Hong Kong, Hong Kong)
+* Hamann, Arne (Robert Bosch GmbH, Germany)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Hugues, Jérôme (Carnegie Mellon University, USA)
+* Jeannin, Jean-Baptiste (University of Michigan, USA)
+* Johnson, Taylor (Vanderbilt University, USA)
+* Kim, Hokeun (Arizona State University, USA)
+* Kim, Hanjun (Yonsei University, South Korea)
+* Kritikakou, Angeliki (IRISA, France)
+* Lo Bello, Lucia (University of Catania, Italy)
+* Lohmann, Daniel (Leibniz University Hannover, Germany)
+* Lu, Chenyang (Washington University in St. Louis, USA)
+* Ma, Meiyi (Vanderbilt University, USA)
+* Mamalet, Franck (IRT Saint Exupery, France)
+* Mitra, Tulika (National University of Singapore, Singapore)
+* Mitsch, Stefan (Carnegie Mellon University, USA)
+* Nelissen, Geoffrey (Eindhoven University of Technology, The Netherlands)
+* Phan, Linh Thi Xuan (University of Pennsylvania, USA)
+* Roux, Olivier H. (Ecole Centrale of Nantes, France)
+* Saha, Indranil (IIT Kanpur, India)
+* Scharbarg, Jean-Luc (IRIT, France)
+* Seshia, Sanjit A. (University of California, Berkeley, USA)
+* Sun, Youcheng (University of Manchester, UK)
+* Thiele, Lothar (ETH Zürich, Switzerland)
+* Ward, Bryan (Vanderbilt University, USA)
+* Xie, Mimi (The University of Texas at San Antonio, USA)
+* Yi, Wang (Uppsala University, Sweden)
+* Yıldırım, Kasım Sinan (University of Trento, Italy)
+* Zeng, Haibo (Virginia Tech, USA)
+* Zhu, Qi (Northwestern University, USA)
