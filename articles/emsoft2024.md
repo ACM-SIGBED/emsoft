@@ -1,7 +1,7 @@
 # EMSOFT 2024: 24th International Conference on Embedded Software
 Biondi, Alessandro | Maggio, Martina
 * At: Raleigh, NC, USA
-* Published: TBA
+* Published: [IEEE TCAD, Vol. 43, No. 11](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10745760&punumber=43&sortType=vol-only-seq&pageNumber=1&rowsPerPage=100)
 
 ## Machine Learning under Resource Constraints
 
