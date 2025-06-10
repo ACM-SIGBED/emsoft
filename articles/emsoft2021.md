@@ -36,6 +36,7 @@ Kumar Singh, Nikhil | Saha, Indranil
 ### Synthesis-guided Adversarial Scenario Generation for Gray-box Feedback Control Systems with Sensing Imperfections
 Yang, Liren | Ozay, Necmiye
 * DOI: [10.1145/3477033](https://doi.org/10.1145/3477033)
+* URL: <https://arxiv.org/pdf/2107.11667>
 
 ## Resource Management
 
@@ -47,6 +48,7 @@ Sinha, Soham | West, Richard
 ### HEART: Hybrid Memory and Energy-Aware Real-Time Scheduling for Multi-Processor Systems
 Günzel, Mario | Hakert, Christian | Chen, Kuan-Hsun | Chen, Jian-Jia
 * DOI: [10.1145/3477019](https://doi.org/10.1145/3477019)
+* URL: <https://ris.utwente.nl/ws/portalfiles/portal/267880893/3477019.pdf>
 
 ### Killing Processes or Killing Flash? Escaping from the Dilemma Using Lightweight, Compression-Aware Swap for Mobile Devices
 Wang, Yong-Xuan | Tsai, Chung-Hsuan | Chang, Li-Pin
@@ -67,6 +69,7 @@ An, Jie | Zhan, Bohua | Zhan, Naijun | Zhang, Miaomiao
 ### Regime Inference for Sound Floating-Point Optimizations
 Rabe, Robert | Izycheva, Anastasiia | Darulova, Eva
 * DOI: [10.1145/3477012](https://doi.org/10.1145/3477012)
+* URL: <https://people.mpi-sws.org/~eva/papers/emsoft2021.pdf>
 
 ### Declarative Power Sequencing
 Schult, Jasmin | David Schwyn, Daniel | Giardino, Michael | Cock, David | Achermann, Reto | Roscoe, Timothy
@@ -100,6 +103,7 @@ Hosseini, Fateme S. | Meng, Fanruo | Yang, Chengmo | Wen, Wujie | Cammarota, Ros
 ### Real-time Attack-recovery for Cyber-physical Systems Using Linear-quadratic Regulator
 Zhang, Lin | Lu, Pengyuan | Kong, Fanxin | Chen, Xin | Sokolsky, Oleg | Lee, Insup
 * DOI: [10.1145/3477010](https://doi.org/10.1145/3477010)
+* URL: <https://par.nsf.gov/servlets/purl/10390784>
 
 ### Structured Proofs for Adversarial Cyber-Physical Systems
 Bohrer, Rose | Platzer, André
@@ -145,4 +149,5 @@ Zhou, Quan | Li, Guohui | Chen, Qi | Li, Jianjun
 ### Thermal-aware Adaptive Platform Management for Heterogeneous Embedded Systems
 Maity, Srijeeta | Ghose, Anirban | Dey, Soumyajit | Biswas, Swarnendu
 * DOI: [10.1145/3477028](https://doi.org/10.1145/3477028)
+* URL: <https://www.cse.iitk.ac.in/users/swarnendu/files/papers/thermal-emsoft21.pdf>
 

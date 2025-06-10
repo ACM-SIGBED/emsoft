@@ -1,61 +1,61 @@
 # EMSOFT 2021: 21st ACM SIGBED International Conference on Embedded Software
-* Phan, Linh Thi Xuan
-* Broman, David
-* Abdelzaher, Tarek
-* Asavoae, Mihail
-* Bak, Stanley
-* Baudart, Guillaume
-* Bertogna, Marko
-* Beutel, Jan
-* Bini, Enrico
-* Chakraborty, Samarjit
-* Chang, Li-Pin
-* Chattopadhyay, Sudipta
-* Cock, David
-* Dang, Thao
-* Darulova, Eva
-* Dasgupta, Pallab
-* DeHon, André
-* Duggirala, Parasara Sridhar
-* Eles, Petru
-* Ernst, Rolf
-* Gill, Christopher D.
-* Goessler, Gregor
-* Graf, Susanne
-* Guan, Nan
-* Hasuo, Ichiro
-* Jha, Susmit
-* Jiang, Yu
-* Kim, Hokeun
-* Lee, Edward A.
-* Lin, Chung-Wei
-* Liu, Cong
-* Maggio, Martina
-* Mancuso, Renato
-* Marculescu, Diana
-* Mueller, Frank
-* Noh, Sam H.
-* Ozay, Necmiye
-* Pagetti, Claire
-* Pajic, Miroslav
-* Pasareanu, Corina
-* Patel, Hiren
-* Pellizzoni, Rodolfo
-* Prabhakar, Pavithra
-* Reineke, Jan
-* Saha, Indranil
-* Saidi, Selma
-* Sander, Ingo
-* Schröder-Preikschat, Wolfgang
-* Sciuto, Donatella
-* Sinha, Roopak
-* Sokolsky, Oleg
-* Thiele, Lothar
-* Tripakis, Stavros
-* Völp, Marcus
-* Ward, Bryan
-* West, Richard
-* Xue, Bai
-* Xue, Chun Jason
-* Zeng, Haibo
-* Zhan, Naijun
+* Phan, Linh Thi Xuan (University of Pennsylvania, USA)
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Abdelzaher, Tarek (University of Illinois at Urbana-Champaign, USA)
+* Asavoae, Mihail (CEA-List, France)
+* Bak, Stanley (Stony Brook University, USA)
+* Baudart, Guillaume (Inria, France)
+* Bertogna, Marko (University of Modena, Italy)
+* Beutel, Jan (University of Innsbruck, Austria)
+* Bini, Enrico (University of Turin, Italy)
+* Chakraborty, Samarjit (University of North Carolina at Chapel Hill, USA)
+* Chang, Li-Pin (National Chiao Tung University, Taiwan)
+* Chattopadhyay, Sudipta (Singapore University of Technology and Design, Singapore)
+* Cock, David (ETH Zürich, Switzerland)
+* Dang, Thao (CNRS, France)
+* Darulova, Eva (Max Planck Institute for Software Systems, Germany)
+* Dasgupta, Pallab (IIT Kharagpur, India)
+* DeHon, André (University of Pennsylvania, USA)
+* Duggirala, Parasara Sridhar (University of North Carolina at Chapel Hill, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Gill, Christopher D. (Washington University in St. Louis, USA)
+* Goessler, Gregor (Inria, France)
+* Graf, Susanne (Grenoble University/Verimag, France)
+* Guan, Nan (Hong Kong Polytechnic University, China)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Jha, Susmit (SRI International, USA)
+* Jiang, Yu (Tsinghua University, China)
+* Kim, Hokeun (Google, USA)
+* Lee, Edward A. (UC Berkeley, USA)
+* Lin, Chung-Wei (National Taiwan University, Taiwan)
+* Liu, Cong (University of Texas at Dallas, USA)
+* Maggio, Martina (Saarland University, Germany)
+* Mancuso, Renato (Boston University, USA)
+* Marculescu, Diana (University of Texas at Austin, USA)
+* Mueller, Frank (North Carolina State University, USA)
+* Noh, Sam H. (Ulsan National Institute of Science and Technology, South Korea)
+* Ozay, Necmiye (University of Michigan, USA)
+* Pagetti, Claire (Onera / ENSEEIHT, France)
+* Pajic, Miroslav (Duke University, USA)
+* Pasareanu, Corina (Carnegie Mellon University / NASA Ames, USA)
+* Patel, Hiren (University of Waterloo, Canada)
+* Pellizzoni, Rodolfo (University of Waterloo, Canada)
+* Prabhakar, Pavithra (Kansas State University, USA)
+* Reineke, Jan (Saarland University, Germany)
+* Saha, Indranil (IIT Kanpur, India)
+* Saidi, Selma (TU Dortmund, Germany)
+* Sander, Ingo (KTH Royal Institute of Technology, Sweden)
+* Schröder-Preikschat, Wolfgang (Friedrich–Alexander University Erlangen–Nürnberg, Germany)
+* Sciuto, Donatella (Polytechnic University of Milan, Italy)
+* Sinha, Roopak (Auckland University of Technology, New Zealand)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Thiele, Lothar (ETH Zürich, Switzerland)
+* Tripakis, Stavros (Northeastern University, USA)
+* Völp, Marcus (University of Luxembourg, Luxembourg)
+* Ward, Bryan (MIT Lincoln Laboratory, USA)
+* West, Richard (Boston University, USA)
+* Xue, Bai (Chinese Academy of Sciences, China)
+* Xue, Chun Jason (City University of Hong Kong, China)
+* Zeng, Haibo (Virginia Tech, USA)
+* Zhan, Naijun (Chinese Academy of Sciences, China)
