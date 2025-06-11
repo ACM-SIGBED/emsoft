@@ -1,7 +1,5 @@
 # Chang, Yuan-Hao
 
-* PCs: 2025
-
 ## EMSOFT 2010: 10th International Conference on Embedded Software
 
 ### A Reliable MTD Design for MLC Flash-Memory Storage Systems

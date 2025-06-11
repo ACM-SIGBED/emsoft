@@ -1,6 +1,6 @@
 # Guan, Nan
 
-* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024
+* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
 
 ## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 
@@ -46,9 +46,12 @@ Sun, Jinghao | Guan, Nan | Shi, Rongxiao | Tan, Guozhen | Yi, Wang
 
 ## EMSOFT 2024: 24th International Conference on Embedded Software
 
-### Modelling and Analysis of the LatestTime Message Synchronization Policy in ROS
+### Modeling and Analysis of the LatestTime Message Synchronization Policy in ROS
 Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
+* DOI: [Modeling and Analysis of the LatestTime Message Synchronization Policy in ROS](https://doi.org/Modeling and Analysis of the LatestTime Message Synchronization Policy in ROS)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/EMSOFT_2024.pdf>
 
 ### Ghostbuster: A Software Approach for Reducing Ghosting Effect on Electrophoretic Displays
 Hu, Tao | Cui, Menglong | Lyu, Mingsong | Yang, Tao | Zhou, Yiyang | Deng, Qingxu | Xue, Chun Jason | Guan, Nan
+* DOI: [10.1109/TCAD.2024.3446711](https://doi.org/10.1109/TCAD.2024.3446711)
 

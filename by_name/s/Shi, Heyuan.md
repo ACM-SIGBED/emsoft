@@ -18,7 +18,11 @@ Shen, Yuheng | Xu, Yiru | Sun, Hao | Liu, Jianzhong | Xu, Zichen | Cui, Aiguo | 
 
 ### ECG: Augmenting Embedded Operating System Fuzzing via LLM-based Corpus Generation
 Zhang, Qiang | Shen, Yuheng | Liu, Jianzhong | Xu, Yiru | Shi, Heyuan | Jiang, Yu | Chang, Wanli
+* DOI: [10.1109/TCAD.2024.3447220](https://doi.org/10.1109/TCAD.2024.3447220)
+* URL: <http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/ECG_EMSOFT24.pdf>
 
 ### Parallel Fuzzing of IoT Messaging Protocols through Collaborative Packet Generation
 Luo, Zhengxiong | Yu, Junze | Du, Qingpeng | Zhao, Yanyang | Wu, Feifan | Shi, Heyuan | Chang, Wanli | Jiang, Yu
+* DOI: [10.1109/TCAD.2024.3444705](https://doi.org/10.1109/TCAD.2024.3444705)
+* URL: <https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/EMSOFT/EMSOFT_16_Luo>
 

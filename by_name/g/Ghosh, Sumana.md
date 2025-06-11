@@ -10,4 +10,5 @@ Ghosh, Sumana | Dutta, Souradeep | Dey, Soumyajit | Dasgupta, Pallab
 
 ### Revisiting Dynamic Scheduling of Control Tasks: A Performance-aware Fine-grained Approach
 Adhikary, Sunandan | Koley, Ipsita | Ghosh, Saurav Kumar | Ghosh, Sumana | Dey, Soumyajit
+* DOI: [10.1109/TCAD.2024.3443007](https://doi.org/10.1109/TCAD.2024.3443007)
 

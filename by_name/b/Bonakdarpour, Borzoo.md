@@ -1,6 +1,6 @@
 # Bonakdarpour, Borzoo
 
-* PCs: 2018 | 2019 | 2020 | 2024 | 2025
+* PCs: 2018 | 2019 | 2020 | 2024 | 2025 (cochair)
 
 ## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 
@@ -58,4 +58,6 @@ Wang, Yu | Zarei, Mojtaba | Bonakdarpour, Borzoo | Pajic, Miroslav
 
 ### Efficient Discovery of Actual Causality using Abstraction-Refinement
 Rafieioskouei, Arshia | Bonakdarpour, Borzoo
+* DOI: [10.1109/TCAD.2024.3448299](https://doi.org/10.1109/TCAD.2024.3448299)
+* URL: <https://arxiv.org/pdf/2407.16629>
 

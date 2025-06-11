@@ -25,10 +25,12 @@ Salamati, Mahmoud | Salvia, Rocco | Darulova, Eva | Soudjani, Sadegh | Majumdar,
 ### Regime Inference for Sound Floating-Point Optimizations
 Rabe, Robert | Izycheva, Anastasiia | Darulova, Eva
 * DOI: [10.1145/3477012](https://doi.org/10.1145/3477012)
+* URL: <https://people.mpi-sws.org/~eva/papers/emsoft2021.pdf>
 
 ## EMSOFT 2023: 23rd International Conference on Embedded Software
 
 ### Sound Mixed Fixed-Point Quantization of Neural Networks
 Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
 * DOI: [10.1145/3609118](https://doi.org/10.1145/3609118)
+* URL: <https://diva-portal.org/smash/get/diva2:1809377/FULLTEXT01.pdf>
 

@@ -12,9 +12,12 @@ Waga, Masaki | Hasuo, Ichiro
 ### Probabilistic Black-Box Checking via Active MDP Learning
 Shijubo, Junya | Waga, Masaki | Suenaga, Kohei
 * DOI: [10.1145/3609127](https://doi.org/10.1145/3609127)
+* URL: <https://arxiv.org/pdf/2308.07930>
 
 ## EMSOFT 2024: 24th International Conference on Embedded Software
 
 ### Hyper parametric timed CTL
 Waga, Masaki | André, Étienne
+* DOI: [10.1109/TCAD.2024.3443704](https://doi.org/10.1109/TCAD.2024.3443704)
+* URL: <https://arxiv.org/pdf/2407.21321>
 

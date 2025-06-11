@@ -1,7 +1,5 @@
 # Basten, Twan
 
-* PCs: 2025
-
 ## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 
 ### Reactive Process Networks

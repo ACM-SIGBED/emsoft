@@ -19,4 +19,6 @@ Lee, Youngmoon | Shin, Kang G. | Chwa, Hoon Sung
 
 ### Analysis and Prevention of MCAS-Induced Crashes
 Curran, Noah T. | Kennings, Thomas W. | Shin, Kang G.
+* DOI: [10.1109/TCAD.2024.3438105](https://doi.org/10.1109/TCAD.2024.3438105)
+* URL: <https://arxiv.org/pdf/2301.08779>
 

@@ -12,6 +12,7 @@ Chou, Glen | Sahin, Yunus Emre | Yang, Liren | Rutledge, Kwesi J. | Nilsson, Pet
 ### Synthesis-guided Adversarial Scenario Generation for Gray-box Feedback Control Systems with Sensing Imperfections
 Yang, Liren | Ozay, Necmiye
 * DOI: [10.1145/3477033](https://doi.org/10.1145/3477033)
+* URL: <https://arxiv.org/pdf/2107.11667>
 
 ## EMSOFT 2022: 22nd International Conference on Embedded Software
 
