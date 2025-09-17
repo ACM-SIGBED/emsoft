@@ -1,6 +1,6 @@
 # Xue, Bai
 
-* PCs: 2018 | 2019 | 2020 | 2021
+* PCs: 2019 | 2020 | 2021
 
 ## EMSOFT 2020: 20th International Conference on Embedded Software
 

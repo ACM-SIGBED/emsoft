@@ -1,59 +1,59 @@
 # EMSOFT 2019: 19th ACM SIGBED International Conference on Embedded Software
-* Abbas, Houssam
-* Bak, Stanley
-* Balkan, Ayca 
-* Baudart, Guillaume
-* Bini, Enrico
-* Biondi, Alessandro
-* Bogomolov, Sergiy
-* Bonakdarpour, Borzoo
-* Bourke, Timothy
-* Chang, Wanli
-* Chen, Xin
-* Cock, David
-* Dasari, Dakshina
-* Dasgupta, Pallab
-* Derler, Patricia
-* de Niz, Dionisio
-* Ehlers, Ruediger
-* Ernst, Rolf
-* Fainekos, Georgios
-* Ganapathy, Vinod
-* Garoche, Pierre-Loïc
-* Goessler, Gregor
-* Guan, Nan
-* Guo, Zhishan
-* Hasuo, Ichiro
-* Jeannin, Jean-Baptiste
-* Jha, Susmit
-* Kapinski, James
-* Koutsoukos, Xenofon D.
-* Lee, Edward A.
-* Li, Jing
-* Lin, Shan
-* Mancuso, Renato
-* Mueller, Frank
-* Nasri, Mitra
-* Nelissen, Geoffrey
-* Noh, Sam H.
-* Ozay, Necmiye
-* Pagetti, Claire
-* Pouzet, Marc
-* Prabhakar, Pavithra
-* Putot, Sylvie
-* Ramesh, S.
-* Roop, Partha S.
-* Rozier, Kristin Yvonne
-* Saha, Indranil
-* Sankaranarayanan, Sriram
-* Schröder-Preikschat, Wolfgang
-* Sciuto, Donatella
-* Thiele, Lothar
-* Trivedi, Ashutosh 
-* Urban, Caterina
-* Völp, Marcus
-* Ward, Bryan
-* Weiss, Gera
-* Xue, Bai
-* Xue, Chun Jason
-* Zhan, Naijun
+* Abbas, Houssam (Oregon State University, USA)
+* Bak, Stanley (Safe Sky Analytics, USA)
+* Balkan, Ayca  (Medtronic, USA)
+* Baudart, Guillaume (IBM, USA)
+* Bini, Enrico (Universita di Torino, Italy)
+* Biondi, Alessandro (Scuola Superiore Sant'Anna - Pisa, Italy)
+* Bogomolov, Sergiy (Australian National University, Australia)
+* Bonakdarpour, Borzoo (Iowa State University, USA)
+* Bourke, Timothy (INRIA, France)
+* Chang, Wanli (University of York, UK)
+* Chen, Xin (University of Dayton, USA)
+* Cock, David (ETH Zurich, Switzerland)
+* Dasari, Dakshina (Robert Bosch GmbH, Germany)
+* Dasgupta, Pallab (Indian Institute of Technology Kharagpur, India)
+* Derler, Patricia (National Instruments, USA)
+* de Niz, Dionisio (SEI CMU, USA)
+* Ehlers, Ruediger (University of Bremen, Germany)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fainekos, Georgios (Arizona State University, USA)
+* Ganapathy, Vinod (Indian Institute of Science, India)
+* Garoche, Pierre-Loïc (ONERA, France)
+* Goessler, Gregor (INRIA, France)
+* Guan, Nan (The Hong Kong Polytechnic University, China)
+* Guo, Zhishan (University of Central Florida, USA)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Jeannin, Jean-Baptiste (University of Michigan, USA)
+* Jha, Susmit (SRI, USA)
+* Kapinski, James (Toyota, USA)
+* Koutsoukos, Xenofon D. (Vanderbilt University, USA)
+* Lee, Edward A. (University of California, Berkeley, USA)
+* Li, Jing (New Jersey Institute of Technology, USA)
+* Lin, Shan (Stonybrook University, USA)
+* Mancuso, Renato (Boston University, USA)
+* Mueller, Frank (North Carolina State University, USA)
+* Nasri, Mitra (TU Deflt, The Netherlands)
+* Nelissen, Geoffrey (CISTER, ISEP, Portugal)
+* Noh, Sam H. (Ulsan National Institute of Science and Technology, Korea)
+* Ozay, Necmiye (University of Michigan, USA)
+* Pagetti, Claire (ONERA, France)
+* Pouzet, Marc (Université Pierre et Marie Curie, France)
+* Prabhakar, Pavithra (Kansas State University, USA)
+* Putot, Sylvie (École Polytechnique, France)
+* Ramesh, S. (General Motors, USA)
+* Roop, Partha S. (University of Auckland, New Zealand)
+* Rozier, Kristin Yvonne (Iowa State University, USA)
+* Saha, Indranil (Indian Institute of Technology Kanpur, India)
+* Sankaranarayanan, Sriram (University of Colorado, USA)
+* Schröder-Preikschat, Wolfgang (Friedrich-Alexander-Universität, Germany)
+* Sciuto, Donatella (Politecnico di Milano, Italy)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Trivedi, Ashutosh  (University of Colorado, USA)
+* Urban, Caterina (ETH Zurich, Switzerland)
+* Völp, Marcus (Université du Luxembourg, Luxembourg)
+* Ward, Bryan (MIT Lincoln Laboratory, USA)
+* Weiss, Gera (Ben Gurion University, Israel)
+* Xue, Bai (Chinese Academy of Sciences, Beijing, China)
+* Xue, Chun Jason (City University of Hong Kong, China)
+* Zhan, Naijun (Chinese Academy of Sciences, Beijing, China)

@@ -1,59 +1,58 @@
 # EMSOFT 2018: 18th ACM SIGBED International Conference on Embedded Software
-* Brandenburg, Björn B.
-* Sankaranarayanan, Sriram
-* Abbas, Houssam
-* Abdelzaher, Tarek
-* Xue, Bai
-* Baruah, Sanjoy K.
-* Biondi, Alessandro
-* Bogomolov, Sergiy
-* Bonakdarpour, Borzoo
-* Bourke, Timothy
-* Broman, David
-* Castillo-Effen, Mauricio
-* Dang, Thao
-* Dasari, Dakshina
-* Derler, Patricia
-* Dreossi, Tommaso
-* Ehlers, Ruediger
-* Eles, Petru
-* Ernst, Rolf
-* Fainekos, Georgios
-* Gill, Christopher D.
-* Guan, Nan
-* Guo, Zhishan
-* Hasuo, Ichiro
-* Ivancic, Franjo
-* Jha, Susmit
-* Jin, Xiaoqing
-* Johnson, Taylor
-* Koutsoukos, Xenofon D.
-* Kumar, Pratyush
-* Lee, Edward A.
-* Li, Wenchao
-* Liu, Cong
-* Maggio, Martina
-* Mancuso, Renato
-* Mueller, Frank
-* Nelissen, Geoffrey
-* Noh, Sam H.
-* Ozay, Necmiye
-* Pagetti, Claire
-* Pajic, Miroslav
-* Parmer, Gabriel
-* Pouzet, Marc
-* Prabhakar, Pavithra
-* Putot, Sylvie
-* Radhakrishna, Arjun
-* Rozier, Kristin Yvonne
-* Ramesh, S.
-* Saha, Indranil
-* Schröder-Preikschat, Wolfgang
-* Sciuto, Donatella
-* Sokolsky, Oleg
-* Thiele, Lothar
-* Topcu, Ufuk
-* Tripakis, Stavros
-* Urban, Caterina
-* Völp, Marcus
-* Ward, Bryan
+* Brandenburg, Björn B. (MPI for Software Systems, Germany)
+* Sankaranarayanan, Sriram (University of Colorado, Boulder, USA)
+* Abbas, Houssam (University of Pennsylvania, USA)
+* Abdelzaher, Tarek (University of Illinois at Urbana Champaign, USA)
+* Baruah, Sanjoy K. (Washington University in St. Louis, USA)
+* Biondi, Alessandro (Scuola Superiore Sant'Anna - Pisa, Italy)
+* Bogomolov, Sergiy (Australian National University, Australia)
+* Bonakdarpour, Borzoo (McMaster University, Canada)
+* Bourke, Timothy (INRIA, France)
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Castillo-Effen, Mauricio (GE Global Research, USA)
+* Dang, Thao (Verimag, France)
+* Dasari, Dakshina (Bosch Corporate Research, Germany)
+* Derler, Patricia (National Instruments, USA)
+* Dreossi, Tommaso (UC Berkeley, USA)
+* Ehlers, Ruediger (University of Bremen, Germany)
+* Eles, Petru (Linkoping University, Sweden)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fainekos, Georgios (Arizona State University, USA)
+* Gill, Christopher D. (Washington University in St. Louis, USA)
+* Guan, Nan (The Hong Kong Polytechnic University, China)
+* Guo, Zhishan (Missouri University of Science and Technology, USA)
+* Hasuo, Ichiro (National Institute of Informatics, Japan)
+* Ivancic, Franjo (Google, USA)
+* Jha, Susmit (SRI International, USA)
+* Jin, Xiaoqing (Decyphir, USA)
+* Johnson, Taylor (Vanderbilt University, USA)
+* Koutsoukos, Xenofon D. (Vanderbilt University, USA)
+* Kumar, Pratyush (IIT Madras, India)
+* Lee, Edward A. (UC Berkeley, USA)
+* Li, Wenchao (Boston University, USA)
+* Liu, Cong (UT Dallas, USA)
+* Maggio, Martina (Lund University, Sweden)
+* Mancuso, Renato (Boston University, USA)
+* Mueller, Frank (North Carolina State University, USA)
+* Nelissen, Geoffrey (CISTER - Instituto Superior de Engenharia do Porto, Portugal)
+* Noh, Sam H. (Ulsan National Institute of Science and Technology, Korea)
+* Ozay, Necmiye (University of Michigan, USA)
+* Pagetti, Claire (ONERA, France)
+* Pajic, Miroslav (Duke University, USA)
+* Parmer, Gabriel (George Washington University, USA)
+* Pouzet, Marc (École Normale Supérieure, Paris, France)
+* Prabhakar, Pavithra (Kansas State University, USA)
+* Putot, Sylvie (École Polytechnique, France)
+* Radhakrishna, Arjun (Microsoft, USA)
+* Rozier, Kristin Yvonne (NASA, USA)
+* Ramesh, S. (General Motors R&D, India)
+* Saha, Indranil (IIT Kanpur, India)
+* Schröder-Preikschat, Wolfgang (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
+* Sciuto, Donatella (Politecnico di Milano, Italy)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Topcu, Ufuk (UT Austin, USA)
+* Tripakis, Stavros (Aalto University, Finland / UC Berkeley, USA)
+* Urban, Caterina (ETH Zurich, Switzerland)
+* Völp, Marcus (University of Luxembourg, Luxembourg)
+* Ward, Bryan (MIT Lincoln Laboratory, USA)

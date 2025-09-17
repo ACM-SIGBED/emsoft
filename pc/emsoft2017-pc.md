@@ -1,51 +1,51 @@
 # EMSOFT 2017: 17th ACM SIGBED International Conference on Embedded Software
-* Brandenburg, Björn B.
-* de Simone, Robert
-* Årzén, Karl-Erik
-* Bini, Enrico
-* Bogdan, Paul
-* Bogomolov, Sergiy
-* Bourke, Timothy
-* Broman, David
-* Chattopadhyay, Sudipta
-* Dang, Thao
-* Derler, Patricia
-* Edwards, Stephen A.
-* Ehlers, Ruediger
-* Eles, Petru
-* Ernst, Rolf
-* Falk, Heiko
-* Feng, Lu
-* Gamatié, Abdoulaye
-* Geilen, Marc
-* Grosu, Radu
-* Guan, Nan
-* Johnson, Taylor
-* Kapinski, James
-* Kim, Hyoseung
-* Kirsch, Christoph M.
-* Koutsoukos, Xenofon D.
-* Kuo, Tei-Wei
-* Li, Xuandong
-* Maraninchi, Florence
-* Merro, Massimo
-* Mitra, Sayan
-* Pagetti, Claire
-* Pajic, Miroslav
-* Palopoli, Luigi
-* Parmer, Gabriel
-* Pellizzoni, Rodolfo
-* Potop-Butucaru, Dumitru
-* Quinton, Sophie
-* Roop, Partha S.
-* Sankaranarayanan, Sriram
-* Sciuto, Donatella
-* Shukla, Sandeep
-* Sokolsky, Oleg
-* Tripakis, Stavros
-* Völp, Marcus
-* von Hanxleden, Reinhard
-* Xu, Wenyao
-* Xue, Jingling
-* Yi, Wang
-* Yun, Heechul
+* Brandenburg, Björn B. (MPI for Software Systems, Germany)
+* de Simone, Robert (INRIA Sophia-Antipolis, France)
+* Årzén, Karl-Erik (Lunds Universitet, Sweden)
+* Bini, Enrico (University of Turin, Italy)
+* Bogdan, Paul (University of Southern California, USA)
+* Bogomolov, Sergiy (Australian National University, Australia)
+* Bourke, Timothy (INRIA / École Normale Supérieure, Paris, France)
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Chattopadhyay, Sudipta (Singapore University of Technology and Design, Singapore)
+* Dang, Thao (Verimag, France)
+* Derler, Patricia (National Instruments, USA)
+* Edwards, Stephen A. (Columbia University, USA)
+* Ehlers, Ruediger (University of Bremen, Germany)
+* Eles, Petru (Linköping University, Sweden)
+* Ernst, Rolf (Technische Universität Braunschweig, Germany)
+* Falk, Heiko (Technische Universität Hamburg, Germany)
+* Feng, Lu (University of Virginia, USA)
+* Gamatié, Abdoulaye (CNRS LIRMM, Montpellier, France)
+* Geilen, Marc (Technical University Eindhoven, The Netherlands)
+* Grosu, Radu (Technische Universität Wien, Austria)
+* Guan, Nan (Hong Kong Polytechnic University, China)
+* Johnson, Taylor (Vanderbilt University, USA)
+* Kapinski, James (Toyota Technical Center, USA)
+* Kim, Hyoseung (University of California at Riverside, USA)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Koutsoukos, Xenofon D. (Vanderbilt University, USA)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Li, Xuandong (Nanjing University, China)
+* Maraninchi, Florence (Verimag, France)
+* Merro, Massimo (University of Verona, Italy)
+* Mitra, Sayan (University of Illinois at Urbana Champaign, USA)
+* Pagetti, Claire (ONERA, France)
+* Pajic, Miroslav (Duke University, USA)
+* Palopoli, Luigi (University of Trento, Italy)
+* Parmer, Gabriel (George Washington University, USA)
+* Pellizzoni, Rodolfo (University of Waterloo, Canada)
+* Potop-Butucaru, Dumitru (Inria Paris, France)
+* Quinton, Sophie (Inria Rhône-Alpes, France)
+* Roop, Partha S. (University of Auckland, New Zealand)
+* Sankaranarayanan, Sriram (University of Colorado Boulder, USA)
+* Sciuto, Donatella (Politecnico di Milano, Italy)
+* Shukla, Sandeep (IIT Kanpur, India)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Tripakis, Stavros (UC Berkeley USA / Aalto University, Finland)
+* Völp, Marcus (University of Luxembourg, Luxembourg)
+* von Hanxleden, Reinhard (University of Kiel, Germany)
+* Xu, Wenyao (University of Buffalo, State University of New York, USA)
+* Xue, Jingling (University of New South Wales, Australia)
+* Yi, Wang (Uppsala University, Sweden)
+* Yun, Heechul (University of Kansas, USA)
