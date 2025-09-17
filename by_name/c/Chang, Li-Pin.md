@@ -51,3 +51,10 @@ Chen, Yen-Hsun | Liao, Ting-En | Chang, Li-Pin
 * DOI: [10.1109/TCAD.2024.3443698](https://doi.org/10.1109/TCAD.2024.3443698)
 * URL: <https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/EMSOFT/EMSOFT_102_Chen>
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### App-Aware Swap Resource Allocation for Enhancing User-Perceived Latency on Mobile Devices
+Wei, Yi-Cheng | Tsou, Yi-Chieh | Chen, Yong-Cheng | Chang, Li-Pin
+* DOI: [10.1145/3760385](https://doi.org/10.1145/3760385)
+* URL: <https://dl.acm.org/doi/10.1145/3760385>
+

@@ -14,3 +14,10 @@ Huang, Chao | Chen, Xin | Lin, Wang | Yang, Zhengfeng | Li, Xuandong
 Zhang, Yifan | Yang, Zhengfeng | Lin, Wang | Zhu, Huibiao | Chen, Xin | Li, Xuandong
 * DOI: [10.1109/TCAD.2018.2858383](https://doi.org/10.1109/TCAD.2018.2858383)
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### Checking Bounded Reachability of Compositional Linear Hybrid Automata Using Interaction Relations
+Shi, Yuhui | Wu, Yuming | Bu, Lei | Li, Xuandong
+* DOI: [10.1145/3762645](https://doi.org/10.1145/3762645)
+* URL: <https://dl.acm.org/doi/10.1145/3762645>
+

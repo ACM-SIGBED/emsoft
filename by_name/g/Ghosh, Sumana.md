@@ -12,3 +12,10 @@ Ghosh, Sumana | Dutta, Souradeep | Dey, Soumyajit | Dasgupta, Pallab
 Adhikary, Sunandan | Koley, Ipsita | Ghosh, Saurav Kumar | Ghosh, Sumana | Dey, Soumyajit
 * DOI: [10.1109/TCAD.2024.3443007](https://doi.org/10.1109/TCAD.2024.3443007)
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### A Formal Approach towards Safe and Stable Schedule Synthesis in Weakly Hard Control Systems
+Banerjee, Debarpita | Duggirala, Parasara Sridhar | Ghosh, Bineet | Ghosh, Sumana
+* DOI: [10.1145/3760528](https://doi.org/10.1145/3760528)
+* URL: <https://dl.acm.org/doi/10.1145/3760528>
+

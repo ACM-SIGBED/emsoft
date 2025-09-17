@@ -23,3 +23,10 @@ van Pinxten, Joost | Geilen, Marc | Basten, Twan
 * DOI: [10.1145/3358226](https://doi.org/10.1145/3358226)
 * URL: <https://www.es.ele.tue.nl/~tbasten/papers/parametric_scheduling_emsoft_2019_authorversion.pdf>
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### Schedule synthesis for synchronous dataflow models with lower and upper timing bounds
+van Wanrooij, Joep | Basten, Twan | Geilen, Marc
+* DOI: [10.1145/3762643](https://doi.org/10.1145/3762643)
+* URL: <https://dl.acm.org/doi/10.1145/3762643>
+

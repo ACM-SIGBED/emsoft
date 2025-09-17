@@ -30,7 +30,7 @@
 * Rajhans, Akshay (Mathworks, USA)
 * Ruchkin, Ivan (University of Florida, USA)
 * Saoda, Nurani (University of Illinois Urbana-Champaign, USA)
-* Scharbarg, Jean-Luc
+* Scharbarg, Jean-Luc (IRIT, France)
 * Tabuada, Paulo (University of California – Los Angeles, USA)
 * Tippenhauer, Nils Ole (CISPA, Germany)
 * Trivedi, Ashutosh (University of Colorado, USA)

@@ -29,3 +29,15 @@ Ma, Meiyi | Stankovic, John A. | Bartocci, Ezio | Feng, Lu
 Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Nickovic, Dejan
 * DOI: [10.1145/3609394](https://doi.org/10.1145/3609394)
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### A Tree-Shaped Tableau for Checking the Satisfiability of Signal Temporal Logic with Bounded Temporal Operators
+Melani, Beatrice | Bartocci, Ezio | Chiari, Michele
+* DOI: [10.1145/3759917](https://doi.org/10.1145/3759917)
+* URL: <https://arxiv.org/abs/2507.21598>
+
+### Cumulative-Time Signal Temporal Logic
+Chen, Hongkai | Zhang, Zeyu | Roy, Shouvik | Bartocci, Ezio | Smolka, Scott | Stoller, Scott D. | Lin, Shan
+* DOI: [10.1145/3763237](https://doi.org/10.1145/3763237)
+* URL: <https://arxiv.org/abs/2504.10325>
+

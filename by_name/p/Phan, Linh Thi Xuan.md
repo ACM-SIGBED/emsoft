@@ -30,3 +30,15 @@ Loveless, Andrew | Phan, Linh Thi Xuan | Erickson, Lisa | Dreslinski, Ronald | K
 * DOI: [10.1145/3609436](https://doi.org/10.1145/3609436)
 * URL: <https://www.cis.upenn.edu/~linhphan/papers/crosstalk-emsoft2023.pdf>
 
+## EMSOFT 2025: 25th International Conference on Embedded Software
+
+### Quasi-Static Scheduling for Deterministic Timed Concurrent Models on Multi-Core Hardware
+Lin, Shaokai | Jellum, Erling | Theile, Mirco | Tanneberger, Tassilo | Sun, Binqi | Jerad, Chadlia | Xu, Ruomu | Feng, Guangyu | Mæhlum, Magnus | Schoeberl, Martin | Phan, Linh Thi Xuan | Castrillon, Jeronimo | Seshia, Sanjit A. | Lee, Edward A.
+* DOI: [10.1145/3762653](https://doi.org/10.1145/3762653)
+* URL: <https://dl.acm.org/doi/10.1145/3762653>
+
+### Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore
+Eisenklam, Abigail | Gifford, Robert | Bondar, Georgiy A. | Cai, Yifan | Sial, Tushar | Phan, Linh Thi Xuan | Halder, Abhishek
+* DOI: [10.1145/3761814](https://doi.org/10.1145/3761814)
+* URL: <https://dl.acm.org/doi/10.1145/3761814>
+
