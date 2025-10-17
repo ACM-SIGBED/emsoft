@@ -25,7 +25,7 @@
 * Hasuo, Ichiro (National Institute of Informatics, Japan)
 * Hugues, Jérôme (Carnegie Mellon University, USA)
 * Jeannin, Jean-Baptiste (University of Michigan, USA)
-* Johnson, Taylor (Vanderbilt University, USA)
+* Johnson, Taylor T. (Vanderbilt University, USA)
 * Kim, Hokeun (Arizona State University, USA)
 * Kim, Hanjun (Yonsei University, South Korea)
 * Kritikakou, Angeliki (IRISA, France)

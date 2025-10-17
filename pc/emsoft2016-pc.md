@@ -27,7 +27,7 @@
 * Guan, Nan
 * Härtig, Hermann
 * Heitmeyer, Connie
-* Johnson, Taylor
+* Johnson, Taylor T.
 * Koutsoukos, Xenofon D.
 * Kuo, Tei-Wei
 * Li, Xuandong

@@ -25,7 +25,7 @@
 * Ivancic, Franjo (Google, USA)
 * Jha, Susmit (SRI International, USA)
 * Jin, Xiaoqing (Decyphir, USA)
-* Johnson, Taylor (Vanderbilt University, USA)
+* Johnson, Taylor T. (Vanderbilt University, USA)
 * Koutsoukos, Xenofon D. (Vanderbilt University, USA)
 * Kumar, Pratyush (IIT Madras, India)
 * Lee, Edward A. (UC Berkeley, USA)

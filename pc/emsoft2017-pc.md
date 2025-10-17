@@ -20,7 +20,7 @@
 * Geilen, Marc (Technical University Eindhoven, The Netherlands)
 * Grosu, Radu (Technische Universität Wien, Austria)
 * Guan, Nan (Hong Kong Polytechnic University, China)
-* Johnson, Taylor (Vanderbilt University, USA)
+* Johnson, Taylor T. (Vanderbilt University, USA)
 * Kapinski, James (Toyota Technical Center, USA)
 * Kim, Hyoseung (University of California at Riverside, USA)
 * Kirsch, Christoph M. (University of Salzburg, Austria)

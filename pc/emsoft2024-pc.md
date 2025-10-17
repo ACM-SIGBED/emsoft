@@ -25,7 +25,7 @@
 * Hamann, Arne (Bosch Gmbh, Germany)
 * Jeannin, Jean-Baptiste (University of Michigan, USA)
 * Jiang, Yu (Tsinghua University, China)
-* Johnson, Taylor (Vanderbilt University, USA)
+* Johnson, Taylor T. (Vanderbilt University, USA)
 * Kim, Hanjun (Yonsei University, South Korea)
 * Kritikakou, Angeliki (University of Rennes 1, France)
 * Liu, Cong (University of California Riverside, USA)
