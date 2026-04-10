@@ -1,36 +1,36 @@
 # EMSOFT 2013: 13th ACM SIGBED International Conference on Embedded Software
-* Ernst, Rolf
-* Sokolsky, Oleg
-* Alur, Rajeev
-* Chakraborty, Samarjit
-* de Niz, Dionisio
-* de Simone, Robert
-* Edwards, Stephen A.
-* Eles, Petru
-* Fischmeister, Sebastian
-* Fränzle, Martin
-* Gill, Christopher D.
-* Halbwachs, Nicolas
-* Hamann, Arne
-* Heiser, Gernot
-* Hugues, Jérôme
-* Kang, Soon Ju
-* Karsai, Gabor
-* Kirsch, Christoph M.
-* Kuo, Tei-Wei
-* Lawford, Mark
-* Lee, Edward A.
-* Mangharam, Rahul
-* Medina, Julio
-* Ramesh, S.
-* Regehr, John
-* Falk, Heiko
-* Shin, Insik
-* Tabuada, Paulo
-* Taha, Walid
-* Takada, Hiroaki
-* Talpin, Jean-Pierre
-* Thiele, Lothar
-* Tripakis, Stavros
-* Whalen, Mike
-* Yi, Wang
+* Ernst, Rolf (Technical University of Braunschweig, Germany)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Chakraborty, Samarjit (Technical University of Munich, Germany)
+* de Niz, Dionisio (Software Engineering Institute, USA)
+* de Simone, Robert (INRIA, France)
+* Edwards, Stephen A. (Columbia University, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Fränzle, Martin (University of Oldenburg, Germany)
+* Gill, Christopher D. (Washington University, St. Louis, USA)
+* Halbwachs, Nicolas (VERIMAG, France)
+* Hamann, Arne (Bosch, Germany)
+* Heiser, Gernot (NICTA, Australia)
+* Hugues, Jérôme (ISAE, France)
+* Kang, Soon Ju (Kyungpook National University, Korea)
+* Karsai, Gabor (Vanderbilt University, USA)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Lawford, Mark (McMaster University, Canada)
+* Lee, Edward A. (University of California, Berkeley, USA)
+* Mangharam, Rahul (University of Pennsylvania, USA)
+* Medina, Julio (University of Cantabria, Spain)
+* Ramesh, S. (General Motors, USA)
+* Regehr, John (University of Utah, USA)
+* Falk, Heiko (University of Ulm, Germany)
+* Shin, Insik (KAIST, Korea)
+* Tabuada, Paulo (University of California, Los Angeles, USA)
+* Taha, Walid (Rice University, USA)
+* Takada, Hiroaki (Nagoya University, Japan)
+* Talpin, Jean-Pierre (INRIA, France)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Tripakis, Stavros (University of California, Berkeley, USA)
+* Whalen, Mike (University of Minnesota, USA)
+* Yi, Wang (Uppsala University, Sweden)

@@ -1,39 +1,39 @@
 # EMSOFT 2010: 10th ACM SIGBED International Conference on Embedded Software
-* Carloni, Luca P.
-* Tripakis, Stavros
-* Alur, Rajeev
-* Baras, John
-* Bozorgzadeh, Elaheh
-* Butts, Ken
-* Cohen, Albert
-* de Simone, Robert
-* Edwards, Stephen A.
-* Ernst, Rolf
-* Fischmeister, Sebastian
-* Gamatié, Abdoulaye
-* Geilen, Marc
-* Halbwachs, Nicolas
-* Hamon, Grégoire
-* Jonsson, Bengt
-* Kirsch, Christoph M.
-* Kopetz, Hermann
-* Kuo, Tei-Wei
-* Lee, Edward A.
-* Min, Sang Lyul
-* Mitra, Tulika
-* Pappas, George J.
-* Pasareanu, Corina
-* Pinto, Alessandro
-* Rabbah, Rodric
-* Ramesh, S.
-* Ruggiero, Martino
-* Seshia, Sanjit A.
-* Shin, Insik
-* Soudris, Dimitrios
-* Srikant, Y. N.
-* Sztipanovits, Janos
-* Tabuada, Paulo
-* Taha, Walid
-* Thiele, Lothar
-* von Hanxleden, Reinhard
-* Wilhelm, Reinhard
+* Carloni, Luca P. (Columbia University, USA)
+* Tripakis, Stavros (University of California, Berkeley, USA)
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Baras, John (University of Maryland, USA)
+* Bozorgzadeh, Elaheh (UC Irvine, USA)
+* Butts, Ken (Toyota, USA)
+* Cohen, Albert (INRIA, France)
+* de Simone, Robert (INRIA, France)
+* Edwards, Stephen A. (Columbia University, USA)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Gamatié, Abdoulaye (CNRS LIFL, France)
+* Geilen, Marc (TU Eindhoven, The Netherlands)
+* Halbwachs, Nicolas (VERIMAG, France)
+* Hamon, Grégoire (Mathworks, USA)
+* Jonsson, Bengt (Uppsala University, Sweden)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Kopetz, Hermann (TU Vienna, Austria)
+* Kuo, Tei-Wei (NTU, Taiwan)
+* Lee, Edward A. (UC Berkeley, USA)
+* Min, Sang Lyul (SNU, Korea)
+* Mitra, Tulika (NU Singapore, Singapore)
+* Pappas, George J. (University of Pennsylvania, USA)
+* Pasareanu, Corina (NASA Ames, USA)
+* Pinto, Alessandro ( UTRC, USA)
+* Rabbah, Rodric (IBM, USA)
+* Ramesh, S. (General Motors, India)
+* Ruggiero, Martino (EPFL, Switzerland)
+* Seshia, Sanjit A. (UC Berkeley, USA)
+* Shin, Insik (KAIST, Korea)
+* Soudris, Dimitrios (NTU Athens, Greece)
+* Srikant, Y. N. (Indian Institute of Science, India)
+* Sztipanovits, Janos (Vanderbilt University, USA)
+* Tabuada, Paulo (UCLA, USA)
+* Taha, Walid (Rice University, USA)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* von Hanxleden, Reinhard (Kiel University, Germany)
+* Wilhelm, Reinhard (Saarland University, Germany)

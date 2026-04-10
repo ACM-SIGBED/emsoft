@@ -1,40 +1,40 @@
 # EMSOFT 2015: 15th ACM SIGBED International Conference on Embedded Software
-* Girault, Alain
-* Guan, Nan
-* Abdelzaher, Tarek
-* Årzén, Karl-Erik
-* Baruah, Sanjoy K.
-* Bourke, Timothy
-* Brandenburg, Björn B.
-* Chakraborty, Samarjit
-* Chen, Wenguang
-* Derler, Patricia
-* Edwards, Stephen A.
-* Eles, Petru
-* Ernst, Rolf
-* Geilen, Marc
-* von Hanxleden, Reinhard
-* Heitmeyer, Connie
-* Härtig, Hermann
-* Kato, Shinpei
-* Kuo, Tei-Wei
-* Lee, Edward A.
-* Li, Xuandong
-* Lipari, Giuseppe
-* Mandel, Louis
-* Maraninchi, Florence
-* Mitra, Tulika
-* Pajic, Miroslav
-* Palopoli, Luigi
-* Phan, Linh Thi Xuan
-* Reineke, Jan
-* Roop, Partha S.
-* Roychoudhury, Abhik
-* Shukla, Sandeep
-* de Simone, Robert
-* Sokolsky, Oleg
-* Shrivastava, Aviral
-* Xu, Wenyao
-* Xue, Chun Jason
-* Xue, Jingling
-* Yovine, Sergio
+* Girault, Alain (INRIA, France)
+* Guan, Nan (Northeastern University, China)
+* Abdelzaher, Tarek (University of Illinois at Urbana Champaign, USA)
+* Årzén, Karl-Erik (Lunds Universitet, Sweden)
+* Baruah, Sanjoy K. (University of North Carolina at Chapel Hill, USA)
+* Bourke, Timothy (École Normale Supérieure, France)
+* Brandenburg, Björn B. (MPI-SWS, Germany)
+* Chakraborty, Samarjit (TU München, Germany)
+* Chen, Wenguang (Tsinghua University, China)
+* Derler, Patricia (University of California at Berkeley, USA)
+* Edwards, Stephen A. (Columbia University, USA)
+* Eles, Petru (Linköpings Universitet, Sweden)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Geilen, Marc (Eindhoven University of Technology, The Netherlands)
+* von Hanxleden, Reinhard (Christian-Albrechts-University Kiel, Germany)
+* Heitmeyer, Connie (US Naval Research Laboratory, USA)
+* Härtig, Hermann (TU Dresden, Germany)
+* Kato, Shinpei (Nagoya University, Japan)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Lee, Edward A. (University of California at Berkeley, USA)
+* Li, Xuandong (Nanjing Univeristy, China)
+* Lipari, Giuseppe (Scuola Superiore Sant'Anna, Italy)
+* Mandel, Louis (IBM Research, USA)
+* Maraninchi, Florence (Univ. Grenoble Alpes, Verimag, France)
+* Mitra, Tulika (National University of Singapore, Singapore)
+* Pajic, Miroslav (University of Pennsylvania, US)
+* Palopoli, Luigi (University of Trento, Italy)
+* Phan, Linh Thi Xuan (University of Pennsylvania, USA)
+* Reineke, Jan (Saarland University, Germany)
+* Roop, Partha S. (The University of Auckland, New Zealand)
+* Roychoudhury, Abhik (National University of Singapore, Singapore)
+* Shukla, Sandeep (Virginia Tech, USA)
+* de Simone, Robert (INRIA, France)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Shrivastava, Aviral (Arizona State University, USA)
+* Xu, Wenyao (The State University of New York at Buffalo, USA)
+* Xue, Chun Jason (City University of Hong Kong, China)
+* Xue, Jingling (University of New South Wales, Australia)
+* Yovine, Sergio (University of Buenos Aires, Argentina)

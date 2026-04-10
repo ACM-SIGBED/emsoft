@@ -1,54 +1,54 @@
 # EMSOFT 2016: 16th ACM SIGBED International Conference on Embedded Software
-* Eles, Petru
-* Mangharam, Rahul
-* Abeni, Luca
-* Almeida, Luís
-* Årzén, Karl-Erik
-* Baruah, Sanjoy K.
-* Bini, Enrico
-* Bogdan, Paul
-* Bourke, Timothy
-* Brandenburg, Björn B.
-* Broman, David
-* Chattopadhyay, Sudipta
-* Chen, Wenguang
-* Cleaveland, Rance
-* Dang, Thao
-* de Simone, Robert
-* Derler, Patricia
-* Deshmukh, Jyotirmoy V.
-* Edwards, Stephen A.
-* Ernst, Rolf
-* Falk, Heiko
-* Fischmeister, Sebastian
-* Geilen, Marc
-* Girault, Alain
-* Grosu, Radu
-* Guan, Nan
-* Härtig, Hermann
-* Heitmeyer, Connie
-* Johnson, Taylor T.
-* Koutsoukos, Xenofon D.
-* Kuo, Tei-Wei
-* Li, Xuandong
-* Mandel, Louis
-* Maraninchi, Florence
-* Mitra, Tulika
-* Mossé, Daniel
-* Pajic, Miroslav
-* Palopoli, Luigi
-* Phan, Linh Thi Xuan
-* Roop, Partha S.
-* Rowe, Anthony
-* Sankaranarayanan, Sriram
-* Shrivastava, Aviral
-* Shukla, Sandeep
-* Slomka, Frank
-* Sokolsky, Oleg
-* Tripakis, Stavros
-* von Hanxleden, Reinhard
-* Xu, Wenyao
-* Xue, Chun Jason
-* Xue, Jingling
-* Yi, Wang
-* Yovine, Sergio
+* Eles, Petru (Linköping University, Sweden)
+* Mangharam, Rahul (University of Pennsylvania, USA)
+* Abeni, Luca (University of Trento, Italy)
+* Almeida, Luís (University of Porto, Portugal)
+* Årzén, Karl-Erik (Lunds Universitet, Sweden)
+* Baruah, Sanjoy K. (University of North Carolina at Chapel Hill, USA)
+* Bini, Enrico (Scuola Superiore Sant'Anna, Italy)
+* Bogdan, Paul (University of Southern California, USA)
+* Bourke, Timothy (École Normale Supérieure, France)
+* Brandenburg, Björn B. (MPI-SWS, Germany)
+* Broman, David (KTH Royal Institute of Technology, Sweden)
+* Chattopadhyay, Sudipta (Saarland University, Germany)
+* Chen, Wenguang (Tsinghua University, China)
+* Cleaveland, Rance (University of Maryland, USA)
+* Dang, Thao (Verimag, France)
+* de Simone, Robert (INRIA, France)
+* Derler, Patricia (National Instruments Berkeley, USA)
+* Deshmukh, Jyotirmoy V. (Toyota Technical Center, USA)
+* Edwards, Stephen A. (Columbia University, USA)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Falk, Heiko (Hamburg University of Technology, Germany)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Geilen, Marc (Eindhoven University of Technology, The Netherlands)
+* Girault, Alain (INRIA, France)
+* Grosu, Radu (Vienna University of Technology, Austria)
+* Guan, Nan (Northeastern University, China)
+* Härtig, Hermann (TU Dresden, Germany)
+* Heitmeyer, Connie (US Naval Research Laboratory, USA)
+* Johnson, Taylor T. (University of Texas at Arlington, USA)
+* Koutsoukos, Xenofon D. (Vanderbilt University, USA)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Li, Xuandong (Nanjing Univeristy, China)
+* Mandel, Louis (IBM Research, USA)
+* Maraninchi, Florence (Univ. Grenoble Alpes, Verimag, France)
+* Mitra, Tulika (National University of Singapore, Singapore)
+* Mossé, Daniel (University of Pittsburgh, USA)
+* Pajic, Miroslav (Duke University, USA)
+* Palopoli, Luigi (University of Trento, Italy)
+* Phan, Linh Thi Xuan (University of Pennsylvania, USA)
+* Roop, Partha S. (The University of Auckland, New Zealand)
+* Rowe, Anthony (Carnegie Mellon University, USA)
+* Sankaranarayanan, Sriram (University of Colorado Boulder, USA)
+* Shrivastava, Aviral (Arizona State University, USA)
+* Shukla, Sandeep (IIT Kanpur, India)
+* Slomka, Frank (Ulm University, Germany)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Tripakis, Stavros (Aalto University, Finland, and UC Berkeley, USA)
+* von Hanxleden, Reinhard (Christian-Albrechts-University Kiel, Germany)
+* Xu, Wenyao (The State University of New York at Buffalo, USA)
+* Xue, Chun Jason (City University of Hong Kong, China)
+* Xue, Jingling (University of New South Wales, Australia)
+* Yi, Wang (Uppsala University, Sweden)
+* Yovine, Sergio (University of Buenos Aires, Argentina)

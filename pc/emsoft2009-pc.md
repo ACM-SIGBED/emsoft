@@ -1,33 +1,33 @@
 # EMSOFT 2009: 9th ACM SIGBED International Conference on Embedded Software
-* Chakraborty, Samarjit
-* Halbwachs, Nicolas
-* Alur, Rajeev
-* Bacon, David F.
-* Bouyer, Patricia
-* Bozorgzadeh, Elaheh
-* Carloni, Luca P.
-* Chou, Pai
-* David, Vincent
-* de Simone, Robert
-* Dutt, Nikil D.
-* Eles, Petru
-* Ernst, Rolf
-* Fischmeister, Sebastian
-* Inverardi, Paola
-* Jonsson, Bengt
-* Kirsch, Christoph M.
-* Kuo, Tei-Wei
-* Lee, Edward A.
-* Maraninchi, Florence
-* Marwedel, Peter
-* Min, Sang Lyul
-* Mok, Aloysius K.
-* Panda, Preeti Ranjan
-* Pappas, George J.
-* Pasareanu, Corina
-* Ramesh, S.
-* Regehr, John
-* Teich, Jürgen
-* Vardanega, Tullio
-* Venkataramani, Girish
-* Wilhelm, Reinhard
+* Chakraborty, Samarjit (TU Munich, Germany)
+* Halbwachs, Nicolas (Verimag/CNRS, Grenoble, France)
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Bacon, David F. (IBM , USA)
+* Bouyer, Patricia (LSV, ENS-Cachan, France)
+* Bozorgzadeh, Elaheh (UC Irvine, USA)
+* Carloni, Luca P. (Columbia University, USA)
+* Chou, Pai (UC Irvine, USA)
+* David, Vincent (CEA-LIST, France)
+* de Simone, Robert (Inria, France)
+* Dutt, Nikil D. (UC Irvine, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Inverardi, Paola (University of L'Aquila, Italy)
+* Jonsson, Bengt (Uppsala University, Sweden)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Kuo, Tei-Wei (NTU, Taiwan)
+* Lee, Edward A. (UC Berkeley, USA)
+* Maraninchi, Florence (Verimag/Grenoble-INP, France)
+* Marwedel, Peter (TU Dortmund, Germany)
+* Min, Sang Lyul (SNU, Korea)
+* Mok, Aloysius K. (U. Texas Austin, USA)
+* Panda, Preeti Ranjan (IIT Dehli, India)
+* Pappas, George J. (University of Pennsylvania, USA)
+* Pasareanu, Corina (NASA Ames, USA)
+* Ramesh, S. (General Motors, Bangalore, India)
+* Regehr, John (University of Utah, USA)
+* Teich, Jürgen (Erlangen-Nuremberg, Germany)
+* Vardanega, Tullio (University of Padova, Italy)
+* Venkataramani, Girish (Mathworks, Boston, USA)
+* Wilhelm, Reinhard (Saarland University, Germany)

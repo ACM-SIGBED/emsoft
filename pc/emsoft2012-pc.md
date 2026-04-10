@@ -1,31 +1,31 @@
 # EMSOFT 2012: 12th ACM SIGBED International Conference on Embedded Software
-* Maraninchi, Florence
-* Regehr, John
-* Anderson, James H.
-* Bhaduri, Purandar
-* Challen, Geoff
-* Cuoq, Pascal
-* Edwards, Stephen A.
-* Eles, Petru
-* Falk, Heiko
-* Fohler, Gerhard
-* Fränzle, Martin
-* Gamatié, Abdoulaye
-* Gill, Christopher D.
-* Lee, Edward A.
-* Lipari, Giuseppe
-* Mangharam, Rahul
-* Norrish, Michael
-* Parmer, Gabriel
-* Pouzet, Marc
-* Schmid, Thomas
-* Shin, Insik
-* Ramesh, S.
-* Sokolsky, Oleg
-* Thiele, Lothar
-* Tripakis, Stavros
-* von Hanxleden, Reinhard
-* Wagner, Flavio
-* Wilhelm, Reinhard
-* Whitehouse, Kamin
-* Yi, Wang
+* Maraninchi, Florence (Grenoble INP/Ensimag & VERIMAG, France)
+* Regehr, John (School of Computing, University of Utah, USA)
+* Anderson, James H. (University of North Carolina at Chapel Hill, USA)
+* Bhaduri, Purandar (Indian Institute of Technology Guwahati, India)
+* Challen, Geoff (State University of New York, Buffalo, USA)
+* Cuoq, Pascal (CEA LIST, Paris, France)
+* Edwards, Stephen A. (Columbia University, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Falk, Heiko (Ulm University, Germany)
+* Fohler, Gerhard (TU Kaiserslautern, Germany)
+* Fränzle, Martin (Oldenburg University, Germany)
+* Gamatié, Abdoulaye (LIFL/CNRS, France)
+* Gill, Christopher D. (Washington University in St. Louis, USA)
+* Lee, Edward A. (UC Berkeley, USA)
+* Lipari, Giuseppe (Scuola Superiore Sant'Anna, Italy)
+* Mangharam, Rahul (University of Pennsylvania, USA)
+* Norrish, Michael (NICTA, Australia)
+* Parmer, Gabriel (George Washington University, USA)
+* Pouzet, Marc (ENS Paris, France)
+* Schmid, Thomas (University of Utah, USA)
+* Shin, Insik (KAIST, Korea)
+* Ramesh, S. (General Motors Global R&D, India/USA)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Tripakis, Stavros (UC Berkeley, USA)
+* von Hanxleden, Reinhard (Kiel University, Germany)
+* Wagner, Flavio (UFRGS, Brazil)
+* Wilhelm, Reinhard (Saarland University, Germany)
+* Whitehouse, Kamin (University of Virginia, USA)
+* Yi, Wang (Uppsala University, Sweden)

@@ -13,6 +13,7 @@ Günzel, Mario | von der Brüggen, Georg | Chen, Jian-Jia
 ### Thread Carefully: Preventing Starvation in the ROS 2 Multithreaded Executor
 Teper, Harun | Kuhse, Daniel | Günzel, Mario | von der Brüggen, Georg | Howar, Falk | Chen, Jian-Jia
 * DOI: [10.1109/TCAD.2024.3446865](https://doi.org/10.1109/TCAD.2024.3446865)
+* URL: <https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/EMSOFT/EMSOFT_347_Teper>
 
 ## EMSOFT 2025: 25th International Conference on Embedded Software
 

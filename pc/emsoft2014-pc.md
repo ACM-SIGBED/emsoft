@@ -1,33 +1,33 @@
 # EMSOFT 2014: 14th ACM SIGBED International Conference on Embedded Software
-* Mitra, Tulika
-* Reineke, Jan
-* Bacivarov, Iuliana
-* Baruah, Sanjoy K.
-* Bekooij, Marco Jan Gerrit
-* Carloni, Luca P.
-* Černý, Pavol
-* de Niz, Dionisio
-* de Simone, Robert
-* Edwards, Stephen A.
-* Fischmeister, Sebastian
-* Goswami, Dip
-* Guan, Nan
-* Halbwachs, Nicolas
-* Härtig, Hermann
-* Kirsch, Christoph M.
-* Kuo, Tei-Wei
-* Majumdar, Rupak
-* Maraninchi, Florence
-* Regehr, John
-* Saha, Indranil
-* Sciuto, Donatella
-* Sokolsky, Oleg
-* Srikant, Y. N.
-* Tabuada, Paulo
-* Taha, Walid
-* Talpin, Jean-Pierre
-* Thiele, Lothar
-* Tiwari, Ashish
-* Tripakis, Stavros
-* Weiss, Gera
-* Yi, Wang
+* Mitra, Tulika (National University of Singapore, Singapore)
+* Reineke, Jan (Saarland University, Germany)
+* Bacivarov, Iuliana (ETH Zurich, Switzerland)
+* Baruah, Sanjoy K. (University of North Carolina at Chapel Hill, USA)
+* Bekooij, Marco Jan Gerrit (University of Twente/NXP, The Netherlands)
+* Carloni, Luca P. (Columbia University, USA)
+* Černý, Pavol (University of Colorado Boulder, USA)
+* de Niz, Dionisio (Software Engineering Institute/Carnegie Mellon University, USA)
+* de Simone, Robert (INRIA Sophia-Antipolis, France)
+* Edwards, Stephen A. (Columbia University, USA)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Goswami, Dip (TU Eindhoven, The Netherlands)
+* Guan, Nan (Northeastern University, China)
+* Halbwachs, Nicolas (Verimag, France)
+* Härtig, Hermann (TU Dresden, Germany)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Majumdar, Rupak (Max Planck Institute for Software Systems, Germany)
+* Maraninchi, Florence (Verimag, France)
+* Regehr, John (University of Utah, USA)
+* Saha, Indranil (UC Berkeley/University of Pennsylvania, USA)
+* Sciuto, Donatella (POLIMI, Italy)
+* Sokolsky, Oleg (University of Pennsylvania, USA)
+* Srikant, Y. N. (Indian Institute of Science, India)
+* Tabuada, Paulo (UCLA, USA)
+* Taha, Walid (Halmstad University, Sweden)
+* Talpin, Jean-Pierre (INRIA Rennes, France)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Tiwari, Ashish (SRI International, USA)
+* Tripakis, Stavros (Aalto University/UC Berkeley, USA)
+* Weiss, Gera (Ben-Gurion University, Israel)
+* Yi, Wang (Uppsala University, Sweden)

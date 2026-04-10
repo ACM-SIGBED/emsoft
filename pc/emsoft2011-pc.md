@@ -1,34 +1,34 @@
 # EMSOFT 2011: 11th ACM SIGBED International Conference on Embedded Software
-* Baruah, Sanjoy K.
-* Fischmeister, Sebastian
-* Abdelzaher, Tarek
-* Almeida, Luís
-* Baker, Ted
-* Bhaduri, Purandar
-* Bini, Enrico
-* Burns, Alan
-* Carloni, Luca P.
-* de Simone, Robert
-* Edwards, Stephen A.
-* Ernst, Rolf
-* Fröhlich, Antônio Augusto
-* Halbwachs, Nicolas
-* Heiser, Gernot
-* Kim, Jihong
-* Kirsch, Christoph M.
-* Larsen, Kim Guldstrand
-* Lee, Edward A.
-* Lee, Insup
-* Lu, Chenyang
-* Maibaum, T. S. E.
-* Ramaprasad, Harini
-* Ramesh, S.
-* Ren, Shangping
-* Shao, Zili
-* Shih, Chi-Sheng
-* Sztipanovits, Janos
-* Thiele, Lothar
-* Tripakis, Stavros
-* Vitek, Jan
-* Wilhelm, Reinhard
-* Yi, Wang
+* Baruah, Sanjoy K. (University of North Carolina at Chapel Hill, USA)
+* Fischmeister, Sebastian (University of Waterloo, Canada)
+* Abdelzaher, Tarek (University of Illinois Urbana-Champaign, USA)
+* Almeida, Luís (University of Porto, Portugal)
+* Baker, Ted (Florida State Univerity, USA)
+* Bhaduri, Purandar (Indian Institute of Technology, India)
+* Bini, Enrico (Scuola Superiore Santa Anna, Italy)
+* Burns, Alan (University of York, UK)
+* Carloni, Luca P. (Columbia University, USA)
+* de Simone, Robert (INRIA, France)
+* Edwards, Stephen A. (Columbia University, USA)
+* Ernst, Rolf (TU Braunschweig, Germany)
+* Fröhlich, Antônio Augusto (UFSC/CTC/LISHA, Brazil)
+* Halbwachs, Nicolas (CNRS, France)
+* Heiser, Gernot (NICTA and University of New South Wales, Australia)
+* Kim, Jihong (Seoul National University, Korea)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Larsen, Kim Guldstrand (Aalborg University, Denmark)
+* Lee, Edward A. (UC Berkeley, USA)
+* Lee, Insup (University of Pennsylvania, USA)
+* Lu, Chenyang (Washington University in St. Louis, USA)
+* Maibaum, T. S. E. (McMaster University, USA)
+* Ramaprasad, Harini (Southern Illinois University, USA)
+* Ramesh, S. (General Motors, India)
+* Ren, Shangping (Illinois Institute. of Technology, USA)
+* Shao, Zili (Hong Kong Polytechnic, China)
+* Shih, Chi-Sheng (National Taiwan University, Taiwan)
+* Sztipanovits, Janos (Vanderbilt University, USA)
+* Thiele, Lothar (ETH Zurich, Switzerland)
+* Tripakis, Stavros (UC Berkeley, USA)
+* Vitek, Jan (Purdue University, USA)
+* Wilhelm, Reinhard (Saarland University, Germany)
+* Yi, Wang (Uppsala University, USA)
