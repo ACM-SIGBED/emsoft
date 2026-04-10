@@ -1,6 +1,6 @@
 # Casini, Daniel
 
-* PCs: 2023 | 2024 | 2025
+* PCs: 2023 | 2024 | 2025 | 2026
 
 ## EMSOFT 2022: 22nd International Conference on Embedded Software
 

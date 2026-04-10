@@ -1,6 +1,6 @@
 # Liu, Cong
 
-* PCs: 2018 | 2021 | 2024
+* PCs: 2018 | 2021 | 2024 | 2026
 
 ## EMSOFT 2005: 5th ACM International Conference on Embedded Software
 

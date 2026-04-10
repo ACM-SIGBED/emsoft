@@ -1,6 +1,6 @@
 # Duggirala, Parasara Sridhar
 
-* PCs: 2020 | 2021
+* PCs: 2020 | 2021 | 2026
 
 ## EMSOFT 2013: 13th International Conference on Embedded Software
 

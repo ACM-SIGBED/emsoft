@@ -1,6 +1,6 @@
 # Bonakdarpour, Borzoo
 
-* PCs: 2018 | 2019 | 2020 | 2024 | 2025 (cochair)
+* PCs: 2018 | 2019 | 2020 | 2024 | 2025 (cochair) | 2026
 
 ## EMSOFT 2008: 8th ACM & IEEE International Conference on Embedded Software
 

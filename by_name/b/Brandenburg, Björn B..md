@@ -1,6 +1,6 @@
 # Brandenburg, Björn B.
 
-* PCs: 2015 | 2016 | 2017 (cochair) | 2018 (chair) | 2020 | 2022 | 2023
+* PCs: 2015 | 2016 | 2017 (cochair) | 2018 (chair) | 2020 | 2022 | 2023 | 2026
 
 ## EMSOFT 2011: 11th International Conference on Embedded Software
 

@@ -1,6 +1,6 @@
 # Guan, Nan
 
-* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+* PCs: 2014 | 2015 (cochair) | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
 
 ## EMSOFT 2009: 9th ACM & IEEE International Conference on Embedded Software
 

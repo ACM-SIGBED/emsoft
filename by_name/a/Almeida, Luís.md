@@ -1,6 +1,6 @@
 # Almeida, Luís
 
-* PCs: 2004 | 2011 | 2016
+* PCs: 2004 | 2011 | 2016 | 2026
 
 ## EMSOFT 2004: 4th ACM International Conference on Embedded Software
 

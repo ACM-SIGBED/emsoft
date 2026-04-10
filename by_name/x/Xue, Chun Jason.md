@@ -1,6 +1,6 @@
 # Xue, Chun Jason
 
-* PCs: 2015 | 2016 | 2019 | 2020 | 2021
+* PCs: 2015 | 2016 | 2019 | 2020 | 2021 | 2026
 
 ## EMSOFT 2011: 11th International Conference on Embedded Software
 

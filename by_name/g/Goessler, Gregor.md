@@ -1,6 +1,6 @@
 # Goessler, Gregor
 
-* PCs: 2019 | 2020 | 2021
+* PCs: 2019 | 2020 | 2021 | 2026
 
 ## EMSOFT 2014: 14th International Conference on Embedded Software
 

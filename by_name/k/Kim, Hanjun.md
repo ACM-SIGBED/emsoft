@@ -1,6 +1,6 @@
 # Kim, Hanjun
 
-* PCs: 2022 | 2023 | 2024 | 2025
+* PCs: 2022 | 2023 | 2024 | 2025 | 2026
 
 ## EMSOFT 2021: 21st International Conference on Embedded Software
 

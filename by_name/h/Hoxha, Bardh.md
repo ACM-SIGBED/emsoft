@@ -1,5 +1,7 @@
 # Hoxha, Bardh
 
+* PCs: 2026
+
 ## EMSOFT 2025: 25th International Conference on Embedded Software
 
 ### STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies

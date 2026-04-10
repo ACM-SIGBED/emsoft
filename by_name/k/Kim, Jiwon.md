@@ -1,5 +1,7 @@
 # Kim, Jiwon
 
+* PCs: 2026
+
 ## EMSOFT 2020: 20th International Conference on Embedded Software
 
 ### Optimizing Discharge Efficiency of Reconfigurable Battery With Deep Reinforcement Learning
