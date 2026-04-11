@@ -1,31 +1,31 @@
 # EMSOFT 2004: 4th ACM SIGBED International Conference on Embedded Software
-* Almeida, Luís
-* Benveniste, Albert
-* Bernat, Guillem
-* Bhattacharyya, Shuvra S.
-* Burns, Alan
-* Caccamo, Marco
-* de Alfaro, Luca
-* Decotignie, Jean-Dominique
-* Edwards, Stephen A.
-* Eles, Petru
-* Fohler, Gerhard
-* Valls, Marisol Garcia
-* González Harbour, Michael
-* Henzinger, Thomas A.
-* Kaiser, Joerg
-* Lee, Edward A.
-* Lee, Insup
-* Lipari, Giuseppe
-* Lo Bello, Lucia
-* Mossé, Daniel
-* Mueller, Frank
-* Puschner, Peter P.
-* Sangiovanni-Vincentelli, Alberto L.
-* Stankovic, John A.
-* Sztipanovits, Janos
-* Taha, Walid
-* Törngren, Martin
-* Tovar, Eduardo
-* Wolf, Wayne H.
-* Yovine, Sergio
+* Almeida, Luís (University of Aveiro, Portugal)
+* Benveniste, Albert (IRISA/INRIA, France)
+* Bernat, Guillem (University of York, UK)
+* Bhattacharyya, Shuvra S. (University of Maryland, USA)
+* Burns, Alan (University of York, UK)
+* Caccamo, Marco (University of Illinois, USA)
+* de Alfaro, Luca (University of California at Santa Cruz, USA)
+* Decotignie, Jean-Dominique (Swiss Center for Microtechnology, Switzerland)
+* Edwards, Stephen A. (Columbia University, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Fohler, Gerhard (Mälardalen University, Sweden)
+* Valls, Marisol Garcia (Universidad Carlos III de Madrid, Spain)
+* González Harbour, Michael (University of Cantabria, Spain)
+* Henzinger, Thomas A. (University of California at Berkeley, USA)
+* Kaiser, Joerg (University of Ulm, Germany)
+* Lee, Edward A. (University of California at Berkeley, USA)
+* Lee, Insup (University of Pennsylvania, USA)
+* Lipari, Giuseppe (Scuola Superiore Sant'Anna, Pisa, Italy)
+* Lo Bello, Lucia (University of Catania, Italy)
+* Mossé, Daniel (Univeristy of Pittsburgh, USA)
+* Mueller, Frank (North Carolina State University, USA)
+* Puschner, Peter P. (Technical University of Vienna, Austria)
+* Sangiovanni-Vincentelli, Alberto L. (University of California at Berkeley, USA)
+* Stankovic, John A. (University of Virginia, USA)
+* Sztipanovits, Janos (Vanderbilt University, USA)
+* Taha, Walid (Rice University, USA)
+* Törngren, Martin (Royal Institute of Technology, Sweden)
+* Tovar, Eduardo (Polytechnic Institute of Porto, Portugal)
+* Wolf, Wayne H. (Princeton University, USA)
+* Yovine, Sergio (Verimag, France)

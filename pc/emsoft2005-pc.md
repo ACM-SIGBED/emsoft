@@ -1,53 +1,54 @@
 # EMSOFT 2005: 5th ACM SIGBED International Conference on Embedded Software
-* Wolf, Wayne H.
-* Bacon, David F.
-* Benveniste, Albert
-* Bernat, Guillem
-* Bhattacharyya, Shuvra S.
-* Burns, Alan
-* Buttazzo, Giorgio
-* Caccamo, Marco
-* Carloni, Luca P.
-* Davidson, Jack W.
-* de Alfaro, Luca
-* Debes, Eric
-* Edwards, Stephen A.
-* Eles, Petru
-* Fohler, Gerhard
-* Fuhrman, Tom
-* Girault, Alain
-* Goodacre, John
-* Hellestrand, Graham R.
-* Henzinger, Thomas A.
-* Hwang, Tai-Yi
-* Imai, Masaharu
-* Jacome, Margarida
-* Johnson, Steven D.
-* Kandemir, Mahmut T.
-* Kirsch, Christoph M.
-* Koopman, Phil
-* Kuo, Tei-Wei
-* Lee, Edward A.
-* Lee, Insup
-* Lin, Steve
-* Loyall, Joseph P.
-* Mossé, Daniel
-* Mueller, Frank
-* Palsberg, Jens
-* Puschner, Peter P.
-* Sangiovanni-Vincentelli, Alberto L.
-* Selic, Bran
-* Shelton, Charles P.
-* Sifakis, Joseph
-* Srivastava, Mani B.
-* Stankovic, John A.
-* Sztipanovits, Janos
-* Taha, Walid
-* Tansley, Stewart
-* Törngren, Martin
-* Veidenbaum, Alexander V.
-* Vestal, Steve
-* Vugranam, Sreedhar
-* Whalley, David B.
-* Wilson, Don
-* Yu, Heather
+* Wolf, Wayne H. (Princeton University, USA)
+* Bacon, David F. (IBM, USA)
+* Benveniste, Albert (IRISA, France)
+* Bernat, Guillem (University of York, UK)
+* Bhattacharyya, Shuvra S. (University of Maryland, USA)
+* Burns, Alan (University of York, UK)
+* Buttazzo, Giorgio (University of Pavia, Italy)
+* Caccamo, Marco (University of Illinois, USA)
+* Carloni, Luca P. (Columbia University, USA)
+* Davidson, Jack W. (University of Virginia, USA)
+* de Alfaro, Luca (UC Santa Cruz, USA)
+* Debes, Eric (Intel, USA)
+* Edwards, Stephen A. (Columbia University, USA)
+* Eles, Petru (Linköping University, Sweden)
+* Fohler, Gerhard (Mälardalen University, USA)
+* Fuhrman, Tom (GM, USA)
+* Girault, Alain (Inria, France)
+* Goodacre, John (ARM, UK)
+* Hellestrand, Graham R. (VaST Systems, USA)
+* Henzinger, Thomas A. (EPFL, Switzerland)
+* Hwang, Tai-Yi (National Tsing Hua University, Taiwan)
+* Imai, Masaharu (Osaka University, Japan)
+* Jacome, Margarida (U Texas, USA)
+* Jerraya, Ahmed Amine (TIMA, France)
+* Johnson, Steven D. (Indiana University, USA)
+* Kandemir, Mahmut T. (Penn State, USA)
+* Kirsch, Christoph M. (Universitat Salzburg, Austria)
+* Koopman, Phil (CMU, USA)
+* Kuo, Tei-Wei (NTU, Taiwan)
+* Lee, Edward A. (UC Berkeley, USA)
+* Lee, Insup (University of Pennsylvania, USA)
+* Lin, Steve (National Tsing Hua University, Taiwan)
+* Loyall, Joseph P. (BBN, USA)
+* Mossé, Daniel (University of Pittsburgh, USA)
+* Mueller, Frank (NC State, USA)
+* Palsberg, Jens (UCLA, USA)
+* Puschner, Peter P. (TU Vienna, Austria)
+* Sangiovanni-Vincentelli, Alberto L. (UC Berkeley, USA)
+* Selic, Bran (IBM, USA)
+* Shelton, Charles P. (Bosch, Germany)
+* Sifakis, Joseph (IMAG, France)
+* Srivastava, Mani B. (UCLA, USA)
+* Stankovic, John A. (University of Virginia, USA)
+* Sztipanovits, Janos (Vanderbilt, USA)
+* Taha, Walid (Rice University, USA)
+* Tansley, Stewart (Microsoft)
+* Törngren, Martin (Royal Institute of Technology, Sweden)
+* Veidenbaum, Alexander V. (UC Irvine, USA)
+* Vestal, Steve (Honeywell, USA)
+* Vugranam, Sreedhar (IBM, USA)
+* Whalley, David B. (Florida State, USA)
+* Wilson, Don (Raytheon, USA)
+* Yu, Heather (Panasonic, USA)

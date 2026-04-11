@@ -1,26 +1,26 @@
 # EMSOFT 2008: 8th ACM SIGBED International Conference on Embedded Software
-* Bacon, David F.
-* Benini, Luca
-* Burns, Alan
-* de Alfaro, Luca
-* Dutt, Nikil D.
-* Ernst, Rolf
-* Gill, Christopher D.
-* Hansson, Hans
-* Kim, Jin-Soo
-* Kirsch, Christoph M.
-* Larsen, Kim Guldstrand
-* Lee, Insup
-* Liu, Jane
-* Melhem, Rami G.
-* Min, Sang Lyul
-* van Ommering, Rob
-* Palsberg, Jens
-* Sangiovanni-Vincentelli, Alberto L.
-* Sifakis, Joseph
-* Sipma, Henny B.
-* Srikant, Y. N.
-* Stavridou-Coleman, Victoria
-* Talpin, Jean-Pierre
-* Tardieu, Olivier
-* Welsh, Matt
+* Bacon, David F. (IBM, USA)
+* Benini, Luca (University of Bologna, Italy)
+* Burns, Alan (University of York, UK)
+* de Alfaro, Luca (University of California, Santa Cruz, USA)
+* Dutt, Nikil D. (University of California, Irvine, USA)
+* Ernst, Rolf (Technical University of Braunschweig, Germany)
+* Gill, Christopher D. (Washington University, St. Louis, Missouri, USA)
+* Hansson, Hans (Malardalen University, Sweden)
+* Kim, Jin-Soo (KAIST, South Korea)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Larsen, Kim Guldstrand (Aalborg University, Denmark)
+* Lee, Insup (University of Pennsylvania, USA)
+* Liu, Jane (National Taiwan University, Taiwan)
+* Melhem, Rami G. (University of Pittsburgh, USA)
+* Min, Sang Lyul (Seoul National University, Korea)
+* van Ommering, Rob (Philips Research Labs, The Netherlands)
+* Palsberg, Jens (University of California, Los Angeles, USA)
+* Sangiovanni-Vincentelli, Alberto L. (University of California, Berkeley, USA)
+* Sifakis, Joseph (Verimag, France)
+* Sipma, Henny B. (Kestrel, USA)
+* Srikant, Y. N. (Indian Institute of Science, Bangalore, India)
+* Stavridou-Coleman, Victoria (Samsung, USA)
+* Talpin, Jean-Pierre (INRIA, France)
+* Tardieu, Olivier (INRIA, Sophia Antipolis, France)
+* Welsh, Matt (Harvard University, USA)

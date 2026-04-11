@@ -1,26 +1,26 @@
 # EMSOFT 2007: 7th ACM SIGBED International Conference on Embedded Software
-* Alur, Rajeev
-* Benini, Luca
-* Benveniste, Albert
-* Brinksma, Ed
-* Carloni, Luca P.
-* Heiser, Gernot
-* Jonsson, Bengt
-* Kirsch, Christoph M.
-* Lee, Jaejin
-* Li, Wei
-* Maraninchi, Florence
-* Mossé, Daniel
-* Palsberg, Jens
-* Pappas, George J.
-* Pop, Paul
-* Ramalingam, G.
-* Regehr, John
-* Srikant, Y. N.
-* Tansley, Stewart
-* Thiagarajan, P.S.
-* Thiele, Lothar
-* Tripakis, Stavros
-* Vaandrager, Frits W.
-* Wilhelm, Reinhard
-* Wolf, Wayne H.
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Benini, Luca (University of Bologna, Italy)
+* Benveniste, Albert (IRISA/INRIA Rennes, France)
+* Brinksma, Ed (Embedded Systems Institute, The Netherlands)
+* Carloni, Luca P. (Columbia University, USA)
+* Heiser, Gernot (NICTA, Australia)
+* Jonsson, Bengt (Uppsala University, Sweden)
+* Kirsch, Christoph M. (University of Salzburg, Austria)
+* Lee, Jaejin (Seoul National University, South Korea)
+* Li, Wei (Beihang University, China)
+* Maraninchi, Florence (VERIMAG, France)
+* Mossé, Daniel (University of Pittsburgh, USA)
+* Palsberg, Jens (UCLA, USA)
+* Pappas, George J. (University of Pennsylvania, USA)
+* Pop, Paul (Linköping University, Sweden)
+* Ramalingam, G. (Microsoft Bangalore, India)
+* Regehr, John (University of Utah, USA)
+* Srikant, Y. N. (Indian Institute of Science Bangalore, India)
+* Tansley, Stewart (Microsoft, Redmond WA, USA)
+* Thiagarajan, P.S. (National University of Singapore)
+* Thiele, Lothar (Swiss Federal Institute of Technology, Switzerland)
+* Tripakis, Stavros (Cadence Labs, USA)
+* Vaandrager, Frits W. (Radboud University, The Netherlands)
+* Wilhelm, Reinhard (University of Saarland, Germany)
+* Wolf, Wayne H. (Princeton University, USA)

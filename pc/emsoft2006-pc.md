@@ -1,38 +1,38 @@
 # EMSOFT 2006: 6th ACM SIGBED International Conference on Embedded Software
-* Alur, Rajeev
-* Brinksma, Ed
-* Carloni, Luca P.
-* Choi, Jin-Young
-* Cleaveland, Rance
-* Edwards, Stephen A.
-* Ge, Yu
-* Hansson, Hans
-* Heiser, Gernot
-* Henzinger, Thomas A.
-* Hermanns, Holger
-* Ji, Wang
-* Jonsson, Bengt
-* Kim, Jesung
-* Kim, Jin-Soo
-* Kim, Tae-Hyung
-* Kuo, Tei-Wei
-* Larsen, Kim Guldstrand
-* Lee, Jaejin
-* Liu, Jane
-* Min, Sang Lyul
-* Oleg, Sokolsky
-* van Ommering, Rob
-* Ramamritham, Krithi
-* Rugina, Radu
-* Sha, Lui
-* Sifakis, Joseph
-* Stuart, Douglas A.
-* Takada, Hiroaki
-* Tansley, Stewart
-* Thiagarajan, P.S.
-* Thiele, Lothar
-* Vaandrager, Frits W.
-* Wilhelm, Reinhard
-* Wu, Zhaohui
-* Zhou, Xingshe
-* Yi, Wang
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Brinksma, Ed (Embedded Systems Institute, The Netherlands)
+* Carloni, Luca P. (Columbia University, USA)
+* Choi, Jin-Young (Korea University, Korea)
+* Cleaveland, Rance (University of Maryland, USA)
+* Edwards, Stephen A. (Columbia University, USA)
+* Ge, Yu (North Eastern University, China)
+* Hansson, Hans (Mälardalen University, Sweden)
+* Heiser, Gernot (NICTA, Australia)
+* Henzinger, Thomas A. (EPFL, Switzerland)
+* Hermanns, Holger (Saarland University, Germany)
+* Ji, Wang (National Lab of Computing, China)
+* Jonsson, Bengt (Uppsala University, Sweden)
+* Kim, Jesung (Mathworks, USA)
+* Kim, Jin-Soo (KAIST, Korea)
+* Kim, Tae-Hyung (Hanyang University, Korea)
+* Kuo, Tei-Wei (National Taiwan University, Taiwan)
+* Larsen, Kim Guldstrand (Aalborg University, Denmark)
+* Lee, Jaejin (Seoul National University, Korea)
+* Liu, Jane (Academia Sinica, Taiwan)
+* Min, Sang Lyul (Seoul National University, Korea)
+* Oleg, Sokolsky (University of Pennsylvania, USA)
+* van Ommering, Rob (Philips Research Lab, The Netherlands)
+* Ramamritham, Krithi (IIT, India)
+* Rugina, Radu (Cornell University, USA)
+* Sha, Lui (University of Illinois, USA)
+* Sifakis, Joseph (Verimag, France)
+* Stuart, Douglas A. (Boeing, USA)
+* Takada, Hiroaki (Nagoya University, Japan)
+* Tansley, Stewart (Microsoft)
+* Thiagarajan, P.S. (National University of Singapore, Singapore)
+* Thiele, Lothar (Swiss Federal Institute of Technology, Switzerland)
+* Vaandrager, Frits W. (Radboud University, The Netherlands)
+* Wilhelm, Reinhard (Saarland University, Germany)
+* Wu, Zhaohui (Zhejiang University, China)
+* Zhou, Xingshe (North West Polytechnic University, China)
+* Yi, Wang (Uppsala University, Sweden)

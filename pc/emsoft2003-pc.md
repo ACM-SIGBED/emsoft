@@ -1,21 +1,21 @@
 # EMSOFT 2003: 3rd ACM SIGBED International Workshop on Embedded Software
-* Alur, Rajeev
-* Benveniste, Albert
-* Buttazzo, Giorgio
-* Ernst, Rolf
-* Hansson, Hans
-* Kim, Kane
-* Kopetz, Hermann
-* Lavagno, Luciano
-* Lee, Edward A.
-* Lee, Insup
-* Malik, Sharad
-* Palsberg, Jens
-* Pnueli, Amir
-* Rinard, Martin C.
-* Shin, Heonshik
-* Shin, Kang G.
-* Stankovic, John A.
-* Sztipanovits, Janos
-* Wolf, Wayne H.
-* Yovine, Sergio
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Benveniste, Albert (IRISA/INRIA, France)
+* Buttazzo, Giorgio (University of Pavia, Italy)
+* Ernst, Rolf (Technical Univ of Braunschweig, Germany)
+* Hansson, Hans (Malardalen University, Sweden)
+* Kim, Kane (University of California at Irvine, USA)
+* Kopetz, Hermann (Technical University of Vienna, Austria)
+* Lavagno, Luciano (Politecnico di Torino, Italy)
+* Lee, Edward A. (University of California at Berkeley, USA)
+* Lee, Insup (University of Pennsylvania, USA)
+* Malik, Sharad (Princeton University, USA)
+* Palsberg, Jens (Purdue University, USA)
+* Pnueli, Amir (Weizmann Institute, Israel and New York University, USA)
+* Rinard, Martin C. (MIT, USA)
+* Shin, Heonshik (Seoul National University, Korea)
+* Shin, Kang G. (University of Michigan, USA)
+* Stankovic, John A. (University of Virginia, USA)
+* Sztipanovits, Janos (Vanderbilt University, USA)
+* Wolf, Wayne H. (Princeton University, USA)
+* Yovine, Sergio (Verimag, France)

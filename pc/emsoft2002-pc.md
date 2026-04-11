@@ -1,18 +1,18 @@
 # EMSOFT 2002: 2nd ACM SIGBED International Workshop on Embedded Software
-* Alur, Rajeev
-* Berry, Gérard
-* Broy, Manfred
-* Henzinger, Thomas A.
-* Jeffay, Kevin
-* Kopetz, Hermann
-* Lee, Edward A.
-* Min, Sang Lyul
-* Rinard, Martin C.
-* Rushby, John M.
-* Sangiovanni-Vincentelli, Alberto L.
-* Sastry, S. Shankar
-* Sifakis, Joseph
-* Stankovic, John A.
-* Thiele, Lothar
-* Wilhelm, Reinhard
-* Sztipanovits, Janos
+* Alur, Rajeev (University of Pennsylvania, USA)
+* Berry, Gérard (Esterel Technologies, France)
+* Broy, Manfred (Technical University of Munchen, Germany)
+* Henzinger, Thomas A. (University of California at Berkeley, USA)
+* Jeffay, Kevin (University of North Carolina, USA)
+* Kopetz, Hermann (Technical University of Vienna, Austria)
+* Lee, Edward A. (University of California at Berkeley, USA)
+* Min, Sang Lyul (Seoul National University, Korea)
+* Rinard, Martin C. (MIT, USA)
+* Rushby, John M. (SRI, USA)
+* Sangiovanni-Vincentelli, Alberto L. (University of California at Berkeley, USA)
+* Sastry, S. Shankar (University of California at Berkeley, USA)
+* Sifakis, Joseph (Verimag, France)
+* Stankovic, John A. (University of Virginia, USA)
+* Thiele, Lothar (ETA, Switzerland)
+* Wilhelm, Reinhard (Universität des Saarlandes, Germany)
+* Sztipanovits, Janos (Vanderbilt University, USA)
