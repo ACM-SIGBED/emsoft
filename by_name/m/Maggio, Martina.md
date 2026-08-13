@@ -20,3 +20,17 @@ Pazzaglia, Paolo | Maggio, Martina
 Vreman, Nils | Maggio, Martina
 * DOI: [10.1145/3609123](https://doi.org/10.1145/3609123)
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Stability and Performance of Control Systems under Probabilistic Logical Execution Time
+Sinnema, Yde | Bini, Enrico | Maggio, Martina
+* DOI: TBA
+
+### Comparing Controller Synthesis Methods with Deadline-Miss Awareness
+Gallant, Melanie | Seide, Marc | Pazzaglia, Paolo | Mandrioli, Claudio | Mark, Christoph | Schmidt, Kevin | Allgöwer, Frank | Maggio, Martina
+* DOI: TBA
+
+### The zeroLET Task Model and its Application to Offset Design Space Exploration
+Wang, Shumo | Bini, Enrico | Deng, Qingxu | Maggio, Martina
+* DOI: TBA
+

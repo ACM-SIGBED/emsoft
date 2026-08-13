@@ -21,3 +21,9 @@ Hosseini, Fateme S. | Meng, Fanruo | Yang, Chengmo | Wen, Wujie | Cammarota, Ros
 * DOI: [10.1145/3477016](https://doi.org/10.1145/3477016)
 * URL: <https://par.nsf.gov/servlets/purl/10296238>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### BLADE: Lightweight Fault Resilient Semantic Segmentation on Hardware Accelerators
+Ordonez, Jhon | Yang, Chengmo
+* DOI: TBA
+

@@ -28,3 +28,9 @@ Baruah, Sanjoy K. | Burns, Alan | Davis, Robert
 * DOI: [10.1145/3609129](https://doi.org/10.1145/3609129)
 * URL: <https://eprints.whiterose.ac.uk/id/eprint/208518/1/3609129.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### On the Utility of Exploiting Hidden Knowledge of Third-Party Classifiers for Faster Classification
+Abdelzaher, Tarek | Baruah, Sanjoy K. | Burns, Alan | Burns, Alan | Hu, Yigong
+* DOI: TBA
+

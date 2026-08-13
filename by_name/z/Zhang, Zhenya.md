@@ -21,3 +21,9 @@ Zhang, Zhenya | Arcaini, Paolo | Hasuo, Ichiro
 Zhang, Zhenya | Arcaini, Paolo | Xie, Xuan
 * DOI: [10.1109/TCAD.2022.3197693](https://doi.org/10.1109/TCAD.2022.3197693)
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Branch and Bound for Relational Verification of Neural Networks
+Fukuda, Kota | Zhang, Zhenya | Zhang, Guanqin | Zhao, Jianjun
+* DOI: TBA
+

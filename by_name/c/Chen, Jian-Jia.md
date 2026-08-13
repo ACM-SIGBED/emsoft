@@ -73,3 +73,9 @@ Heider, Kay | Hakert, Christian | Chen, Kuan-Hsun | Chen, Jian-Jia
 * DOI: [10.1145/3762651](https://doi.org/10.1145/3762651)
 * URL: <https://ris.utwente.nl/ws/portalfiles/portal/504242636/3762651.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### SLIME: Structural Low-Level Implementation Model Extraction
+Hakert, Christian | Günzel, Mario | Chen, Jian-Jia | Craciunas, Silviu S.
+* DOI: TBA
+

@@ -16,3 +16,9 @@ Dang, Thao | Gerner, Philippe
 * DOI: [10.1145/1176887.1176928](https://doi.org/10.1145/1176887.1176928)
 * URL: <http://www-verimag.imag.fr/~tdang/Papers/EMSOFT2006.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Uniform Sampling for Timed Regular Expressions
+Barbot, Benoît | Bartocci, Ezio | Basset, Nicolas | Dang, Thao | Gigler, Felix | Ničković, Dejan
+* DOI: TBA
+

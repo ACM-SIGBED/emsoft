@@ -14,3 +14,9 @@ Yu, Zehong | Su, Zhuo | Yang, Yixiao | Liang, Jie | Jiang, Yu | Cui, Aiguo | Cha
 * DOI: [10.1109/TCAD.2022.3199967](https://doi.org/10.1109/TCAD.2022.3199967)
 * URL: <http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Mercury.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### SECO: Towards Code Compaction for Simulink via Verified Equivalence Extraction
+Yu, Zehong | Su, Zhuo | Yang, Yixiao | Qiu, Haowei | Wang, Rui | Jiang, Yu
+* DOI: TBA
+

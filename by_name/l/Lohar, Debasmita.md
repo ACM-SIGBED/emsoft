@@ -13,3 +13,9 @@ Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
 * DOI: [10.1145/3609118](https://doi.org/10.1145/3609118)
 * URL: <https://diva-portal.org/smash/get/diva2:1809377/FULLTEXT01.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Switch Precision Where It Pays: An Optimal Scheduling Approach for Efficient Control
+Banerjee, Debarpita | Lohar, Debasmita | Ghosh, Sumana
+* DOI: TBA
+

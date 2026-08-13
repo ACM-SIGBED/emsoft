@@ -7,3 +7,9 @@ Monniaux, David
 * DOI: [10.1145/1289927.1289937](https://doi.org/10.1145/1289927.1289937)
 * URL: <https://hal.archives-ouvertes.fr/hal-00158869/document>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Improving Aligned Memory Copies of CompCert
+Bérard, Alexandre | Bonneau, Benjamin | Boulmé, Sylvain | Monniaux, David
+* DOI: TBA
+

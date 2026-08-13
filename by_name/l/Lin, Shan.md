@@ -9,3 +9,9 @@ Chen, Hongkai | Zhang, Zeyu | Roy, Shouvik | Bartocci, Ezio | Smolka, Scott | St
 * DOI: [10.1145/3763237](https://doi.org/10.1145/3763237)
 * URL: <https://arxiv.org/abs/2504.10325>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Spatial Resiliency in Cyber-Physical Systems
+Zhang, Zeyu | Chen, Hongkai | Paoletti, Nicola | Lin, Shan | Smolka, Scott
+* DOI: TBA
+

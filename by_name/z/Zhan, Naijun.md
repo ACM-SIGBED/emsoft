@@ -44,3 +44,17 @@ Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
 * DOI: [Modeling and Analysis of the LatestTime Message Synchronization Policy in ROS](https://doi.org/Modeling and Analysis of the LatestTime Message Synchronization Policy in ROS)
 * URL: <https://lcs.ios.ac.cn/~znj/papers/EMSOFT_2024.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Verified Numerical Semantics and Code Extraction for Simulink
+Qi, Yuzhen | Wang, Shuling | Jin, Xiangyu | Xu, Xiong | Zhan, Naijun
+* DOI: TBA
+
+### Tolerant Barrier Certificates for Stochastic Systems
+Feng, Shenghua | Su, Han | Wu, Hao | An, Jie | Chen, Mingshuai | Zhan, Naijun
+* DOI: TBA
+
+### FAR-STL: Filter-Aware Robust Signal Temporal Logic for Online Monitoring of Cyber-Physical Systems
+Gupta, Supratim | Chatterjee, Sobhan | Zhan, Naijun | Roop, Partha S.
+* DOI: TBA
+

@@ -9,3 +9,9 @@ Sun, Binqi | Zou, Bohua | Hu, Yigong | Kloda, Tomasz | Wang, Ling | Abdelzaher, 
 * DOI: [10.1145/3761813](https://doi.org/10.1145/3761813)
 * URL: <https://dl.acm.org/doi/10.1145/3761813>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### On the Utility of Exploiting Hidden Knowledge of Third-Party Classifiers for Faster Classification
+Abdelzaher, Tarek | Baruah, Sanjoy K. | Burns, Alan | Burns, Alan | Hu, Yigong
+* DOI: TBA
+

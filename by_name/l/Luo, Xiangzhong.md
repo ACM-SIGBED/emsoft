@@ -7,3 +7,13 @@ Ma, Zimo | Luo, Xiangzhong | Song, Qun | Tan, Rui
 * DOI: [10.1145/3762191](https://doi.org/10.1145/3762191)
 * URL: <https://dl.acm.org/doi/10.1145/3762191>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### AdROD: HyperNetwork-based Adversarially Robust Object Detection for Autonomous Driving
+Wu, Yuting | Guo, Dongfang | Luo, Xiangzhong | Song, Qun
+* DOI: TBA
+
+### Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification
+Xiong, Guochu | Luo, Xiangzhong | Liu, Weichen
+* DOI: TBA
+

@@ -7,3 +7,9 @@ Katoen, Joost-Pieter | Wu, Hao
 * DOI: [10.1145/2656045.2656058](https://doi.org/10.1145/2656045.2656058)
 * URL: <https://www.es.ele.tue.nl/sadf/publications/KW14.pdf>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Tolerant Barrier Certificates for Stochastic Systems
+Feng, Shenghua | Su, Han | Wu, Hao | An, Jie | Chen, Mingshuai | Zhan, Naijun
+* DOI: TBA
+

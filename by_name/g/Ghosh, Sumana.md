@@ -19,3 +19,9 @@ Banerjee, Debarpita | Duggirala, Parasara Sridhar | Ghosh, Bineet | Ghosh, Suman
 * DOI: [10.1145/3760528](https://doi.org/10.1145/3760528)
 * URL: <https://dl.acm.org/doi/10.1145/3760528>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Switch Precision Where It Pays: An Optimal Scheduling Approach for Efficient Control
+Banerjee, Debarpita | Lohar, Debasmita | Ghosh, Sumana
+* DOI: TBA
+

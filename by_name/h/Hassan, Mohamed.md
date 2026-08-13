@@ -14,3 +14,9 @@ Abotaleb, Abdelrhman | Hassan, Mohamed
 * DOI: [10.1145/3762647](https://doi.org/10.1145/3762647)
 * URL: <https://dl.acm.org/doi/10.1145/3762647>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### PHiSCo: Predictable, A |High-Performance,  | Scalable and Coherent System, Memory
+Hossam, Mohamed | Hassan, Mohamed
+* DOI: TBA
+

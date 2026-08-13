@@ -6,3 +6,9 @@
 He, Jiatai | Hou, Pengpeng | Yu, Jiageng | Qi, Ji | Sun, Ying | Li, Lijuan | Zhao, Ruilin | Wu, Yanjun
 * DOI: [10.1109/TCAD.2024.3446712](https://doi.org/10.1109/TCAD.2024.3446712)
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### VERA: A Formal Framework for Firmware-First RAS Verification
+Yang, Yeqian | Dai, Hongjun | Yu, Jiageng
+* DOI: TBA
+

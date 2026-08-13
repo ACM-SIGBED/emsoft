@@ -41,3 +41,9 @@ Chen, Hongkai | Zhang, Zeyu | Roy, Shouvik | Bartocci, Ezio | Smolka, Scott | St
 * DOI: [10.1145/3763237](https://doi.org/10.1145/3763237)
 * URL: <https://arxiv.org/abs/2504.10325>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Uniform Sampling for Timed Regular Expressions
+Barbot, Benoît | Bartocci, Ezio | Basset, Nicolas | Dang, Thao | Gigler, Felix | Ničković, Dejan
+* DOI: TBA
+

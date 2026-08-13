@@ -34,3 +34,9 @@ Willemsen, Lars | Günzel, Mario | Brandenburg, Björn B. | von der Brüggen, Ge
 * DOI: [10.1145/3763236](https://doi.org/10.1145/3763236)
 * URL: <https://dl.acm.org/doi/abs/10.1145/3763236>
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### SLIME: Structural Low-Level Implementation Model Extraction
+Hakert, Christian | Günzel, Mario | Chen, Jian-Jia | Craciunas, Silviu S.
+* DOI: TBA
+

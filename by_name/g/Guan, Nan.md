@@ -55,3 +55,9 @@ Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
 Hu, Tao | Cui, Menglong | Lyu, Mingsong | Yang, Tao | Zhou, Yiyang | Deng, Qingxu | Xue, Chun Jason | Guan, Nan
 * DOI: [10.1109/TCAD.2024.3446711](https://doi.org/10.1109/TCAD.2024.3446711)
 
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### RIDE: Runtime-Adaptive Inference Depth for Efficient VLA in Autonomous Driving
+Hu, Haibo | Huang, Lianming | Li, Qiao | Guan, Nan | Xue, Chun Jason
+* DOI: TBA
+
