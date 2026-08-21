@@ -1,6 +1,6 @@
 # Ničković, Dejan
 
-* PCs: 2026
+* PCs: 2025 | 2026
 
 ## EMSOFT 2018: 18th International Conference on Embedded Software
 
@@ -15,6 +15,12 @@ Jakšić, Stefan | Bartocci, Ezio | Grosu, Radu | Ničković, Dejan
 Bartocci, Ezio | Deshmukh, Jyotirmoy | Gigler, Felix | Mateis, Cristinel | Ničković, Dejan | Qin, Xin
 * DOI: [10.1109/TCAD.2020.3012240](https://doi.org/10.1109/TCAD.2020.3012240)
 * URL: <https://par.nsf.gov/servlets/purl/10199915>
+
+## EMSOFT 2023: 23rd International Conference on Embedded Software
+
+### Mining Hyperproperties using Temporal Logics
+Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Ničković, Dejan
+* DOI: [10.1145/3609394](https://doi.org/10.1145/3609394)
 
 ## EMSOFT 2026: 26th International Conference on Embedded Software
 

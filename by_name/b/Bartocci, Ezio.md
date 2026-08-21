@@ -26,7 +26,7 @@ Ma, Meiyi | Stankovic, John A. | Bartocci, Ezio | Feng, Lu
 ## EMSOFT 2023: 23rd International Conference on Embedded Software
 
 ### Mining Hyperproperties using Temporal Logics
-Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Nickovic, Dejan
+Bartocci, Ezio | Mateis, Cristinel | Nesterini, Eleonora | Ničković, Dejan
 * DOI: [10.1145/3609394](https://doi.org/10.1145/3609394)
 
 ## EMSOFT 2025: 25th International Conference on Embedded Software

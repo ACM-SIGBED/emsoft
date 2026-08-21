@@ -22,7 +22,7 @@
 * Mandrioli, Claudio (University of Luxembourg, Luxembourg)
 * Molnos, Anca (CEA, France)
 * Mueller, Frank (North Carolina State University, USA)
-* Nikovi, Dejan (Austrian Institute of Technology, Austria)
+* Ničković, Dejan (Austrian Institute of Technology, Austria)
 * Pajic, Miroslav (Duke University, USA)
 * Pedrielli, Giulia (Arizona State University, USA)
 * Pellizzoni, Rodolfo (University of Waterloo, Canada)
