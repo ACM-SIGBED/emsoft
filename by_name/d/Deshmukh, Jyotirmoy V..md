@@ -34,6 +34,13 @@ Deshmukh, Jyotirmoy V. | Horvat, Marko | Jin, Xiaoqing | Majumdar, Rupak | Prabh
 Kyriakis, Panagiotis | Deshmukh, Jyotirmoy V. | Bogdan, Paul
 * DOI: [10.1145/3358231](https://doi.org/10.1145/3358231)
 
+## EMSOFT 2020: 20th International Conference on Embedded Software
+
+### Mining Shape Expressions From Positive Examples
+Bartocci, Ezio | Deshmukh, Jyotirmoy V. | Gigler, Felix | Mateis, Cristinel | Ničković, Dejan | Qin, Xin
+* DOI: [10.1109/TCAD.2020.3012240](https://doi.org/10.1109/TCAD.2020.3012240)
+* URL: <https://par.nsf.gov/servlets/purl/10199915>
+
 ## EMSOFT 2024: 24th International Conference on Embedded Software
 
 ### Statistical Reachability Analysis of Stochastic Cyber-Physical Systems under Distribution Shift
@@ -47,4 +54,10 @@ Hashemi, Navid | Lindemann, Lars | Deshmukh, Jyotirmoy V.
 Zhao, Yiqi | Yu, Xinyi | Hoxha, Bardh | Fainekos, Georgios | Deshmukh, Jyotirmoy V. | Lindemann, Lars
 * DOI: [10.1145/3760258](https://doi.org/10.1145/3760258)
 * URL: <https://arxiv.org/abs/2507.15147>
+
+## EMSOFT 2026: 26th International Conference on Embedded Software
+
+### Robust Spline-based Planning for Signal Temporal Logic
+Williams, Samuel | Deshmukh, Jyotirmoy V.
+* DOI: TBA
 

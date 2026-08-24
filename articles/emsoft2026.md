@@ -216,6 +216,6 @@ Zhenya, Zhang | Kapoor, Parv | An, Jie | Kang, Eunsuk
 * DOI: TBA
 
 ### Robust Spline-based Planning for Signal Temporal Logic
-Williams, Samuel | Deshmukh, Jyotirmoy
+Williams, Samuel | Deshmukh, Jyotirmoy V.
 * DOI: TBA
 
