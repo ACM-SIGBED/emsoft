@@ -862,13 +862,15 @@ let has_pc a y =
   List.exists (fun (PC { acronym; year; _ }) -> acronym = a && year = y)
 
 let output_author_pcs (confs : conference list) out
-                      { last; first } (Info { pcs; _ }) =
+                      { last; first } (Info { pcs; cochair; chair; _ }) =
   if pcs <> [] then begin
     output_char out '"';
     output_string out last;
     output_string out "\",\"";
     output_string out first;
     output_char out '"';
+    output_string out
+      (",\"" ^ (String.concat "/" (List.map Int.to_string (cochair @ chair))) ^ "\"");
     List.iter (fun ({ acronym = a; year = y; _ } : conference) ->
                 output_string out (if has_pc a y pcs then ",1" else ",0"))
       confs;
@@ -902,7 +904,7 @@ let output_conf_headings out =
 let make_pc_csv out =
   output_bom out;
   let confs = List.(sort by_year !conferences) in
-  output_string out "\"last name\",\"first name\"";
+  output_string out "\"last name\",\"first name\",\"(co-)chair\"";
   output_conf_headings out confs;
   output_char out '\n';
   Hashtbl.iter (output_author_pcs confs out) name_hash
