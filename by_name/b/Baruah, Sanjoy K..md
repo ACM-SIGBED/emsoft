@@ -32,5 +32,5 @@ Baruah, Sanjoy K. | Burns, Alan | Davis, Robert
 
 ### On the Utility of Exploiting Hidden Knowledge of Third-Party Classifiers for Faster Classification
 Abdelzaher, Tarek | Baruah, Sanjoy K. | Burns, Alan | Burns, Alan | Hu, Yigong
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3725976](https://doi.org/10.1109/TCAD.2026.3725976)
 

@@ -4,5 +4,5 @@
 
 ### PACE: Deployment-Time Scheduling Policy Deadline-Aware, for | Adaptive Inference, Intermittent
 Mahdi Gholami, Pouya | Xiang, Mingyuan | Hoffmann, Henry
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3725512](https://doi.org/10.1109/TCAD.2026.3725512)
 

@@ -11,5 +11,5 @@ Matsumoto, Tsubasa | Watanabe, Kazuki | Suenaga, Kohei | Waga, Masaki
 
 ### Specification-Guided Abstraction for Efficient Probabilistic Model Checking
 Matsumoto, Tsubasa | Watanabe, Kazuki | Waga, Masaki
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3724468](https://doi.org/10.1109/TCAD.2026.3724468)
 

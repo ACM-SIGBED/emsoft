@@ -13,5 +13,5 @@ Weiss, Kevin | Rottleuthner, Michel | Schmidt, Thomas C. | Wählisch, Matthias
 
 ### A Power Model of System Clocks to Minimize Energy Consumption on Constrained MCUs
 Rottleuthner, Michel | Schmidt, Thomas C. | Wählisch, Matthias
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3722823](https://doi.org/10.1109/TCAD.2026.3722823)
 

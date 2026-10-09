@@ -4,5 +4,6 @@
 
 ### FAR-STL: Filter-Aware Robust Signal Temporal Logic for Online Monitoring of Cyber-Physical Systems
 Gupta, Supratim | Chatterjee, Sobhan | Zhan, Naijun | Roop, Partha S.
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3725535](https://doi.org/10.1109/TCAD.2026.3725535)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/emsoft2026-FAR-STL.pdf>
 

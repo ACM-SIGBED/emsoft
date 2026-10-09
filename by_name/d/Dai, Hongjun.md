@@ -4,5 +4,5 @@
 
 ### VERA: A Formal Framework for Firmware-First RAS Verification
 Yang, Yeqian | Dai, Hongjun | Yu, Jiageng
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3723139](https://doi.org/10.1109/TCAD.2026.3723139)
 

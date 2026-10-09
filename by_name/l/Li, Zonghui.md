@@ -4,5 +4,5 @@
 
 ### Learning-Guided Integrated Scheduling for ATS-Enabled Time-Sensitive Networking
 Long, Cheng | Li, Zonghui | Huang, Yu | Cui, Jiamin
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3722821](https://doi.org/10.1109/TCAD.2026.3722821)
 

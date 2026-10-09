@@ -11,5 +11,5 @@ Monniaux, David
 
 ### Improving Aligned Memory Copies of CompCert
 Bérard, Alexandre | Bonneau, Benjamin | Boulmé, Sylvain | Monniaux, David
-* DOI: TBA
+* URL: <https://hal.science/hal-05493413v3/document>
 

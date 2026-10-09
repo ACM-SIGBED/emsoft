@@ -4,5 +4,6 @@
 
 ### Verified Numerical Semantics and Code Extraction for Simulink
 Qi, Yuzhen | Wang, Shuling | Jin, Xiangyu | Xu, Xiong | Zhan, Naijun
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727374](https://doi.org/10.1109/TCAD.2026.3727374)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/emsoft2026-Simulink_semantics.pdf>
 

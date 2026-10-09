@@ -11,5 +11,5 @@ Craciunas, Silviu S. | Kirsch, Christoph M. | Sokolova, Ana
 
 ### SLIME: Structural Low-Level Implementation Model Extraction
 Hakert, Christian | Günzel, Mario | Chen, Jian-Jia | Craciunas, Silviu S.
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3728258](https://doi.org/10.1109/TCAD.2026.3728258)
 

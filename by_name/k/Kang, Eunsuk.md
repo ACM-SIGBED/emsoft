@@ -11,5 +11,6 @@ Jackson, Ethan K. | Kang, Eunsuk | Dahlweid, Markus | Seifert, Dirk | Santen, Th
 
 ### Counterexample Classification for Signal Temporal Logic Specifications
 Zhenya, Zhang | Kapoor, Parv | An, Jie | Kang, Eunsuk
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727366](https://doi.org/10.1109/TCAD.2026.3727366)
+* URL: <https://arxiv.org/pdf/2601.13743>
 

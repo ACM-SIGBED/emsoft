@@ -48,13 +48,16 @@ Wu, Chenhao | Li, Ruoxiang | Zhan, Naijun | Guan, Nan
 
 ### Verified Numerical Semantics and Code Extraction for Simulink
 Qi, Yuzhen | Wang, Shuling | Jin, Xiangyu | Xu, Xiong | Zhan, Naijun
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727374](https://doi.org/10.1109/TCAD.2026.3727374)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/emsoft2026-Simulink_semantics.pdf>
 
 ### Tolerant Barrier Certificates for Stochastic Systems
 Feng, Shenghua | Su, Han | Wu, Hao | An, Jie | Chen, Mingshuai | Zhan, Naijun
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727390](https://doi.org/10.1109/TCAD.2026.3727390)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/emsoft2026-unsafe_tolerant_barrier_certificates_for_stochastic_systems__no_app__revise_%20(2).pdf>
 
 ### FAR-STL: Filter-Aware Robust Signal Temporal Logic for Online Monitoring of Cyber-Physical Systems
 Gupta, Supratim | Chatterjee, Sobhan | Zhan, Naijun | Roop, Partha S.
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3725535](https://doi.org/10.1109/TCAD.2026.3725535)
+* URL: <https://lcs.ios.ac.cn/~znj/papers/emsoft2026-FAR-STL.pdf>
 

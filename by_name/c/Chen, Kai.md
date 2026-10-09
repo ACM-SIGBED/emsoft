@@ -11,5 +11,5 @@ Chen, Kai | Sztipanovits, Janos | Neema, Sandeep
 
 ### SqueezeDisk: Bridging High-Ratio Compression and Low-Amplification Decompression in Block Storage
 Zhang, Zhihao | Li, Qiao | Wang, Shiyu | Li, Huiba | Shu, Jiwu | Chen, Kai | Zhang, Yiming
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3724804](https://doi.org/10.1109/TCAD.2026.3724804)
 

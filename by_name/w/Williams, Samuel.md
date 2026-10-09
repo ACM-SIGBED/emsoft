@@ -4,5 +4,5 @@
 
 ### Robust Spline-based Planning for Signal Temporal Logic
 Williams, Samuel | Deshmukh, Jyotirmoy V.
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727395](https://doi.org/10.1109/TCAD.2026.3727395)
 

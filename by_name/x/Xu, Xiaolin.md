@@ -4,5 +4,5 @@
 
 ### ALLI/O IDE: Portable Embedded Programming via Action-based Diagram and Automatic Code Generation
 Narkthong, Nuntipat | Jariyavajee, Chattriya | Xu, Xiaolin
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3729385](https://doi.org/10.1109/TCAD.2026.3729385)
 

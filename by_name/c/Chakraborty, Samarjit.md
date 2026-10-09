@@ -33,5 +33,5 @@ Hobbs, Clara | Ghosh, Bineet | Xu, Shengjie | Duggirala, Parasara Sridhar | Chak
 
 ### Multicore+GPU Scheduling and Job-Level Batching for Real-Time Spectrum Sensing
 Goh, Joseph | Ali, Syed | Carter, Nicholas | Crowder, Sarah | Chakraborty, Samarjit | Ward, Bryan C. | Anderson, James H.
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3724805](https://doi.org/10.1109/TCAD.2026.3724805)
 

@@ -17,5 +17,5 @@ Lohar, Debasmita | Jeangoudoux, Clothilde | Volkova, Anastasia | Darulova, Eva
 
 ### Switch Precision Where It Pays: An Optimal Scheduling Approach for Efficient Control
 Banerjee, Debarpita | Lohar, Debasmita | Ghosh, Sumana
-* DOI: TBA
+* URL: <https://dlohar.github.io/papers/emsoft2026.pdf>
 

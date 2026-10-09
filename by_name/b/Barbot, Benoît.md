@@ -4,5 +4,5 @@
 
 ### Uniform Sampling for Timed Regular Expressions
 Barbot, Benoît | Bartocci, Ezio | Basset, Nicolas | Dang, Thao | Gigler, Felix | Ničković, Dejan
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3728141](https://doi.org/10.1109/TCAD.2026.3728141)
 

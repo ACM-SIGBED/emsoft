@@ -32,5 +32,5 @@ Aghilinasab, Homa | Ali, Waqar | Yun, Heechul | Pellizzoni, Rodolfo
 
 ### A centralized performance monitoring architecture for efficient event processing
 Jafri, Mohammed Sajjad | Rahman, Abdur | Sarkar, Emon | Hassen, Mahdi | Thayyil, Gopishankar | Mani, Ashwin Krishna | Pellizzoni, Rodolfo
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3728284](https://doi.org/10.1109/TCAD.2026.3728284)
 

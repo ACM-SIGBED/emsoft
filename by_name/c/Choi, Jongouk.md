@@ -16,5 +16,6 @@ Choi, Jongouk | Choi, Jaeseok | Joe, Hyunwoo | Jung, Changhee
 
 ### Achieving Speculative Intermittent Computation on Commodity Energy Harvesting Hardware
 Zhang, Yida | Huang, Shao-Yu | Min, Byounguk | Park, Andrew Inho | Fang, Gan | Choi, Jongouk | Jung, Changhee
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3727369](https://doi.org/10.1109/TCAD.2026.3727369)
+* URL: <https://gfang99.github.io/papers/EMSOFT_2026_camera_ready.pdf>
 

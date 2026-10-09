@@ -24,13 +24,14 @@ Vreman, Nils | Maggio, Martina
 
 ### Stability and Performance of Control Systems under Probabilistic Logical Execution Time
 Sinnema, Yde | Bini, Enrico | Maggio, Martina
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3729376](https://doi.org/10.1109/TCAD.2026.3729376)
 
 ### Comparing Controller Synthesis Methods with Deadline-Miss Awareness
 Gallant, Melanie | Seide, Marc | Pazzaglia, Paolo | Mandrioli, Claudio | Mark, Christoph | Schmidt, Kevin | Allgöwer, Frank | Maggio, Martina
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3728133](https://doi.org/10.1109/TCAD.2026.3728133)
+* URL: <https://arxiv.org/pdf/2608.18850>
 
 ### The zeroLET Task Model and its Application to Offset Design Space Exploration
 Wang, Shumo | Bini, Enrico | Deng, Qingxu | Maggio, Martina
-* DOI: TBA
+* DOI: [10.1109/TCAD.2026.3725519](https://doi.org/10.1109/TCAD.2026.3725519)
 
