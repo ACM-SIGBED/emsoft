@@ -1,7 +1,7 @@
 # EMSOFT 2026: 26th International Conference on Embedded Software
 Bonakdarpour, Borzoo | Chang, Li-Pin
 * At: Barcelona, Spain
-* Published: [](https://doi.org/)
+* Published: [IEEE TCAD - vol. TBA](https://doi.org/TBA)
 
 ## Real-Time Scheduling, Timing, and Control
 
